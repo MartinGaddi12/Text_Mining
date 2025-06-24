@@ -1,0 +1,6026 @@
+[
+  {
+    "drug_name": "Abecma",
+    "url": "https://www.drugs.com/abecma.html"
+  },
+  {
+    "drug_name": "Abilify",
+    "url": "https://www.drugs.com/abilify.html"
+  },
+  {
+    "drug_name": "Abilify Asimtufii",
+    "url": "https://www.drugs.com/abilify-asimtufii.html"
+  },
+  {
+    "drug_name": "Abilify Maintena",
+    "url": "https://www.drugs.com/abilify-maintena.html"
+  },
+  {
+    "drug_name": "Abiraterone",
+    "url": "https://www.drugs.com/abiraterone.html"
+  },
+  {
+    "drug_name": "Acetaminophen",
+    "url": "https://www.drugs.com/acetaminophen.html"
+  },
+  {
+    "drug_name": "Acetazolamide",
+    "url": "https://www.drugs.com/mtm/acetazolamide.html"
+  },
+  {
+    "drug_name": "Acetylcysteine",
+    "url": "https://www.drugs.com/mtm/acetylcysteine.html"
+  },
+  {
+    "drug_name": "Actemra",
+    "url": "https://www.drugs.com/actemra.html"
+  },
+  {
+    "drug_name": "Actos",
+    "url": "https://www.drugs.com/actos.html"
+  },
+  {
+    "drug_name": "Acyclovir",
+    "url": "https://www.drugs.com/acyclovir.html"
+  },
+  {
+    "drug_name": "Adderall",
+    "url": "https://www.drugs.com/adderall.html"
+  },
+  {
+    "drug_name": "Adderall XR",
+    "url": "https://www.drugs.com/mtm/adderall-xr.html"
+  },
+  {
+    "drug_name": "Advair Diskus",
+    "url": "https://www.drugs.com/mtm/advair-diskus.html"
+  },
+  {
+    "drug_name": "Advil",
+    "url": "https://www.drugs.com/advil.html"
+  },
+  {
+    "drug_name": "Afinitor",
+    "url": "https://www.drugs.com/afinitor.html"
+  },
+  {
+    "drug_name": "Agamree",
+    "url": "https://www.drugs.com/agamree.html"
+  },
+  {
+    "drug_name": "Aimovig",
+    "url": "https://www.drugs.com/aimovig.html"
+  },
+  {
+    "drug_name": "Ajovy",
+    "url": "https://www.drugs.com/ajovy.html"
+  },
+  {
+    "drug_name": "Albuterol",
+    "url": "https://www.drugs.com/albuterol.html"
+  },
+  {
+    "drug_name": "Alecensa",
+    "url": "https://www.drugs.com/alecensa.html"
+  },
+  {
+    "drug_name": "Alendronate",
+    "url": "https://www.drugs.com/mtm/alendronate.html"
+  },
+  {
+    "drug_name": "Alfuzosin",
+    "url": "https://www.drugs.com/cons/alfuzosin.html"
+  },
+  {
+    "drug_name": "Allegra",
+    "url": "https://www.drugs.com/allegra.html"
+  },
+  {
+    "drug_name": "Allopurinol",
+    "url": "https://www.drugs.com/allopurinol.html"
+  },
+  {
+    "drug_name": "Alprazolam",
+    "url": "https://www.drugs.com/alprazolam.html"
+  },
+  {
+    "drug_name": "Alprolix",
+    "url": "https://www.drugs.com/alprolix.html"
+  },
+  {
+    "drug_name": "Alunbrig",
+    "url": "https://www.drugs.com/alunbrig.html"
+  },
+  {
+    "drug_name": "Amantadine",
+    "url": "https://www.drugs.com/amantadine.html"
+  },
+  {
+    "drug_name": "Ambien",
+    "url": "https://www.drugs.com/ambien.html"
+  },
+  {
+    "drug_name": "Ambroxol",
+    "url": "https://www.drugs.com/ambroxol.html"
+  },
+  {
+    "drug_name": "Amiodarone",
+    "url": "https://www.drugs.com/amiodarone.html"
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "url": "https://www.drugs.com/amitriptyline.html"
+  },
+  {
+    "drug_name": "Amlodipine",
+    "url": "https://www.drugs.com/amlodipine.html"
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "url": "https://www.drugs.com/amoxicillin.html"
+  },
+  {
+    "drug_name": "Amoxicillin and Clavulanate",
+    "url": "https://www.drugs.com/amoxicillin_clavulanate.html"
+  },
+  {
+    "drug_name": "Amphetamine and dextroamphetamine",
+    "url": "https://www.drugs.com/mtm/amphetamine-and-dextroamphetamine.html"
+  },
+  {
+    "drug_name": "Ampicillin",
+    "url": "https://www.drugs.com/mtm/ampicillin.html"
+  },
+  {
+    "drug_name": "Amvuttra",
+    "url": "https://www.drugs.com/amvuttra.html"
+  },
+  {
+    "drug_name": "Anastrozole",
+    "url": "https://www.drugs.com/mtm/anastrozole.html"
+  },
+  {
+    "drug_name": "AndroGel",
+    "url": "https://www.drugs.com/androgel.html"
+  },
+  {
+    "drug_name": "Annovera",
+    "url": "https://www.drugs.com/annovera.html"
+  },
+  {
+    "drug_name": "Apalutamide",
+    "url": "https://www.drugs.com/apalutamide.html"
+  },
+  {
+    "drug_name": "Apixaban",
+    "url": "https://www.drugs.com/mtm/apixaban.html"
+  },
+  {
+    "drug_name": "Apokyn",
+    "url": "https://www.drugs.com/apokyn.html"
+  },
+  {
+    "drug_name": "Apriso",
+    "url": "https://www.drugs.com/apriso.html"
+  },
+  {
+    "drug_name": "Aptiom",
+    "url": "https://www.drugs.com/aptiom.html"
+  },
+  {
+    "drug_name": "Aricept",
+    "url": "https://www.drugs.com/aricept.html"
+  },
+  {
+    "drug_name": "Arikayce",
+    "url": "https://www.drugs.com/arikayce.html"
+  },
+  {
+    "drug_name": "Arimidex",
+    "url": "https://www.drugs.com/arimidex.html"
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "url": "https://www.drugs.com/aripiprazole.html"
+  },
+  {
+    "drug_name": "Aristada",
+    "url": "https://www.drugs.com/aristada.html"
+  },
+  {
+    "drug_name": "Aromasin",
+    "url": "https://www.drugs.com/aromasin.html"
+  },
+  {
+    "drug_name": "Aspirin",
+    "url": "https://www.drugs.com/aspirin.html"
+  },
+  {
+    "drug_name": "Atarax",
+    "url": "https://www.drugs.com/atarax.html"
+  },
+  {
+    "drug_name": "Atenolol",
+    "url": "https://www.drugs.com/atenolol.html"
+  },
+  {
+    "drug_name": "Ativan",
+    "url": "https://www.drugs.com/ativan.html"
+  },
+  {
+    "drug_name": "Atogepant",
+    "url": "https://www.drugs.com/atogepant.html"
+  },
+  {
+    "drug_name": "Atomoxetine",
+    "url": "https://www.drugs.com/atomoxetine.html"
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "url": "https://www.drugs.com/atorvastatin.html"
+  },
+  {
+    "drug_name": "Aubagio",
+    "url": "https://www.drugs.com/aubagio.html"
+  },
+  {
+    "drug_name": "Augmentin",
+    "url": "https://www.drugs.com/augmentin.html"
+  },
+  {
+    "drug_name": "Austedo",
+    "url": "https://www.drugs.com/austedo.html"
+  },
+  {
+    "drug_name": "Auvelity",
+    "url": "https://www.drugs.com/auvelity.html"
+  },
+  {
+    "drug_name": "Auvi-Q",
+    "url": "https://www.drugs.com/auvi-q.html"
+  },
+  {
+    "drug_name": "avacincaptad pegol",
+    "url": "https://www.drugs.com/avacincaptad-pegol.html"
+  },
+  {
+    "drug_name": "Avonex",
+    "url": "https://www.drugs.com/avonex.html"
+  },
+  {
+    "drug_name": "Avsola",
+    "url": "https://www.drugs.com/avsola.html"
+  },
+  {
+    "drug_name": "Azathioprine",
+    "url": "https://www.drugs.com/mtm/azathioprine.html"
+  },
+  {
+    "drug_name": "Azelastine",
+    "url": "https://www.drugs.com/pro/azelastine.html"
+  },
+  {
+    "drug_name": "Azilect",
+    "url": "https://www.drugs.com/azilect.html"
+  },
+  {
+    "drug_name": "Azithromycin",
+    "url": "https://www.drugs.com/azithromycin.html"
+  },
+  {
+    "drug_name": "Azulfidine",
+    "url": "https://www.drugs.com/mtm/azulfidine.html"
+  },
+  {
+    "drug_name": "A/B Otic",
+    "url": "https://www.drugs.com/cons/a-b-otic.html"
+  },
+  {
+    "drug_name": "Abacavir",
+    "url": "https://www.drugs.com/mtm/abacavir.html"
+  },
+  {
+    "drug_name": "Abacavir and lamivudine",
+    "url": "https://www.drugs.com/mtm/abacavir-and-lamivudine.html"
+  },
+  {
+    "drug_name": "Abacavir and Lamivudine Tablets",
+    "url": "https://www.drugs.com/pro/abacavir-and-lamivudine-tablets.html"
+  },
+  {
+    "drug_name": "Abacavir Oral Solution",
+    "url": "https://www.drugs.com/pro/abacavir-oral-solution.html"
+  },
+  {
+    "drug_name": "Abacavir Sulfate",
+    "url": "https://www.drugs.com/monograph/abacavir-sulfate.html"
+  },
+  {
+    "drug_name": "Abacavir Sulfate Tablets",
+    "url": "https://www.drugs.com/pro/abacavir-sulfate-tablets.html"
+  },
+  {
+    "drug_name": "Abacavir, dolutegravir, and lamivudine",
+    "url": "https://www.drugs.com/mtm/abacavir-dolutegravir-and-lamivudine.html"
+  },
+  {
+    "drug_name": "Abacavir, Lamivudine and Zidovudine Tablets",
+    "url": "https://www.drugs.com/pro/abacavir-lamivudine-and-zidovudine-tablets.html"
+  },
+  {
+    "drug_name": "Abacavir, lamivudine, and zidovudine",
+    "url": "https://www.drugs.com/mtm/abacavir-lamivudine-and-zidovudine.html"
+  },
+  {
+    "drug_name": "Abaloparatide",
+    "url": "https://www.drugs.com/mtm/abaloparatide.html"
+  },
+  {
+    "drug_name": "Abametapir",
+    "url": "https://www.drugs.com/cons/abametapir.html"
+  },
+  {
+    "drug_name": "Abatacept",
+    "url": "https://www.drugs.com/abatacept.html"
+  },
+  {
+    "drug_name": "Abatuss DMX",
+    "url": "https://www.drugs.com/mtm/abatuss-dmx.html"
+  },
+  {
+    "drug_name": "Abavite",
+    "url": "https://www.drugs.com/pro/abavite.html"
+  },
+  {
+    "drug_name": "Abbokinase",
+    "url": "https://www.drugs.com/cons/abbokinase.html"
+  },
+  {
+    "drug_name": "Abciximab",
+    "url": "https://www.drugs.com/cons/abciximab.html"
+  },
+  {
+    "drug_name": "Abecma",
+    "url": "https://www.drugs.com/abecma.html"
+  },
+  {
+    "drug_name": "Abelcet",
+    "url": "https://www.drugs.com/mtm/abelcet.html"
+  },
+  {
+    "drug_name": "Abemaciclib",
+    "url": "https://www.drugs.com/abemaciclib.html"
+  },
+  {
+    "drug_name": "Abilify",
+    "url": "https://www.drugs.com/abilify.html"
+  },
+  {
+    "drug_name": "Abilify (Aripiprazole Intramuscular)",
+    "url": "https://www.drugs.com/cons/abilify-aripiprazole-intramuscular.html"
+  },
+  {
+    "drug_name": "Abilify Asimtufii",
+    "url": "https://www.drugs.com/abilify-asimtufii.html"
+  },
+  {
+    "drug_name": "Abilify Asimtufii injection",
+    "url": "https://www.drugs.com/mtm/abilify-asimtufii-injection.html"
+  },
+  {
+    "drug_name": "Abilify Discmelt",
+    "url": "https://www.drugs.com/cons/abilify-discmelt.html"
+  },
+  {
+    "drug_name": "Abilify Maintena",
+    "url": "https://www.drugs.com/abilify-maintena.html"
+  },
+  {
+    "drug_name": "Abilify Maintena Prefilled Syringe injection",
+    "url": "https://www.drugs.com/mtm/abilify-maintena-prefilled-syringe-injection.html"
+  },
+  {
+    "drug_name": "Abilify Mycite",
+    "url": "https://www.drugs.com/cons/abilify-mycite.html"
+  },
+  {
+    "drug_name": "Abilify MyCite Maintenance Kit oral with sensor",
+    "url": "https://www.drugs.com/mtm/abilify-mycite-maintenance-kit-oral-with-sensor.html"
+  },
+  {
+    "drug_name": "Abilify MyCite Starter Kit oral with sensor",
+    "url": "https://www.drugs.com/mtm/abilify-mycite-starter-kit-oral-with-sensor.html"
+  },
+  {
+    "drug_name": "Abiraterone",
+    "url": "https://www.drugs.com/abiraterone.html"
+  },
+  {
+    "drug_name": "Abiraterone Acetate",
+    "url": "https://www.drugs.com/pro/abiraterone-acetate.html"
+  },
+  {
+    "drug_name": "Abiraterone and niraparib",
+    "url": "https://www.drugs.com/mtm/abiraterone-and-niraparib.html"
+  },
+  {
+    "drug_name": "Abiraterone, micronized",
+    "url": "https://www.drugs.com/cons/abiraterone-micronized.html"
+  },
+  {
+    "drug_name": "Ablavar",
+    "url": "https://www.drugs.com/cons/ablavar.html"
+  },
+  {
+    "drug_name": "Ablysinol",
+    "url": "https://www.drugs.com/pro/ablysinol.html"
+  },
+  {
+    "drug_name": "AbobotulinumtoxinA",
+    "url": "https://www.drugs.com/mtm/abobotulinumtoxina.html"
+  },
+  {
+    "drug_name": "Abraxane",
+    "url": "https://www.drugs.com/abraxane.html"
+  },
+  {
+    "drug_name": "Abreva",
+    "url": "https://www.drugs.com/mtm/abreva.html"
+  },
+  {
+    "drug_name": "Abrilada",
+    "url": "https://www.drugs.com/abrilada.html"
+  },
+  {
+    "drug_name": "Abrocitinib",
+    "url": "https://www.drugs.com/mtm/abrocitinib.html"
+  },
+  {
+    "drug_name": "Abrysvo",
+    "url": "https://www.drugs.com/abrysvo.html"
+  },
+  {
+    "drug_name": "Absorbine Athletes Foot",
+    "url": "https://www.drugs.com/mtm/absorbine-athletes-foot.html"
+  },
+  {
+    "drug_name": "Absorbine Jr. Antifungal",
+    "url": "https://www.drugs.com/mtm/absorbine-jr-antifungal.html"
+  },
+  {
+    "drug_name": "Absorica",
+    "url": "https://www.drugs.com/mtm/absorica.html"
+  },
+  {
+    "drug_name": "Absorica LD",
+    "url": "https://www.drugs.com/mtm/absorica-ld.html"
+  },
+  {
+    "drug_name": "Abstral",
+    "url": "https://www.drugs.com/abstral.html"
+  },
+  {
+    "drug_name": "Abstral Sublingual Tablet",
+    "url": "https://www.drugs.com/pro/abstral-sublingual-tablet.html"
+  },
+  {
+    "drug_name": "A-Caro-25",
+    "url": "https://www.drugs.com/cons/a-caro-25.html"
+  },
+  {
+    "drug_name": "Acacia Gum",
+    "url": "https://www.drugs.com/npp/acacia-gum.html"
+  },
+  {
+    "drug_name": "Acai",
+    "url": "https://www.drugs.com/npc/acai.html"
+  },
+  {
+    "drug_name": "Acalabrutinib",
+    "url": "https://www.drugs.com/acalabrutinib.html"
+  },
+  {
+    "drug_name": "ACAM2000",
+    "url": "https://www.drugs.com/acam2000.html"
+  },
+  {
+    "drug_name": "Acamprosate",
+    "url": "https://www.drugs.com/acamprosate.html"
+  },
+  {
+    "drug_name": "Acanya",
+    "url": "https://www.drugs.com/acanya.html"
+  },
+  {
+    "drug_name": "Acarbose",
+    "url": "https://www.drugs.com/mtm/acarbose.html"
+  },
+  {
+    "drug_name": "Accelerated Covid-19 Test Kit",
+    "url": "https://www.drugs.com/pro/accelerated-covid-19-test-kit.html"
+  },
+  {
+    "drug_name": "Accentrate PNV",
+    "url": "https://www.drugs.com/pro/accentrate-pnv.html"
+  },
+  {
+    "drug_name": "AccessPak for HIV PEP Basic",
+    "url": "https://www.drugs.com/mtm/accesspak-for-hiv-pep-basic.html"
+  },
+  {
+    "drug_name": "AccessPak for HIV PEP Expanded with Kaletra",
+    "url": "https://www.drugs.com/mtm/accesspak-for-hiv-pep-expanded-with-kaletra.html"
+  },
+  {
+    "drug_name": "AccessPak for HIV PEP Expanded with Viracept",
+    "url": "https://www.drugs.com/mtm/accesspak-for-hiv-pep-expanded-with-viracept.html"
+  },
+  {
+    "drug_name": "Acclean",
+    "url": "https://www.drugs.com/pro/acclean.html"
+  },
+  {
+    "drug_name": "Acclean 60 Second Fluoride Treatment",
+    "url": "https://www.drugs.com/pro/acclean-60-second-fluoride-treatment.html"
+  },
+  {
+    "drug_name": "Acclean Plus",
+    "url": "https://www.drugs.com/pro/acclean-plus.html"
+  },
+  {
+    "drug_name": "Accolate",
+    "url": "https://www.drugs.com/mtm/accolate.html"
+  },
+  {
+    "drug_name": "Accretropin",
+    "url": "https://www.drugs.com/accretropin.html"
+  },
+  {
+    "drug_name": "Accrufer",
+    "url": "https://www.drugs.com/mtm/accrufer.html"
+  },
+  {
+    "drug_name": "Accucaine",
+    "url": "https://www.drugs.com/pro/accucaine.html"
+  },
+  {
+    "drug_name": "Accuneb",
+    "url": "https://www.drugs.com/cons/accuneb.html"
+  },
+  {
+    "drug_name": "Accupril",
+    "url": "https://www.drugs.com/accupril.html"
+  },
+  {
+    "drug_name": "Accuretic",
+    "url": "https://www.drugs.com/mtm/accuretic.html"
+  },
+  {
+    "drug_name": "Accutane",
+    "url": "https://www.drugs.com/accutane.html"
+  },
+  {
+    "drug_name": "ACD  A",
+    "url": "https://www.drugs.com/pro/acd-a.html"
+  },
+  {
+    "drug_name": "ACD Blood Pack Units",
+    "url": "https://www.drugs.com/pro/acd-blood-pack-units.html"
+  },
+  {
+    "drug_name": "Acebutolol",
+    "url": "https://www.drugs.com/mtm/acebutolol.html"
+  },
+  {
+    "drug_name": "Acella Antipyrine and Benzocaine Otic Solution",
+    "url": "https://www.drugs.com/pro/acella-antipyrine-and-benzocaine-otic-solution.html"
+  },
+  {
+    "drug_name": "Aceon",
+    "url": "https://www.drugs.com/aceon.html"
+  },
+  {
+    "drug_name": "Acephen",
+    "url": "https://www.drugs.com/cons/acephen.html"
+  },
+  {
+    "drug_name": "Acephen rectal",
+    "url": "https://www.drugs.com/mtm/acephen-rectal.html"
+  },
+  {
+    "drug_name": "Acerola",
+    "url": "https://www.drugs.com/mtm/acerola.html"
+  },
+  {
+    "drug_name": "Acetadote",
+    "url": "https://www.drugs.com/acetadote.html"
+  },
+  {
+    "drug_name": "Acetaminophen",
+    "url": "https://www.drugs.com/acetaminophen.html"
+  },
+  {
+    "drug_name": "Acetaminophen (Intravenous)",
+    "url": "https://www.drugs.com/cons/acetaminophen-intravenous.html"
+  },
+  {
+    "drug_name": "Acetaminophen (Oral, Rectal)",
+    "url": "https://www.drugs.com/cons/acetaminophen-oral-rectal.html"
+  },
+  {
+    "drug_name": "Acetaminophen and benzhydrocodone",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-benzhydrocodone.html"
+  },
+  {
+    "drug_name": "Acetaminophen and butalbital",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-butalbital.html"
+  },
+  {
+    "drug_name": "Acetaminophen and caffeine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-caffeine.html"
+  },
+  {
+    "drug_name": "Acetaminophen and chlorpheniramine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-chlorpheniramine.html"
+  },
+  {
+    "drug_name": "Acetaminophen and codeine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-codeine.html"
+  },
+  {
+    "drug_name": "Acetaminophen and Codeine Oral Solution",
+    "url": "https://www.drugs.com/pro/acetaminophen-and-codeine-oral-solution.html"
+  },
+  {
+    "drug_name": "Acetaminophen and dextromethorphan",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-dextromethorphan.html"
+  },
+  {
+    "drug_name": "Acetaminophen and diphenhydramine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-diphenhydramine.html"
+  },
+  {
+    "drug_name": "Acetaminophen and ibuprofen",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-ibuprofen.html"
+  },
+  {
+    "drug_name": "Acetaminophen and Oxycodone",
+    "url": "https://www.drugs.com/acetaminophen-and-oxycodone.html"
+  },
+  {
+    "drug_name": "Acetaminophen and phenylephrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Acetaminophen and phenyltoloxamine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-phenyltoloxamine.html"
+  },
+  {
+    "drug_name": "Acetaminophen and pseudoephedrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-pseudoephedrine.html"
+  },
+  {
+    "drug_name": "Acetaminophen and tramadol",
+    "url": "https://www.drugs.com/mtm/acetaminophen-and-tramadol.html"
+  },
+  {
+    "drug_name": "Acetaminophen Congestion and Pain",
+    "url": "https://www.drugs.com/mtm/acetaminophen-congestion-and-pain.html"
+  },
+  {
+    "drug_name": "Acetaminophen injection",
+    "url": "https://www.drugs.com/mtm/acetaminophen-injection.html"
+  },
+  {
+    "drug_name": "Acetaminophen rectal",
+    "url": "https://www.drugs.com/mtm/acetaminophen-rectal.html"
+  },
+  {
+    "drug_name": "Acetaminophen, aspirin, and caffeine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-aspirin-and-caffeine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, butalbital, and caffeine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-butalbital-and-caffeine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, butalbital, caffeine, and codeine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-butalbital-caffeine-and-codeine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, caffeine, and dihydrocodeine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-caffeine-and-dihydrocodeine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, caffeine, and magnesium salicylate",
+    "url": "https://www.drugs.com/mtm/acetaminophen-caffeine-and-magnesium-salicylate.html"
+  },
+  {
+    "drug_name": "Acetaminophen, chlorpheniramine, and dextromethorphan",
+    "url": "https://www.drugs.com/mtm/acetaminophen-chlorpheniramine-and-dextromethorphan.html"
+  },
+  {
+    "drug_name": "Acetaminophen, chlorpheniramine, and phenylephrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-chlorpheniramine-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, chlorpheniramine, dextromethorphan, and pseudoephedrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-chlorpheniramine-dextromethorphan-and-pseudoephedrine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, dextromethorphan, and diphenhydramine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-and-diphenhydramine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, dextromethorphan, and doxylamine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-and-doxylamine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, dextromethorphan, and phenylephrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, dextromethorphan, and triprolidine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-and-triprolidine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, dextromethorphan, doxylamine, and phenylephrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-doxylamine-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, dextromethorphan, guaifenesin, and phenylephrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-guaifenesin-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, dextromethorphan, guaifenesin, and pseudoephedrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-guaifenesin-and-pseudoephedrine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, dextromethorphan, phenylephrine, and triprolidine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-dextromethorphan-phenylephrine-and-triprolidine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, diphenhydramine, and phenylephrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-diphenhydramine-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Acetaminophen, magnesium salicylate, and pamabrom",
+    "url": "https://www.drugs.com/mtm/acetaminophen-magnesium-salicylate-and-pamabrom.html"
+  },
+  {
+    "drug_name": "Acetaminophen, pheniramine, and phenylephrine",
+    "url": "https://www.drugs.com/mtm/acetaminophen-pheniramine-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Acetasol HC",
+    "url": "https://www.drugs.com/cons/acetasol-hc.html"
+  },
+  {
+    "drug_name": "Acetasol HC otic",
+    "url": "https://www.drugs.com/mtm/acetasol-hc-otic.html"
+  },
+  {
+    "drug_name": "Acetazolamide",
+    "url": "https://www.drugs.com/mtm/acetazolamide.html"
+  },
+  {
+    "drug_name": "Acetazolamide (Intravenous)",
+    "url": "https://www.drugs.com/cons/acetazolamide-intravenous.html"
+  },
+  {
+    "drug_name": "Acetazolamide Capsules",
+    "url": "https://www.drugs.com/pro/acetazolamide-capsules.html"
+  },
+  {
+    "drug_name": "Acetazolamide Tablets",
+    "url": "https://www.drugs.com/pro/acetazolamide-tablets.html"
+  },
+  {
+    "drug_name": "AcetaZOLAMIDE, acetaZOLAMIDE Sodium",
+    "url": "https://www.drugs.com/monograph/acetazolamide-acetazolamide-sodium.html"
+  },
+  {
+    "drug_name": "Acetic Acid",
+    "url": "https://www.drugs.com/pro/acetic-acid.html"
+  },
+  {
+    "drug_name": "Acetic acid and hydrocortisone otic",
+    "url": "https://www.drugs.com/mtm/acetic-acid-and-hydrocortisone-otic.html"
+  },
+  {
+    "drug_name": "Acetic acid irrigant",
+    "url": "https://www.drugs.com/mtm/acetic-acid-irrigant.html"
+  },
+  {
+    "drug_name": "Acetic Acid Irrigation",
+    "url": "https://www.drugs.com/pro/acetic-acid-irrigation.html"
+  },
+  {
+    "drug_name": "Acetic acid otic",
+    "url": "https://www.drugs.com/mtm/acetic-acid-otic.html"
+  },
+  {
+    "drug_name": "Acetic acid vaginal",
+    "url": "https://www.drugs.com/mtm/acetic-acid-vaginal.html"
+  },
+  {
+    "drug_name": "Acetohydroxamic acid",
+    "url": "https://www.drugs.com/mtm/acetohydroxamic-acid.html"
+  },
+  {
+    "drug_name": "Acetone, isopropyl alcohol, and polysorbate",
+    "url": "https://www.drugs.com/cons/acetone-isopropyl-alcohol-and-polysorbate.html"
+  },
+  {
+    "drug_name": "Acetylcholine",
+    "url": "https://www.drugs.com/monograph/acetylcholine.html"
+  },
+  {
+    "drug_name": "Acetylcysteine",
+    "url": "https://www.drugs.com/mtm/acetylcysteine.html"
+  },
+  {
+    "drug_name": "Acetylcysteine (Intravenous)",
+    "url": "https://www.drugs.com/cons/acetylcysteine-intravenous.html"
+  },
+  {
+    "drug_name": "Acetylcysteine (Oral)",
+    "url": "https://www.drugs.com/cons/acetylcysteine-oral.html"
+  },
+  {
+    "drug_name": "Acetylcysteine inhalation",
+    "url": "https://www.drugs.com/mtm/acetylcysteine-inhalation.html"
+  },
+  {
+    "drug_name": "Acetylcysteine Injection",
+    "url": "https://www.drugs.com/pro/acetylcysteine-injection.html"
+  },
+  {
+    "drug_name": "Acetylcysteine Solution",
+    "url": "https://www.drugs.com/pro/acetylcysteine-solution.html"
+  },
+  {
+    "drug_name": "Acetylcysteine, Acetylcysteine Lysine(Local, Systemic)",
+    "url": "https://www.drugs.com/monograph/acetylcysteine-acetylcysteine-lysine-local-systemic.html"
+  },
+  {
+    "drug_name": "Achromycin V",
+    "url": "https://www.drugs.com/pro/achromycin-v.html"
+  },
+  {
+    "drug_name": "Aci-Jel vaginal",
+    "url": "https://www.drugs.com/mtm/aci-jel-vaginal.html"
+  },
+  {
+    "drug_name": "Acid Controller Original Strength",
+    "url": "https://www.drugs.com/pro/acid-controller-original-strength.html"
+  },
+  {
+    "drug_name": "Acid Gone",
+    "url": "https://www.drugs.com/mtm/acid-gone.html"
+  },
+  {
+    "drug_name": "Acid Gone Extra Strength",
+    "url": "https://www.drugs.com/mtm/acid-gone-extra-strength.html"
+  },
+  {
+    "drug_name": "Acid Jelly vaginal",
+    "url": "https://www.drugs.com/mtm/acid-jelly-vaginal.html"
+  },
+  {
+    "drug_name": "Acidic Vaginal Jelly vaginal",
+    "url": "https://www.drugs.com/mtm/acidic-vaginal-jelly-vaginal.html"
+  },
+  {
+    "drug_name": "Acidophilus",
+    "url": "https://www.drugs.com/acidophilus.html"
+  },
+  {
+    "drug_name": "Acidophilus Extra Strength",
+    "url": "https://www.drugs.com/mtm/acidophilus-extra-strength.html"
+  },
+  {
+    "drug_name": "Acidophilus Probiotic Blend",
+    "url": "https://www.drugs.com/mtm/acidophilus-probiotic-blend.html"
+  },
+  {
+    "drug_name": "Acidophilus with Pectin",
+    "url": "https://www.drugs.com/mtm/acidophilus-with-pectin.html"
+  },
+  {
+    "drug_name": "Aciphex",
+    "url": "https://www.drugs.com/aciphex.html"
+  },
+  {
+    "drug_name": "AcipHex Sprinkle",
+    "url": "https://www.drugs.com/mtm/aciphex-sprinkle.html"
+  },
+  {
+    "drug_name": "Acitretin",
+    "url": "https://www.drugs.com/mtm/acitretin.html"
+  },
+  {
+    "drug_name": "Acitretin Capsules",
+    "url": "https://www.drugs.com/pro/acitretin-capsules.html"
+  },
+  {
+    "drug_name": "Ackee",
+    "url": "https://www.drugs.com/npp/ackee.html"
+  },
+  {
+    "drug_name": "Aclasta",
+    "url": "https://www.drugs.com/aclasta.html"
+  },
+  {
+    "drug_name": "Aclidinium",
+    "url": "https://www.drugs.com/mtm/aclidinium.html"
+  },
+  {
+    "drug_name": "Aclidinium and formoterol",
+    "url": "https://www.drugs.com/mtm/aclidinium-and-formoterol.html"
+  },
+  {
+    "drug_name": "Aclovate",
+    "url": "https://www.drugs.com/mtm/aclovate.html"
+  },
+  {
+    "drug_name": "Acne",
+    "url": "https://www.drugs.com/cons/acne.html"
+  },
+  {
+    "drug_name": "Acne 10 Gel",
+    "url": "https://www.drugs.com/cons/acne-10-gel.html"
+  },
+  {
+    "drug_name": "Acne Foaming Cream Face Cleanser",
+    "url": "https://www.drugs.com/mtm/acne-foaming-cream-face-cleanser.html"
+  },
+  {
+    "drug_name": "Acne Wash",
+    "url": "https://www.drugs.com/cons/acne-wash.html"
+  },
+  {
+    "drug_name": "Acne-Clear",
+    "url": "https://www.drugs.com/mtm/acne-clear.html"
+  },
+  {
+    "drug_name": "Acnevir",
+    "url": "https://www.drugs.com/mtm/acnevir.html"
+  },
+  {
+    "drug_name": "Acomplia",
+    "url": "https://www.drugs.com/acomplia.html"
+  },
+  {
+    "drug_name": "Aconite",
+    "url": "https://www.drugs.com/npp/aconite.html"
+  },
+  {
+    "drug_name": "Acoramidis",
+    "url": "https://www.drugs.com/mtm/acoramidis.html"
+  },
+  {
+    "drug_name": "Acrivastine and pseudoephedrine",
+    "url": "https://www.drugs.com/cons/acrivastine-and-pseudoephedrine.html"
+  },
+  {
+    "drug_name": "ACT COVID-19 Antibody Test",
+    "url": "https://www.drugs.com/pro/act-covid-19-antibody-test.html"
+  },
+  {
+    "drug_name": "ACT Fluoride Rinse",
+    "url": "https://www.drugs.com/mtm/act-fluoride-rinse.html"
+  },
+  {
+    "drug_name": "Actamin",
+    "url": "https://www.drugs.com/mtm/actamin.html"
+  },
+  {
+    "drug_name": "Actamin Maximum Strength",
+    "url": "https://www.drugs.com/cons/actamin-maximum-strength.html"
+  },
+  {
+    "drug_name": "Actemra",
+    "url": "https://www.drugs.com/actemra.html"
+  },
+  {
+    "drug_name": "Acthar Gel",
+    "url": "https://www.drugs.com/mtm/acthar-gel.html"
+  },
+  {
+    "drug_name": "Acthar Gel Pre-filled SelfJect Injector",
+    "url": "https://www.drugs.com/mtm/acthar-gel-pre-filled-selfject-injector.html"
+  },
+  {
+    "drug_name": "Acthar Gel, H.P.",
+    "url": "https://www.drugs.com/mtm/acthar-gel-h-p.html"
+  },
+  {
+    "drug_name": "ActHIB",
+    "url": "https://www.drugs.com/cons/acthib.html"
+  },
+  {
+    "drug_name": "ActHIB (Hib)",
+    "url": "https://www.drugs.com/mtm/acthib-hib.html"
+  },
+  {
+    "drug_name": "Acthrel",
+    "url": "https://www.drugs.com/cons/acthrel.html"
+  },
+  {
+    "drug_name": "Acticin",
+    "url": "https://www.drugs.com/mtm/acticin.html"
+  },
+  {
+    "drug_name": "Acticlate",
+    "url": "https://www.drugs.com/pro/acticlate.html"
+  },
+  {
+    "drug_name": "Actidose",
+    "url": "https://www.drugs.com/pro/actidose.html"
+  },
+  {
+    "drug_name": "Actidose-Aqua",
+    "url": "https://www.drugs.com/mtm/actidose-aqua.html"
+  },
+  {
+    "drug_name": "Actifed",
+    "url": "https://www.drugs.com/actifed.html"
+  },
+  {
+    "drug_name": "Actifed Cold and Allergy",
+    "url": "https://www.drugs.com/mtm/actifed-cold-and-allergy.html"
+  },
+  {
+    "drug_name": "Actigall",
+    "url": "https://www.drugs.com/cons/actigall.html"
+  },
+  {
+    "drug_name": "Actimmune",
+    "url": "https://www.drugs.com/mtm/actimmune.html"
+  },
+  {
+    "drug_name": "Actiq",
+    "url": "https://www.drugs.com/actiq.html"
+  },
+  {
+    "drug_name": "Actisite",
+    "url": "https://www.drugs.com/cons/actisite.html"
+  },
+  {
+    "drug_name": "Activase",
+    "url": "https://www.drugs.com/mtm/activase.html"
+  },
+  {
+    "drug_name": "Activated charcoal",
+    "url": "https://www.drugs.com/mtm/activated-charcoal.html"
+  },
+  {
+    "drug_name": "Activella",
+    "url": "https://www.drugs.com/cons/activella.html"
+  },
+  {
+    "drug_name": "ActivICE",
+    "url": "https://www.drugs.com/mtm/activice.html"
+  },
+  {
+    "drug_name": "Actonel",
+    "url": "https://www.drugs.com/actonel.html"
+  },
+  {
+    "drug_name": "Actonel with Calcium",
+    "url": "https://www.drugs.com/actonel_calcium.html"
+  },
+  {
+    "drug_name": "Actoplus Met",
+    "url": "https://www.drugs.com/actoplus_met.html"
+  },
+  {
+    "drug_name": "Actoplus Met XR",
+    "url": "https://www.drugs.com/mtm/actoplus-met-xr.html"
+  },
+  {
+    "drug_name": "Actos",
+    "url": "https://www.drugs.com/actos.html"
+  },
+  {
+    "drug_name": "Acuflex",
+    "url": "https://www.drugs.com/acuflex.html"
+  },
+  {
+    "drug_name": "Acular",
+    "url": "https://www.drugs.com/mtm/acular.html"
+  },
+  {
+    "drug_name": "Acular LS",
+    "url": "https://www.drugs.com/mtm/acular-ls.html"
+  },
+  {
+    "drug_name": "Acular PF",
+    "url": "https://www.drugs.com/cons/acular-pf.html"
+  },
+  {
+    "drug_name": "Acunistat-30 Injection System",
+    "url": "https://www.drugs.com/pro/acunistat-30-injection-system.html"
+  },
+  {
+    "drug_name": "Acunistat-60 Injection System",
+    "url": "https://www.drugs.com/pro/acunistat-60-injection-system.html"
+  },
+  {
+    "drug_name": "Acunivive 15 Injection System",
+    "url": "https://www.drugs.com/pro/acunivive-15-injection-system.html"
+  },
+  {
+    "drug_name": "Acunivive 30 Injection System",
+    "url": "https://www.drugs.com/pro/acunivive-30-injection-system.html"
+  },
+  {
+    "drug_name": "Acunivive 60 Injection System",
+    "url": "https://www.drugs.com/pro/acunivive-60-injection-system.html"
+  },
+  {
+    "drug_name": "Acunivive 90 Injection System",
+    "url": "https://www.drugs.com/pro/acunivive-90-injection-system.html"
+  },
+  {
+    "drug_name": "Acunol",
+    "url": "https://www.drugs.com/pro/acunol.html"
+  },
+  {
+    "drug_name": "Acuvail",
+    "url": "https://www.drugs.com/acuvail.html"
+  },
+  {
+    "drug_name": "Acuvue Theravision with Ketotifen",
+    "url": "https://www.drugs.com/pro/acuvue-theravision-with-ketotifen.html"
+  },
+  {
+    "drug_name": "Acyclovir",
+    "url": "https://www.drugs.com/acyclovir.html"
+  },
+  {
+    "drug_name": "Acyclovir (Buccal mucosa)",
+    "url": "https://www.drugs.com/cons/acyclovir-buccal-mucosa.html"
+  },
+  {
+    "drug_name": "Acyclovir (Ophthalmic)",
+    "url": "https://www.drugs.com/cons/acyclovir-ophthalmic.html"
+  },
+  {
+    "drug_name": "Acyclovir (Oral, Intravenous)",
+    "url": "https://www.drugs.com/cons/acyclovir-oral-intravenous.html"
+  },
+  {
+    "drug_name": "Acyclovir and hydrocortisone",
+    "url": "https://www.drugs.com/cons/acyclovir-and-hydrocortisone.html"
+  },
+  {
+    "drug_name": "Acyclovir and hydrocortisone topical",
+    "url": "https://www.drugs.com/mtm/acyclovir-and-hydrocortisone-topical.html"
+  },
+  {
+    "drug_name": "Acyclovir Capsules",
+    "url": "https://www.drugs.com/pro/acyclovir-capsules.html"
+  },
+  {
+    "drug_name": "Acyclovir Cream",
+    "url": "https://www.drugs.com/pro/acyclovir-cream.html"
+  },
+  {
+    "drug_name": "Acyclovir injection",
+    "url": "https://www.drugs.com/mtm/acyclovir-injection.html"
+  },
+  {
+    "drug_name": "Acyclovir IV Infusion",
+    "url": "https://www.drugs.com/pro/acyclovir-iv-infusion.html"
+  },
+  {
+    "drug_name": "Acyclovir Ointment",
+    "url": "https://www.drugs.com/pro/acyclovir-ointment.html"
+  },
+  {
+    "drug_name": "Acyclovir Oral Suspension",
+    "url": "https://www.drugs.com/pro/acyclovir-oral-suspension.html"
+  },
+  {
+    "drug_name": "Acyclovir Tablets",
+    "url": "https://www.drugs.com/pro/acyclovir-tablets.html"
+  },
+  {
+    "drug_name": "Acyclovir topical",
+    "url": "https://www.drugs.com/mtm/acyclovir-topical.html"
+  },
+  {
+    "drug_name": "Acys-5",
+    "url": "https://www.drugs.com/cons/acys-5.html"
+  },
+  {
+    "drug_name": "Aczone",
+    "url": "https://www.drugs.com/aczone.html"
+  },
+  {
+    "drug_name": "Adacel",
+    "url": "https://www.drugs.com/adacel.html"
+  },
+  {
+    "drug_name": "Adacel Tdap",
+    "url": "https://www.drugs.com/mtm/adacel-tdap.html"
+  },
+  {
+    "drug_name": "Adagen",
+    "url": "https://www.drugs.com/cons/adagen.html"
+  },
+  {
+    "drug_name": "Adagrasib",
+    "url": "https://www.drugs.com/mtm/adagrasib.html"
+  },
+  {
+    "drug_name": "Adakveo",
+    "url": "https://www.drugs.com/adakveo.html"
+  },
+  {
+    "drug_name": "Adakveo Injection",
+    "url": "https://www.drugs.com/pro/adakveo-injection.html"
+  },
+  {
+    "drug_name": "Adalat CC",
+    "url": "https://www.drugs.com/adalat.html"
+  },
+  {
+    "drug_name": "Adalimumab",
+    "url": "https://www.drugs.com/adalimumab.html"
+  },
+  {
+    "drug_name": "Adalimumab Injection",
+    "url": "https://www.drugs.com/pro/adalimumab-injection.html"
+  },
+  {
+    "drug_name": "Adalimumab-aacf",
+    "url": "https://www.drugs.com/cons/adalimumab-aacf.html"
+  },
+  {
+    "drug_name": "Adalimumab-aaty",
+    "url": "https://www.drugs.com/cons/adalimumab-aaty.html"
+  },
+  {
+    "drug_name": "Adalimumab-adaz",
+    "url": "https://www.drugs.com/cons/adalimumab-adaz.html"
+  },
+  {
+    "drug_name": "Adalimumab-adbm",
+    "url": "https://www.drugs.com/cons/adalimumab-adbm.html"
+  },
+  {
+    "drug_name": "Adalimumab-afzb",
+    "url": "https://www.drugs.com/cons/adalimumab-afzb.html"
+  },
+  {
+    "drug_name": "Adalimumab-aqvh",
+    "url": "https://www.drugs.com/cons/adalimumab-aqvh.html"
+  },
+  {
+    "drug_name": "Adalimumab-atto",
+    "url": "https://www.drugs.com/cons/adalimumab-atto.html"
+  },
+  {
+    "drug_name": "Adalimumab-bwwd",
+    "url": "https://www.drugs.com/cons/adalimumab-bwwd.html"
+  },
+  {
+    "drug_name": "Adalimumab-fkjp",
+    "url": "https://www.drugs.com/cons/adalimumab-fkjp.html"
+  },
+  {
+    "drug_name": "Adalimumab-ryvk",
+    "url": "https://www.drugs.com/pro/adalimumab-ryvk.html"
+  },
+  {
+    "drug_name": "Adamts13, recombinant-krhn",
+    "url": "https://www.drugs.com/cons/adamts13-recombinant-krhn.html"
+  },
+  {
+    "drug_name": "Adapalene",
+    "url": "https://www.drugs.com/cons/adapalene.html"
+  },
+  {
+    "drug_name": "Adapalene and benzoyl peroxide",
+    "url": "https://www.drugs.com/cons/adapalene-and-benzoyl-peroxide.html"
+  },
+  {
+    "drug_name": "Adapalene and Benzoyl Peroxide Gel",
+    "url": "https://www.drugs.com/pro/adapalene-and-benzoyl-peroxide-gel.html"
+  },
+  {
+    "drug_name": "Adapalene and benzoyl peroxide topical",
+    "url": "https://www.drugs.com/mtm/adapalene-and-benzoyl-peroxide-topical.html"
+  },
+  {
+    "drug_name": "Adapalene Cream",
+    "url": "https://www.drugs.com/pro/adapalene-cream.html"
+  },
+  {
+    "drug_name": "Adapalene Solution",
+    "url": "https://www.drugs.com/pro/adapalene-solution.html"
+  },
+  {
+    "drug_name": "Adapalene topical",
+    "url": "https://www.drugs.com/mtm/adapalene-topical.html"
+  },
+  {
+    "drug_name": "Adasuve",
+    "url": "https://www.drugs.com/adasuve.html"
+  },
+  {
+    "drug_name": "Adbry",
+    "url": "https://www.drugs.com/adbry.html"
+  },
+  {
+    "drug_name": "Adcetris",
+    "url": "https://www.drugs.com/adcetris.html"
+  },
+  {
+    "drug_name": "Adcirca",
+    "url": "https://www.drugs.com/adcirca.html"
+  },
+  {
+    "drug_name": "Addamel N",
+    "url": "https://www.drugs.com/pro/addamel-n.html"
+  },
+  {
+    "drug_name": "Addaprin",
+    "url": "https://www.drugs.com/cons/addaprin.html"
+  },
+  {
+    "drug_name": "Adderall",
+    "url": "https://www.drugs.com/adderall.html"
+  },
+  {
+    "drug_name": "Adderall XR",
+    "url": "https://www.drugs.com/mtm/adderall-xr.html"
+  },
+  {
+    "drug_name": "Additive Formula 3",
+    "url": "https://www.drugs.com/pro/additive-formula-3.html"
+  },
+  {
+    "drug_name": "Addyi",
+    "url": "https://www.drugs.com/addyi.html"
+  },
+  {
+    "drug_name": "Adefovir",
+    "url": "https://www.drugs.com/mtm/adefovir.html"
+  },
+  {
+    "drug_name": "Adefovir Dipivoxil",
+    "url": "https://www.drugs.com/pro/adefovir-dipivoxil.html"
+  },
+  {
+    "drug_name": "Adempas",
+    "url": "https://www.drugs.com/adempas.html"
+  },
+  {
+    "drug_name": "Adempas Tablets",
+    "url": "https://www.drugs.com/pro/adempas-tablets.html"
+  },
+  {
+    "drug_name": "Adenocard",
+    "url": "https://www.drugs.com/mtm/adenocard.html"
+  },
+  {
+    "drug_name": "Adenoscan",
+    "url": "https://www.drugs.com/mtm/adenoscan.html"
+  },
+  {
+    "drug_name": "Adenosine",
+    "url": "https://www.drugs.com/mtm/adenosine.html"
+  },
+  {
+    "drug_name": "Adenovirus Type 4-and Type-7 Vaccine Live",
+    "url": "https://www.drugs.com/pro/adenovirus-type-4-and-type-7-vaccine-live.html"
+  },
+  {
+    "drug_name": "Adenovirus Vaccine",
+    "url": "https://www.drugs.com/monograph/adenovirus-vaccine.html"
+  },
+  {
+    "drug_name": "Adenovirus vaccine, live",
+    "url": "https://www.drugs.com/cons/adenovirus-vaccine-live.html"
+  },
+  {
+    "drug_name": "Adhansia XR",
+    "url": "https://www.drugs.com/pro/adhansia-xr.html"
+  },
+  {
+    "drug_name": "Adipex-P",
+    "url": "https://www.drugs.com/adipex.html"
+  },
+  {
+    "drug_name": "Adlarity",
+    "url": "https://www.drugs.com/adlarity.html"
+  },
+  {
+    "drug_name": "Adlarity skin patch",
+    "url": "https://www.drugs.com/mtm/adlarity-skin-patch.html"
+  },
+  {
+    "drug_name": "Adlyxin",
+    "url": "https://www.drugs.com/adlyxin.html"
+  },
+  {
+    "drug_name": "Admelog",
+    "url": "https://www.drugs.com/admelog.html"
+  },
+  {
+    "drug_name": "Ado-trastuzumab emtansine",
+    "url": "https://www.drugs.com/mtm/ado-trastuzumab-emtansine.html"
+  },
+  {
+    "drug_name": "Adoxa CK",
+    "url": "https://www.drugs.com/cons/adoxa-ck.html"
+  },
+  {
+    "drug_name": "Adoxa Pak",
+    "url": "https://www.drugs.com/cons/adoxa-pak.html"
+  },
+  {
+    "drug_name": "Adoxa TT",
+    "url": "https://www.drugs.com/cons/adoxa-tt.html"
+  },
+  {
+    "drug_name": "Adrenaclick",
+    "url": "https://www.drugs.com/cons/adrenaclick.html"
+  },
+  {
+    "drug_name": "Adrenalin",
+    "url": "https://www.drugs.com/mtm/adrenalin.html"
+  },
+  {
+    "drug_name": "Adrenalin (Epinephrine Inhalation)",
+    "url": "https://www.drugs.com/cons/adrenalin-epinephrine-inhalation.html"
+  },
+  {
+    "drug_name": "Adrenalin (Epinephrine Injection)",
+    "url": "https://www.drugs.com/cons/adrenalin-epinephrine-injection.html"
+  },
+  {
+    "drug_name": "Adrenalin Chloride",
+    "url": "https://www.drugs.com/cons/adrenalin-chloride.html"
+  },
+  {
+    "drug_name": "Adrenalin Injection",
+    "url": "https://www.drugs.com/pro/adrenalin-injection.html"
+  },
+  {
+    "drug_name": "AdreView",
+    "url": "https://www.drugs.com/adreview.html"
+  },
+  {
+    "drug_name": "Adriamycin",
+    "url": "https://www.drugs.com/mtm/adriamycin.html"
+  },
+  {
+    "drug_name": "Adrucil",
+    "url": "https://www.drugs.com/cons/adrucil.html"
+  },
+  {
+    "drug_name": "Adrucil injection",
+    "url": "https://www.drugs.com/mtm/adrucil-injection.html"
+  },
+  {
+    "drug_name": "Adsol Red Cell Preservation System",
+    "url": "https://www.drugs.com/pro/adsol-red-cell-preservation-system.html"
+  },
+  {
+    "drug_name": "Adstiladrin",
+    "url": "https://www.drugs.com/adstiladrin.html"
+  },
+  {
+    "drug_name": "Adthyza",
+    "url": "https://www.drugs.com/pro/adthyza.html"
+  },
+  {
+    "drug_name": "Aducanumab",
+    "url": "https://www.drugs.com/mtm/aducanumab.html"
+  },
+  {
+    "drug_name": "Aducanumab-avwa",
+    "url": "https://www.drugs.com/cons/aducanumab-avwa.html"
+  },
+  {
+    "drug_name": "Aduhelm",
+    "url": "https://www.drugs.com/aduhelm.html"
+  },
+  {
+    "drug_name": "Adult Cough DM",
+    "url": "https://www.drugs.com/mtm/adult-cough-dm.html"
+  },
+  {
+    "drug_name": "Advair",
+    "url": "https://www.drugs.com/advair.html"
+  },
+  {
+    "drug_name": "Advair Diskus",
+    "url": "https://www.drugs.com/mtm/advair-diskus.html"
+  },
+  {
+    "drug_name": "Advair HFA",
+    "url": "https://www.drugs.com/mtm/advair-hfa.html"
+  },
+  {
+    "drug_name": "Advanced Eye Relief Dry Eye",
+    "url": "https://www.drugs.com/mtm/advanced-eye-relief-dry-eye.html"
+  },
+  {
+    "drug_name": "Advanced Eye Relief Maximum Redness",
+    "url": "https://www.drugs.com/mtm/advanced-eye-relief-maximum-redness.html"
+  },
+  {
+    "drug_name": "Advantage Multi for Dogs",
+    "url": "https://www.drugs.com/pro/advantage-multi-for-dogs.html"
+  },
+  {
+    "drug_name": "Advate",
+    "url": "https://www.drugs.com/advate.html"
+  },
+  {
+    "drug_name": "Advicor",
+    "url": "https://www.drugs.com/cons/advicor.html"
+  },
+  {
+    "drug_name": "Advil",
+    "url": "https://www.drugs.com/advil.html"
+  },
+  {
+    "drug_name": "Advil Allergy and Congestion Relief",
+    "url": "https://www.drugs.com/pro/advil-allergy-and-congestion-relief.html"
+  },
+  {
+    "drug_name": "Advil Allergy Sinus",
+    "url": "https://www.drugs.com/advil_allergy_sinus.html"
+  },
+  {
+    "drug_name": "Advil Childrens",
+    "url": "https://www.drugs.com/pro/advil-childrens.html"
+  },
+  {
+    "drug_name": "Advil Childrens Allergy Sinus",
+    "url": "https://www.drugs.com/mtm/advil-childrens-allergy-sinus.html"
+  },
+  {
+    "drug_name": "Advil Cold and Sinus",
+    "url": "https://www.drugs.com/mtm/advil-cold-and-sinus.html"
+  },
+  {
+    "drug_name": "Advil Cold and Sinus Liqui-Gel",
+    "url": "https://www.drugs.com/mtm/advil-cold-and-sinus-liqui-gel.html"
+  },
+  {
+    "drug_name": "Advil Dual Action With Acetaminophen",
+    "url": "https://www.drugs.com/mtm/advil-dual-action-with-acetaminophen.html"
+  },
+  {
+    "drug_name": "Advil Infants Concentrated Drops",
+    "url": "https://www.drugs.com/pro/advil-infants-concentrated-drops.html"
+  },
+  {
+    "drug_name": "Advil Junior Strength",
+    "url": "https://www.drugs.com/pro/advil-junior-strength.html"
+  },
+  {
+    "drug_name": "Advil Liqui-Gels",
+    "url": "https://www.drugs.com/pro/advil-liqui-gels.html"
+  },
+  {
+    "drug_name": "Advil Migraine",
+    "url": "https://www.drugs.com/mtm/advil-migraine.html"
+  },
+  {
+    "drug_name": "Advil Multi-Symptom Cold",
+    "url": "https://www.drugs.com/mtm/advil-multi-symptom-cold.html"
+  },
+  {
+    "drug_name": "Advil Multi-Symptom Cold and Flu",
+    "url": "https://www.drugs.com/pro/advil-multi-symptom-cold-and-flu.html"
+  },
+  {
+    "drug_name": "Advil PM",
+    "url": "https://www.drugs.com/mtm/advil-pm.html"
+  },
+  {
+    "drug_name": "Advil PM Liqui-Gels",
+    "url": "https://www.drugs.com/mtm/advil-pm-liqui-gels.html"
+  },
+  {
+    "drug_name": "Advil Sinus Congestion and Pain",
+    "url": "https://www.drugs.com/mtm/advil-sinus-congestion-and-pain.html"
+  },
+  {
+    "drug_name": "Adynovate",
+    "url": "https://www.drugs.com/cons/adynovate.html"
+  },
+  {
+    "drug_name": "Adynovate recombinant",
+    "url": "https://www.drugs.com/mtm/adynovate-recombinant.html"
+  },
+  {
+    "drug_name": "Adyphren",
+    "url": "https://www.drugs.com/pro/adyphren.html"
+  },
+  {
+    "drug_name": "Adyphren II",
+    "url": "https://www.drugs.com/pro/adyphren-ii.html"
+  },
+  {
+    "drug_name": "Adzenys ER",
+    "url": "https://www.drugs.com/cons/adzenys-er.html"
+  },
+  {
+    "drug_name": "Adzenys ER Oral Suspension",
+    "url": "https://www.drugs.com/pro/adzenys-er-oral-suspension.html"
+  },
+  {
+    "drug_name": "Adzenys XR-ODT",
+    "url": "https://www.drugs.com/mtm/adzenys-xr-odt.html"
+  },
+  {
+    "drug_name": "Adzynma",
+    "url": "https://www.drugs.com/adzynma.html"
+  },
+  {
+    "drug_name": "Afamelanotide",
+    "url": "https://www.drugs.com/mtm/afamelanotide.html"
+  },
+  {
+    "drug_name": "Afamelanotide Acetate",
+    "url": "https://www.drugs.com/monograph/afamelanotide-acetate.html"
+  },
+  {
+    "drug_name": "Afamitresgene autoleucel",
+    "url": "https://www.drugs.com/mtm/afamitresgene-autoleucel.html"
+  },
+  {
+    "drug_name": "Afatinib",
+    "url": "https://www.drugs.com/afatinib.html"
+  },
+  {
+    "drug_name": "Afeditab CR",
+    "url": "https://www.drugs.com/cons/afeditab-cr.html"
+  },
+  {
+    "drug_name": "Affodel",
+    "url": "https://www.drugs.com/pro/affodel.html"
+  },
+  {
+    "drug_name": "Afinitor",
+    "url": "https://www.drugs.com/afinitor.html"
+  },
+  {
+    "drug_name": "Afinitor Disperz",
+    "url": "https://www.drugs.com/mtm/afinitor-disperz.html"
+  },
+  {
+    "drug_name": "Afirmelle",
+    "url": "https://www.drugs.com/pro/afirmelle.html"
+  },
+  {
+    "drug_name": "Afirmelle (28 Day)",
+    "url": "https://www.drugs.com/mtm/afirmelle-28-day.html"
+  },
+  {
+    "drug_name": "Aflaxen",
+    "url": "https://www.drugs.com/cons/aflaxen.html"
+  },
+  {
+    "drug_name": "Aflibercept",
+    "url": "https://www.drugs.com/aflibercept.html"
+  },
+  {
+    "drug_name": "Afluria",
+    "url": "https://www.drugs.com/afluria.html"
+  },
+  {
+    "drug_name": "Afluria 2015-2016 Formula",
+    "url": "https://www.drugs.com/cons/afluria-2015-2016-formula.html"
+  },
+  {
+    "drug_name": "Afluria 2024-2025 injection",
+    "url": "https://www.drugs.com/mtm/afluria-2024-2025-injection.html"
+  },
+  {
+    "drug_name": "Afluria PF Pediatric Quadrivalent 2021-2022 injection",
+    "url": "https://www.drugs.com/mtm/afluria-pf-pediatric-quadrivalent-2021-2022-injection.html"
+  },
+  {
+    "drug_name": "Afluria PF Quadrivalent 2021-2022 injection",
+    "url": "https://www.drugs.com/mtm/afluria-pf-quadrivalent-2021-2022-injection.html"
+  },
+  {
+    "drug_name": "Afluria PF Quadrivalent 2022-2023 injection",
+    "url": "https://www.drugs.com/mtm/afluria-pf-quadrivalent-2022-2023-injection.html"
+  },
+  {
+    "drug_name": "Afluria Quadrivalent",
+    "url": "https://www.drugs.com/pro/afluria-quadrivalent.html"
+  },
+  {
+    "drug_name": "Afluria Quadrivalent 2021-2022 injection",
+    "url": "https://www.drugs.com/mtm/afluria-quadrivalent-2021-2022-injection.html"
+  },
+  {
+    "drug_name": "Afluria Quadrivalent 2022-2023 injection",
+    "url": "https://www.drugs.com/mtm/afluria-quadrivalent-2022-2023-injection.html"
+  },
+  {
+    "drug_name": "Afrezza",
+    "url": "https://www.drugs.com/afrezza.html"
+  },
+  {
+    "drug_name": "African Basil",
+    "url": "https://www.drugs.com/npp/african-basil.html"
+  },
+  {
+    "drug_name": "African Mango",
+    "url": "https://www.drugs.com/npp/african-mango.html"
+  },
+  {
+    "drug_name": "Afrin",
+    "url": "https://www.drugs.com/mtm/afrin.html"
+  },
+  {
+    "drug_name": "Afrin 4 Hour Extra Moisturizing",
+    "url": "https://www.drugs.com/mtm/afrin-4-hour-extra-moisturizing.html"
+  },
+  {
+    "drug_name": "Afrin All Night NoDrip",
+    "url": "https://www.drugs.com/mtm/afrin-all-night-nodrip.html"
+  },
+  {
+    "drug_name": "Afrin Allergy Sinus",
+    "url": "https://www.drugs.com/mtm/afrin-allergy-sinus.html"
+  },
+  {
+    "drug_name": "Afrin Extra Moisturizing",
+    "url": "https://www.drugs.com/mtm/afrin-extra-moisturizing.html"
+  },
+  {
+    "drug_name": "Afrin No Drip",
+    "url": "https://www.drugs.com/mtm/afrin-no-drip.html"
+  },
+  {
+    "drug_name": "Afrin No Drip Severe Congestion",
+    "url": "https://www.drugs.com/mtm/afrin-no-drip-severe-congestion.html"
+  },
+  {
+    "drug_name": "Afrin No Drip Sinus",
+    "url": "https://www.drugs.com/mtm/afrin-no-drip-sinus.html"
+  },
+  {
+    "drug_name": "Afrin NoDrip Extra Moisturizing",
+    "url": "https://www.drugs.com/mtm/afrin-nodrip-extra-moisturizing.html"
+  },
+  {
+    "drug_name": "Afrin Pump Mist",
+    "url": "https://www.drugs.com/mtm/afrin-pump-mist.html"
+  },
+  {
+    "drug_name": "Afrin Saline nasal",
+    "url": "https://www.drugs.com/mtm/afrin-saline-nasal.html"
+  },
+  {
+    "drug_name": "Afrin Severe Congestion",
+    "url": "https://www.drugs.com/mtm/afrin-severe-congestion.html"
+  },
+  {
+    "drug_name": "Afrin Severe Congestion NoDrip",
+    "url": "https://www.drugs.com/mtm/afrin-severe-congestion-nodrip.html"
+  },
+  {
+    "drug_name": "Afstyla",
+    "url": "https://www.drugs.com/cons/afstyla.html"
+  },
+  {
+    "drug_name": "Afstyla recombinant",
+    "url": "https://www.drugs.com/mtm/afstyla-recombinant.html"
+  },
+  {
+    "drug_name": "Aftate",
+    "url": "https://www.drugs.com/cons/aftate.html"
+  },
+  {
+    "drug_name": "Aftera",
+    "url": "https://www.drugs.com/pro/aftera.html"
+  },
+  {
+    "drug_name": "AfterPill",
+    "url": "https://www.drugs.com/mtm/afterpill.html"
+  },
+  {
+    "drug_name": "AK-Con",
+    "url": "https://www.drugs.com/mtm/ak-con.html"
+  },
+  {
+    "drug_name": "AK-Dilate",
+    "url": "https://www.drugs.com/cons/ak-dilate.html"
+  },
+  {
+    "drug_name": "AK-Fluor",
+    "url": "https://www.drugs.com/cons/ak-fluor.html"
+  },
+  {
+    "drug_name": "AK-NaCl",
+    "url": "https://www.drugs.com/cons/ak-nacl.html"
+  },
+  {
+    "drug_name": "AK-Pentolate",
+    "url": "https://www.drugs.com/cons/ak-pentolate.html"
+  },
+  {
+    "drug_name": "AK-Poly-Bac",
+    "url": "https://www.drugs.com/mtm/ak-poly-bac.html"
+  },
+  {
+    "drug_name": "AK-Pred",
+    "url": "https://www.drugs.com/cons/ak-pred.html"
+  },
+  {
+    "drug_name": "AK-Taine",
+    "url": "https://www.drugs.com/mtm/ak-taine.html"
+  },
+  {
+    "drug_name": "Akeega",
+    "url": "https://www.drugs.com/akeega.html"
+  },
+  {
+    "drug_name": "Akineton",
+    "url": "https://www.drugs.com/cons/akineton.html"
+  },
+  {
+    "drug_name": "Aklief",
+    "url": "https://www.drugs.com/aklief.html"
+  },
+  {
+    "drug_name": "Aklief Cream",
+    "url": "https://www.drugs.com/pro/aklief-cream.html"
+  },
+  {
+    "drug_name": "Akne-Mycin",
+    "url": "https://www.drugs.com/cons/akne-mycin.html"
+  },
+  {
+    "drug_name": "Akne-mycin Ointment",
+    "url": "https://www.drugs.com/pro/akne-mycin-ointment.html"
+  },
+  {
+    "drug_name": "Akovaz",
+    "url": "https://www.drugs.com/cons/akovaz.html"
+  },
+  {
+    "drug_name": "Akten",
+    "url": "https://www.drugs.com/akten.html"
+  },
+  {
+    "drug_name": "Akten Gel",
+    "url": "https://www.drugs.com/pro/akten-gel.html"
+  },
+  {
+    "drug_name": "Aktipak",
+    "url": "https://www.drugs.com/pro/aktipak.html"
+  },
+  {
+    "drug_name": "AKTob",
+    "url": "https://www.drugs.com/cons/aktob.html"
+  },
+  {
+    "drug_name": "Akurza",
+    "url": "https://www.drugs.com/cons/akurza.html"
+  },
+  {
+    "drug_name": "Akwa Tears",
+    "url": "https://www.drugs.com/mtm/akwa-tears.html"
+  },
+  {
+    "drug_name": "Akynzeo",
+    "url": "https://www.drugs.com/akynzeo.html"
+  },
+  {
+    "drug_name": "Akynzeo (Fosnetupitant/palonosetron Intravenous)",
+    "url": "https://www.drugs.com/cons/akynzeo-fosnetupitant-palonosetron-intravenous.html"
+  },
+  {
+    "drug_name": "Akynzeo (Netupitant and palonosetron Oral)",
+    "url": "https://www.drugs.com/cons/akynzeo-netupitant-and-palonosetron-oral.html"
+  },
+  {
+    "drug_name": "Akynzeo injection",
+    "url": "https://www.drugs.com/mtm/akynzeo-injection.html"
+  },
+  {
+    "drug_name": "Ala Hist PE",
+    "url": "https://www.drugs.com/mtm/ala-hist-pe.html"
+  },
+  {
+    "drug_name": "Ala Quin Cream",
+    "url": "https://www.drugs.com/pro/ala-quin-cream.html"
+  },
+  {
+    "drug_name": "Ala Scalp",
+    "url": "https://www.drugs.com/pro/ala-scalp.html"
+  },
+  {
+    "drug_name": "Ala-Cort",
+    "url": "https://www.drugs.com/mtm/ala-cort.html"
+  },
+  {
+    "drug_name": "Ala-Cort Cream",
+    "url": "https://www.drugs.com/pro/ala-cort-cream.html"
+  },
+  {
+    "drug_name": "Ala-Hist IR",
+    "url": "https://www.drugs.com/mtm/ala-hist-ir.html"
+  },
+  {
+    "drug_name": "Ala-Scalp HP",
+    "url": "https://www.drugs.com/cons/ala-scalp-hp.html"
+  },
+  {
+    "drug_name": "Ala-Scalp Lotion",
+    "url": "https://www.drugs.com/pro/ala-scalp-lotion.html"
+  },
+  {
+    "drug_name": "Ala-Tet",
+    "url": "https://www.drugs.com/mtm/ala-tet.html"
+  },
+  {
+    "drug_name": "Alahist CF",
+    "url": "https://www.drugs.com/mtm/alahist-cf.html"
+  },
+  {
+    "drug_name": "Alahist D",
+    "url": "https://www.drugs.com/mtm/alahist-d.html"
+  },
+  {
+    "drug_name": "Alahist DM (dexbrompheniramine)",
+    "url": "https://www.drugs.com/mtm/alahist-dm-dexbrompheniramine.html"
+  },
+  {
+    "drug_name": "Alahist-DM",
+    "url": "https://www.drugs.com/mtm/alahist-dm.html"
+  },
+  {
+    "drug_name": "Alamast",
+    "url": "https://www.drugs.com/cons/alamast.html"
+  },
+  {
+    "drug_name": "Alavert",
+    "url": "https://www.drugs.com/mtm/alavert.html"
+  },
+  {
+    "drug_name": "Alavert D-12",
+    "url": "https://www.drugs.com/mtm/alavert-d-12.html"
+  },
+  {
+    "drug_name": "Alavert D-12 Hour Allergy and Sinus",
+    "url": "https://www.drugs.com/pro/alavert-d-12-hour-allergy-and-sinus.html"
+  },
+  {
+    "drug_name": "Alavert-D 12-Hour",
+    "url": "https://www.drugs.com/cons/alavert-d-12-hour.html"
+  },
+  {
+    "drug_name": "Alaway",
+    "url": "https://www.drugs.com/mtm/alaway.html"
+  },
+  {
+    "drug_name": "Alaway Preservative Free",
+    "url": "https://www.drugs.com/mtm/alaway-preservative-free.html"
+  },
+  {
+    "drug_name": "Albalon",
+    "url": "https://www.drugs.com/mtm/albalon.html"
+  },
+  {
+    "drug_name": "Albendazole",
+    "url": "https://www.drugs.com/mtm/albendazole.html"
+  },
+  {
+    "drug_name": "Albenza",
+    "url": "https://www.drugs.com/mtm/albenza.html"
+  },
+  {
+    "drug_name": "Albiglutide",
+    "url": "https://www.drugs.com/albiglutide.html"
+  },
+  {
+    "drug_name": "Albuked",
+    "url": "https://www.drugs.com/pro/albuked.html"
+  },
+  {
+    "drug_name": "Albuked 25",
+    "url": "https://www.drugs.com/cons/albuked-25.html"
+  },
+  {
+    "drug_name": "Albuked 25 human",
+    "url": "https://www.drugs.com/mtm/albuked-25-human.html"
+  },
+  {
+    "drug_name": "Albuked 5",
+    "url": "https://www.drugs.com/cons/albuked-5.html"
+  },
+  {
+    "drug_name": "Albuked 5 human",
+    "url": "https://www.drugs.com/mtm/albuked-5-human.html"
+  },
+  {
+    "drug_name": "Albuked human",
+    "url": "https://www.drugs.com/mtm/albuked-human.html"
+  },
+  {
+    "drug_name": "Albumarc",
+    "url": "https://www.drugs.com/cons/albumarc.html"
+  },
+  {
+    "drug_name": "Albumin (Human) 20%",
+    "url": "https://www.drugs.com/pro/albumin-human-20.html"
+  },
+  {
+    "drug_name": "Albumin human",
+    "url": "https://www.drugs.com/mtm/albumin-human.html"
+  },
+  {
+    "drug_name": "Albumin, iodinated i-131",
+    "url": "https://www.drugs.com/cons/albumin-iodinated-i-131.html"
+  },
+  {
+    "drug_name": "Albuminar",
+    "url": "https://www.drugs.com/cons/albuminar.html"
+  },
+  {
+    "drug_name": "Albuminar-25",
+    "url": "https://www.drugs.com/pro/albuminar-25.html"
+  },
+  {
+    "drug_name": "Albuminar-25 human",
+    "url": "https://www.drugs.com/mtm/albuminar-25-human.html"
+  },
+  {
+    "drug_name": "Albuminex human",
+    "url": "https://www.drugs.com/mtm/albuminex-human.html"
+  },
+  {
+    "drug_name": "Albuminex Injection",
+    "url": "https://www.drugs.com/pro/albuminex-injection.html"
+  },
+  {
+    "drug_name": "Alburx",
+    "url": "https://www.drugs.com/cons/alburx.html"
+  },
+  {
+    "drug_name": "Alburx human",
+    "url": "https://www.drugs.com/mtm/alburx-human.html"
+  },
+  {
+    "drug_name": "Albutein",
+    "url": "https://www.drugs.com/cons/albutein.html"
+  },
+  {
+    "drug_name": "Albutein 25%",
+    "url": "https://www.drugs.com/pro/albutein-25.html"
+  },
+  {
+    "drug_name": "Albutein 5%",
+    "url": "https://www.drugs.com/pro/albutein-5.html"
+  },
+  {
+    "drug_name": "Albutein human",
+    "url": "https://www.drugs.com/mtm/albutein-human.html"
+  },
+  {
+    "drug_name": "Albuterol",
+    "url": "https://www.drugs.com/albuterol.html"
+  },
+  {
+    "drug_name": "Albuterol (Oral)",
+    "url": "https://www.drugs.com/cons/albuterol-oral.html"
+  },
+  {
+    "drug_name": "Albuterol Aerosol",
+    "url": "https://www.drugs.com/pro/albuterol-aerosol.html"
+  },
+  {
+    "drug_name": "Albuterol and budesonide inhalation",
+    "url": "https://www.drugs.com/mtm/albuterol-and-budesonide-inhalation.html"
+  },
+  {
+    "drug_name": "Albuterol and ipratropium inhalation",
+    "url": "https://www.drugs.com/mtm/albuterol-and-ipratropium-inhalation.html"
+  },
+  {
+    "drug_name": "Albuterol Extended-Release Tablets",
+    "url": "https://www.drugs.com/pro/albuterol-extended-release-tablets.html"
+  },
+  {
+    "drug_name": "Albuterol Inhalation Solution",
+    "url": "https://www.drugs.com/pro/albuterol-inhalation-solution.html"
+  },
+  {
+    "drug_name": "Albuterol Oral Solution",
+    "url": "https://www.drugs.com/pro/albuterol-oral-solution.html"
+  },
+  {
+    "drug_name": "Albuterol Sulfate and Budesonide (Oral Inhalation)",
+    "url": "https://www.drugs.com/monograph/albuterol-sulfate-and-budesonide-oral-inhalation.html"
+  },
+  {
+    "drug_name": "Albuterol Sulfate, Levalbuterol Hydrochloride, Levalbuterol Tartrate (Systemic, Oral Inhalation)",
+    "url": "https://www.drugs.com/monograph/albuterol-sulfate-levalbuterol-hydrochloride-levalbuterol-tartrate-systemic-oral-inhalation.html"
+  },
+  {
+    "drug_name": "Albuterol Syrup",
+    "url": "https://www.drugs.com/pro/albuterol-syrup.html"
+  },
+  {
+    "drug_name": "Alcaftadine",
+    "url": "https://www.drugs.com/cons/alcaftadine.html"
+  },
+  {
+    "drug_name": "Alcaftadine (EENT)",
+    "url": "https://www.drugs.com/monograph/alcaftadine-eent.html"
+  },
+  {
+    "drug_name": "Alcaftadine ophthalmic",
+    "url": "https://www.drugs.com/mtm/alcaftadine-ophthalmic.html"
+  },
+  {
+    "drug_name": "Alcaine",
+    "url": "https://www.drugs.com/mtm/alcaine.html"
+  },
+  {
+    "drug_name": "Alclometasone",
+    "url": "https://www.drugs.com/pro/alclometasone.html"
+  },
+  {
+    "drug_name": "Alclometasone Ointment",
+    "url": "https://www.drugs.com/pro/alclometasone-ointment.html"
+  },
+  {
+    "drug_name": "Alclometasone topical",
+    "url": "https://www.drugs.com/mtm/alclometasone-topical.html"
+  },
+  {
+    "drug_name": "Alcohol",
+    "url": "https://www.drugs.com/alcohol.html"
+  },
+  {
+    "drug_name": "Alcohol and Dextrose",
+    "url": "https://www.drugs.com/pro/alcohol-and-dextrose.html"
+  },
+  {
+    "drug_name": "Alcohol in Dextrose",
+    "url": "https://www.drugs.com/pro/alcohol-in-dextrose.html"
+  },
+  {
+    "drug_name": "Alcortin A Gel",
+    "url": "https://www.drugs.com/pro/alcortin-a-gel.html"
+  },
+  {
+    "drug_name": "Alcortin A topical",
+    "url": "https://www.drugs.com/mtm/alcortin-a-topical.html"
+  },
+  {
+    "drug_name": "Aldactazide",
+    "url": "https://www.drugs.com/cons/aldactazide.html"
+  },
+  {
+    "drug_name": "Aldactone",
+    "url": "https://www.drugs.com/aldactone.html"
+  },
+  {
+    "drug_name": "Aldara",
+    "url": "https://www.drugs.com/aldara.html"
+  },
+  {
+    "drug_name": "Aldesleukin",
+    "url": "https://www.drugs.com/mtm/aldesleukin.html"
+  },
+  {
+    "drug_name": "Aldex G",
+    "url": "https://www.drugs.com/mtm/aldex-g.html"
+  },
+  {
+    "drug_name": "Aldomet",
+    "url": "https://www.drugs.com/mtm/aldomet.html"
+  },
+  {
+    "drug_name": "Aldoril",
+    "url": "https://www.drugs.com/cons/aldoril.html"
+  },
+  {
+    "drug_name": "Aldurazyme",
+    "url": "https://www.drugs.com/aldurazyme.html"
+  },
+  {
+    "drug_name": "Alecensa",
+    "url": "https://www.drugs.com/alecensa.html"
+  },
+  {
+    "drug_name": "Alectinib",
+    "url": "https://www.drugs.com/alectinib.html"
+  },
+  {
+    "drug_name": "Alectinib Hydrochloride",
+    "url": "https://www.drugs.com/monograph/alectinib-hydrochloride.html"
+  },
+  {
+    "drug_name": "Alefacept",
+    "url": "https://www.drugs.com/cons/alefacept.html"
+  },
+  {
+    "drug_name": "Alemtuzumab",
+    "url": "https://www.drugs.com/mtm/alemtuzumab.html"
+  },
+  {
+    "drug_name": "Alemtuzumab (Antineoplastic)",
+    "url": "https://www.drugs.com/monograph/alemtuzumab-antineoplastic.html"
+  },
+  {
+    "drug_name": "Alemtuzumab (Multiple Sclerosis)",
+    "url": "https://www.drugs.com/monograph/alemtuzumab-multiple-sclerosis.html"
+  },
+  {
+    "drug_name": "Alendronate",
+    "url": "https://www.drugs.com/mtm/alendronate.html"
+  },
+  {
+    "drug_name": "Alendronate and cholecalciferol",
+    "url": "https://www.drugs.com/mtm/alendronate-and-cholecalciferol.html"
+  },
+  {
+    "drug_name": "Alendronate Oral Solution",
+    "url": "https://www.drugs.com/pro/alendronate-oral-solution.html"
+  },
+  {
+    "drug_name": "Alera",
+    "url": "https://www.drugs.com/mtm/alera.html"
+  },
+  {
+    "drug_name": "Alert",
+    "url": "https://www.drugs.com/mtm/alert.html"
+  },
+  {
+    "drug_name": "Alesse",
+    "url": "https://www.drugs.com/alesse.html"
+  },
+  {
+    "drug_name": "Alesse-28",
+    "url": "https://www.drugs.com/cons/alesse-28.html"
+  },
+  {
+    "drug_name": "Aletris",
+    "url": "https://www.drugs.com/npp/aletris.html"
+  },
+  {
+    "drug_name": "Alevazol",
+    "url": "https://www.drugs.com/mtm/alevazol.html"
+  },
+  {
+    "drug_name": "Aleve",
+    "url": "https://www.drugs.com/aleve.html"
+  },
+  {
+    "drug_name": "Aleve Arthritis",
+    "url": "https://www.drugs.com/cons/aleve-arthritis.html"
+  },
+  {
+    "drug_name": "Aleve Back and Muscle Pain",
+    "url": "https://www.drugs.com/mtm/aleve-back-and-muscle-pain.html"
+  },
+  {
+    "drug_name": "Aleve Caplets",
+    "url": "https://www.drugs.com/pro/aleve-caplets.html"
+  },
+  {
+    "drug_name": "Aleve Cold and Sinus",
+    "url": "https://www.drugs.com/mtm/aleve-cold-and-sinus.html"
+  },
+  {
+    "drug_name": "Aleve Easy Open Arthritis",
+    "url": "https://www.drugs.com/mtm/aleve-easy-open-arthritis.html"
+  },
+  {
+    "drug_name": "Aleve Liquid Gels",
+    "url": "https://www.drugs.com/mtm/aleve-liquid-gels.html"
+  },
+  {
+    "drug_name": "Aleve PM",
+    "url": "https://www.drugs.com/aleve-pm.html"
+  },
+  {
+    "drug_name": "Aleve Sinus and Headache",
+    "url": "https://www.drugs.com/mtm/aleve-sinus-and-headache.html"
+  },
+  {
+    "drug_name": "Aleve-D Cold and Sinus",
+    "url": "https://www.drugs.com/mtm/aleve-d-cold-and-sinus.html"
+  },
+  {
+    "drug_name": "Aleve-D Sinus and Cold",
+    "url": "https://www.drugs.com/mtm/aleve-d-sinus-and-cold.html"
+  },
+  {
+    "drug_name": "Alevex Pain Relieving",
+    "url": "https://www.drugs.com/mtm/alevex-pain-relieving.html"
+  },
+  {
+    "drug_name": "Alevex Pain Relieving Roll-On",
+    "url": "https://www.drugs.com/mtm/alevex-pain-relieving-roll-on.html"
+  },
+  {
+    "drug_name": "Alfalfa",
+    "url": "https://www.drugs.com/npp/alfalfa.html"
+  },
+  {
+    "drug_name": "Alfentanil",
+    "url": "https://www.drugs.com/cons/alfentanil.html"
+  },
+  {
+    "drug_name": "Alferon N",
+    "url": "https://www.drugs.com/mtm/alferon-n.html"
+  },
+  {
+    "drug_name": "Alfuzosin",
+    "url": "https://www.drugs.com/cons/alfuzosin.html"
+  },
+  {
+    "drug_name": "Alfuzosin Tablets",
+    "url": "https://www.drugs.com/pro/alfuzosin-tablets.html"
+  },
+  {
+    "drug_name": "Alglucerase",
+    "url": "https://www.drugs.com/cons/alglucerase.html"
+  },
+  {
+    "drug_name": "Alglucosidase alfa",
+    "url": "https://www.drugs.com/cons/alglucosidase-alfa.html"
+  },
+  {
+    "drug_name": "Alhemo",
+    "url": "https://www.drugs.com/alhemo.html"
+  },
+  {
+    "drug_name": "Alhemo Prefilled Pen",
+    "url": "https://www.drugs.com/mtm/alhemo-prefilled-pen.html"
+  },
+  {
+    "drug_name": "Aliclen",
+    "url": "https://www.drugs.com/cons/aliclen.html"
+  },
+  {
+    "drug_name": "Align",
+    "url": "https://www.drugs.com/mtm/align.html"
+  },
+  {
+    "drug_name": "Alimta",
+    "url": "https://www.drugs.com/alimta.html"
+  },
+  {
+    "drug_name": "Alinia",
+    "url": "https://www.drugs.com/mtm/alinia.html"
+  },
+  {
+    "drug_name": "Aliqopa",
+    "url": "https://www.drugs.com/aliqopa.html"
+  },
+  {
+    "drug_name": "Alirocumab",
+    "url": "https://www.drugs.com/alirocumab.html"
+  },
+  {
+    "drug_name": "Aliskiren",
+    "url": "https://www.drugs.com/mtm/aliskiren.html"
+  },
+  {
+    "drug_name": "Aliskiren and amlodipine",
+    "url": "https://www.drugs.com/cons/aliskiren-and-amlodipine.html"
+  },
+  {
+    "drug_name": "Aliskiren and hydrochlorothiazide",
+    "url": "https://www.drugs.com/cons/aliskiren-and-hydrochlorothiazide.html"
+  },
+  {
+    "drug_name": "Aliskiren Tablets",
+    "url": "https://www.drugs.com/pro/aliskiren-tablets.html"
+  },
+  {
+    "drug_name": "Aliskiren, amlodipine, and hydrochlorothiazide",
+    "url": "https://www.drugs.com/cons/aliskiren-amlodipine-and-hydrochlorothiazide.html"
+  },
+  {
+    "drug_name": "Alitretinoin",
+    "url": "https://www.drugs.com/cons/alitretinoin.html"
+  },
+  {
+    "drug_name": "Alitretinoin topical",
+    "url": "https://www.drugs.com/mtm/alitretinoin-topical.html"
+  },
+  {
+    "drug_name": "Alivio",
+    "url": "https://www.drugs.com/pro/alivio.html"
+  },
+  {
+    "drug_name": "Alka-Mints",
+    "url": "https://www.drugs.com/mtm/alka-mints.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer",
+    "url": "https://www.drugs.com/cons/alka-seltzer.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Anti-Gas",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-anti-gas.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Cold and Sinus",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-cold-and-sinus.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Cool Action Heartburn Relief",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-cool-action-heartburn-relief.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Extra Strength Heartburn Relief",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-extra-strength-heartburn-relief.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Hangover Relief",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-hangover-relief.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Heartburn Relief Lemon Lime",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-heartburn-relief-lemon-lime.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Morning Relief",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-morning-relief.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Cold",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-cold.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Cold and Cough",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-cold-and-cough.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Cold and Cough Powerfast Fizz",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-cold-and-cough-powerfast-fizz.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Cold And Flu Day Night Maximum Strength",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-cold-and-flu-day-night-maximum-strength.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Cold and Sinus",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-cold-and-sinus.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Cold Formula",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-cold-formula.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Cold Powerfast Fizz Night",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-cold-powerfast-fizz-night.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Day and Night Cold and Flu Max Strength",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-day-and-night-cold-and-flu-max-strength.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Maximum Strength",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-maximum-strength.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Night Severe Cold and Flu",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-night-severe-cold-and-flu.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Night-Time Cold",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-night-time-cold.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Powermax",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-powermax.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Severe Cold Night Powerfast Fizz",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-severe-cold-night-powerfast-fizz.html"
+  },
+  {
+    "drug_name": "Alka-Seltzer Plus Severe Cold Powerfast Fizz Day and Night",
+    "url": "https://www.drugs.com/mtm/alka-seltzer-plus-severe-cold-powerfast-fizz-day-and-night.html"
+  },
+  {
+    "drug_name": "Alkanna Root",
+    "url": "https://www.drugs.com/npp/alkanna-root.html"
+  },
+  {
+    "drug_name": "Alkeran",
+    "url": "https://www.drugs.com/cons/alkeran.html"
+  },
+  {
+    "drug_name": "Alkeran IV",
+    "url": "https://www.drugs.com/cons/alkeran-iv.html"
+  },
+  {
+    "drug_name": "Alkeran Tablets",
+    "url": "https://www.drugs.com/pro/alkeran-tablets.html"
+  },
+  {
+    "drug_name": "Alkindi Sprinkle",
+    "url": "https://www.drugs.com/mtm/alkindi-sprinkle.html"
+  },
+  {
+    "drug_name": "All Day Allergy-D",
+    "url": "https://www.drugs.com/mtm/all-day-allergy-d.html"
+  },
+  {
+    "drug_name": "All Day Pain Relief",
+    "url": "https://www.drugs.com/pro/all-day-pain-relief.html"
+  },
+  {
+    "drug_name": "All Day Relief",
+    "url": "https://www.drugs.com/pro/all-day-relief.html"
+  },
+  {
+    "drug_name": "All-Nite",
+    "url": "https://www.drugs.com/mtm/all-nite.html"
+  },
+  {
+    "drug_name": "Allan Tannate Pediatric",
+    "url": "https://www.drugs.com/mtm/allan-tannate-pediatric.html"
+  },
+  {
+    "drug_name": "Allanhist PDX Drops",
+    "url": "https://www.drugs.com/mtm/allanhist-pdx-drops.html"
+  },
+  {
+    "drug_name": "Allegra",
+    "url": "https://www.drugs.com/allegra.html"
+  },
+  {
+    "drug_name": "Allegra 12 Hour Allergy",
+    "url": "https://www.drugs.com/mtm/allegra-12-hour-allergy.html"
+  },
+  {
+    "drug_name": "Allegra 24 Hour Allergy",
+    "url": "https://www.drugs.com/mtm/allegra-24-hour-allergy.html"
+  },
+  {
+    "drug_name": "Allegra Allergy",
+    "url": "https://www.drugs.com/mtm/allegra-allergy.html"
+  },
+  {
+    "drug_name": "Allegra Hives 24hr",
+    "url": "https://www.drugs.com/pro/allegra-hives-24hr.html"
+  },
+  {
+    "drug_name": "Allegra ODT",
+    "url": "https://www.drugs.com/cons/allegra-odt.html"
+  },
+  {
+    "drug_name": "Allegra OTC",
+    "url": "https://www.drugs.com/mtm/allegra-otc.html"
+  },
+  {
+    "drug_name": "Allegra-D 12 hour",
+    "url": "https://www.drugs.com/allegra_d.html"
+  },
+  {
+    "drug_name": "Allegra-D 12 Hour Allergy and Congestion",
+    "url": "https://www.drugs.com/mtm/allegra-d-12-hour-allergy-and-congestion.html"
+  },
+  {
+    "drug_name": "Allegra-D 24 Hour",
+    "url": "https://www.drugs.com/allegra_d_24.html"
+  },
+  {
+    "drug_name": "Allegra-D 24 Hour Allergy and Congestion",
+    "url": "https://www.drugs.com/mtm/allegra-d-24-hour-allergy-and-congestion.html"
+  },
+  {
+    "drug_name": "Aller-Chlor",
+    "url": "https://www.drugs.com/mtm/aller-chlor.html"
+  },
+  {
+    "drug_name": "Aller-Ease",
+    "url": "https://www.drugs.com/mtm/aller-ease.html"
+  },
+  {
+    "drug_name": "AllerDur",
+    "url": "https://www.drugs.com/mtm/allerdur.html"
+  },
+  {
+    "drug_name": "Allerest 12 Hour Nasal Spray",
+    "url": "https://www.drugs.com/mtm/allerest-12-hour-nasal-spray.html"
+  },
+  {
+    "drug_name": "Allerest Maximum Strength",
+    "url": "https://www.drugs.com/mtm/allerest-maximum-strength.html"
+  },
+  {
+    "drug_name": "Allerest No Drowsiness",
+    "url": "https://www.drugs.com/mtm/allerest-no-drowsiness.html"
+  },
+  {
+    "drug_name": "Allerest PE",
+    "url": "https://www.drugs.com/mtm/allerest-pe.html"
+  },
+  {
+    "drug_name": "Allergenic Extract, Bee and Wasp",
+    "url": "https://www.drugs.com/pro/allergenic-extract-bee-and-wasp.html"
+  },
+  {
+    "drug_name": "Allergenic Extract, Coca Glycerine",
+    "url": "https://www.drugs.com/pro/allergenic-extract-coca-glycerine.html"
+  },
+  {
+    "drug_name": "Allergenic Extract, Standardized Mites",
+    "url": "https://www.drugs.com/pro/allergenic-extract-standardized-mites.html"
+  },
+  {
+    "drug_name": "Allergenic Extracts Injection",
+    "url": "https://www.drugs.com/pro/allergenic-extracts-injection.html"
+  },
+  {
+    "drug_name": "Allergenic Extracts, Grass",
+    "url": "https://www.drugs.com/pro/allergenic-extracts-grass.html"
+  },
+  {
+    "drug_name": "Allergenic Extracts, Grass Pollen",
+    "url": "https://www.drugs.com/pro/allergenic-extracts-grass-pollen.html"
+  },
+  {
+    "drug_name": "Allergy & Congestion Relief",
+    "url": "https://www.drugs.com/cons/allergy-congestion-relief.html"
+  },
+  {
+    "drug_name": "Allergy (Diphenhydramine HCl)",
+    "url": "https://www.drugs.com/mtm/allergy-diphenhydramine-hcl.html"
+  },
+  {
+    "drug_name": "Allergy Nasal Spray",
+    "url": "https://www.drugs.com/pro/allergy-nasal-spray.html"
+  },
+  {
+    "drug_name": "Allergy Relief",
+    "url": "https://www.drugs.com/mtm/allergy-relief.html"
+  },
+  {
+    "drug_name": "Allergy Relief (Chlorpheniramine)",
+    "url": "https://www.drugs.com/mtm/allergy-relief-chlorpheniramine.html"
+  },
+  {
+    "drug_name": "Allergy Relief (Diphenhydramine HCl)",
+    "url": "https://www.drugs.com/mtm/allergy-relief-diphenhydramine-hcl.html"
+  },
+  {
+    "drug_name": "Allergy Relief (Fexofenadine HCl)",
+    "url": "https://www.drugs.com/mtm/allergy-relief-fexofenadine-hcl.html"
+  },
+  {
+    "drug_name": "Allergy Relief D",
+    "url": "https://www.drugs.com/pro/allergy-relief-d.html"
+  },
+  {
+    "drug_name": "Allergy Spray",
+    "url": "https://www.drugs.com/pro/allergy-spray.html"
+  },
+  {
+    "drug_name": "Allermax",
+    "url": "https://www.drugs.com/mtm/allermax.html"
+  },
+  {
+    "drug_name": "AllerNaze",
+    "url": "https://www.drugs.com/allernaze.html"
+  },
+  {
+    "drug_name": "Allersol",
+    "url": "https://www.drugs.com/mtm/allersol.html"
+  },
+  {
+    "drug_name": "Allfen",
+    "url": "https://www.drugs.com/mtm/allfen.html"
+  },
+  {
+    "drug_name": "Allfen C",
+    "url": "https://www.drugs.com/mtm/allfen-c.html"
+  },
+  {
+    "drug_name": "Allfen CD",
+    "url": "https://www.drugs.com/mtm/allfen-cd.html"
+  },
+  {
+    "drug_name": "Allfen CX",
+    "url": "https://www.drugs.com/mtm/allfen-cx.html"
+  },
+  {
+    "drug_name": "Alli",
+    "url": "https://www.drugs.com/alli.html"
+  },
+  {
+    "drug_name": "AlloPAX",
+    "url": "https://www.drugs.com/pro/allopax.html"
+  },
+  {
+    "drug_name": "Allopurinol",
+    "url": "https://www.drugs.com/allopurinol.html"
+  },
+  {
+    "drug_name": "Allopurinol Injection",
+    "url": "https://www.drugs.com/pro/allopurinol-injection.html"
+  },
+  {
+    "drug_name": "Allspice",
+    "url": "https://www.drugs.com/npp/allspice.html"
+  },
+  {
+    "drug_name": "Allzital",
+    "url": "https://www.drugs.com/mtm/allzital.html"
+  },
+  {
+    "drug_name": "Almacone",
+    "url": "https://www.drugs.com/mtm/almacone.html"
+  },
+  {
+    "drug_name": "Almond/Almond Oil",
+    "url": "https://www.drugs.com/npp/almond-almond-oil.html"
+  },
+  {
+    "drug_name": "Almotriptan",
+    "url": "https://www.drugs.com/mtm/almotriptan.html"
+  },
+  {
+    "drug_name": "Alocril",
+    "url": "https://www.drugs.com/cons/alocril.html"
+  },
+  {
+    "drug_name": "Alodox",
+    "url": "https://www.drugs.com/pro/alodox.html"
+  },
+  {
+    "drug_name": "Aloe",
+    "url": "https://www.drugs.com/npc/aloe.html"
+  },
+  {
+    "drug_name": "Aloe Grande topical",
+    "url": "https://www.drugs.com/mtm/aloe-grande-topical.html"
+  },
+  {
+    "drug_name": "Aloe polysaccharides, hydrocortisone, and iodoquinol topical",
+    "url": "https://www.drugs.com/mtm/aloe-polysaccharides-hydrocortisone-and-iodoquinol-topical.html"
+  },
+  {
+    "drug_name": "Aloe vera topical",
+    "url": "https://www.drugs.com/mtm/aloe-vera-topical.html"
+  },
+  {
+    "drug_name": "Aloe Vesta 2-N-1 Antifungal",
+    "url": "https://www.drugs.com/cons/aloe-vesta-2-n-1-antifungal.html"
+  },
+  {
+    "drug_name": "Aloe Vesta Antifungal",
+    "url": "https://www.drugs.com/cons/aloe-vesta-antifungal.html"
+  },
+  {
+    "drug_name": "Aloe Vesta Clear Antifungal",
+    "url": "https://www.drugs.com/mtm/aloe-vesta-clear-antifungal.html"
+  },
+  {
+    "drug_name": "Alogliptin",
+    "url": "https://www.drugs.com/mtm/alogliptin.html"
+  },
+  {
+    "drug_name": "Alogliptin and metformin",
+    "url": "https://www.drugs.com/mtm/alogliptin-and-metformin.html"
+  },
+  {
+    "drug_name": "Alogliptin and Metformin Tablets",
+    "url": "https://www.drugs.com/pro/alogliptin-and-metformin-tablets.html"
+  },
+  {
+    "drug_name": "Alogliptin and pioglitazone",
+    "url": "https://www.drugs.com/mtm/alogliptin-and-pioglitazone.html"
+  },
+  {
+    "drug_name": "Alogliptin and Pioglitazone Tablets",
+    "url": "https://www.drugs.com/pro/alogliptin-and-pioglitazone-tablets.html"
+  },
+  {
+    "drug_name": "Alomide",
+    "url": "https://www.drugs.com/mtm/alomide.html"
+  },
+  {
+    "drug_name": "Aloprim",
+    "url": "https://www.drugs.com/cons/aloprim.html"
+  },
+  {
+    "drug_name": "Aloquin Gel",
+    "url": "https://www.drugs.com/pro/aloquin-gel.html"
+  },
+  {
+    "drug_name": "Alora",
+    "url": "https://www.drugs.com/cons/alora.html"
+  },
+  {
+    "drug_name": "Alora skin patch",
+    "url": "https://www.drugs.com/mtm/alora-skin-patch.html"
+  },
+  {
+    "drug_name": "Alosetron",
+    "url": "https://www.drugs.com/mtm/alosetron.html"
+  },
+  {
+    "drug_name": "Aloxi",
+    "url": "https://www.drugs.com/aloxi.html"
+  },
+  {
+    "drug_name": "Aloxi Capsules",
+    "url": "https://www.drugs.com/pro/aloxi-capsules.html"
+  },
+  {
+    "drug_name": "Alpelisib",
+    "url": "https://www.drugs.com/alpelisib.html"
+  },
+  {
+    "drug_name": "Alpha 1-proteinase inhibitor",
+    "url": "https://www.drugs.com/mtm/alpha-1-proteinase-inhibitor.html"
+  },
+  {
+    "drug_name": "Alpha Lipoic Acid",
+    "url": "https://www.drugs.com/mtm/alpha-lipoic-acid.html"
+  },
+  {
+    "drug_name": "Alpha-1-Proteinase Inhibitor (Human)",
+    "url": "https://www.drugs.com/monograph/alpha-1-proteinase-inhibitor-human.html"
+  },
+  {
+    "drug_name": "Alpha-E",
+    "url": "https://www.drugs.com/cons/alpha-e.html"
+  },
+  {
+    "drug_name": "Alpha-Pro Gel",
+    "url": "https://www.drugs.com/pro/alpha-pro-gel.html"
+  },
+  {
+    "drug_name": "Alphagan P",
+    "url": "https://www.drugs.com/alphagan.html"
+  },
+  {
+    "drug_name": "Alphanate",
+    "url": "https://www.drugs.com/mtm/alphanate.html"
+  },
+  {
+    "drug_name": "Alphanine SD",
+    "url": "https://www.drugs.com/mtm/alphanine-sd.html"
+  },
+  {
+    "drug_name": "Alphatrex",
+    "url": "https://www.drugs.com/cons/alphatrex.html"
+  },
+  {
+    "drug_name": "Alprazolam",
+    "url": "https://www.drugs.com/alprazolam.html"
+  },
+  {
+    "drug_name": "Alprazolam Extended Release",
+    "url": "https://www.drugs.com/pro/alprazolam-extended-release.html"
+  },
+  {
+    "drug_name": "Alprazolam Intensol",
+    "url": "https://www.drugs.com/pro/alprazolam-intensol.html"
+  },
+  {
+    "drug_name": "Alprazolam ODT",
+    "url": "https://www.drugs.com/pro/alprazolam-odt.html"
+  },
+  {
+    "drug_name": "Alprazolam XR",
+    "url": "https://www.drugs.com/pro/alprazolam-xr.html"
+  },
+  {
+    "drug_name": "Alprolix",
+    "url": "https://www.drugs.com/alprolix.html"
+  },
+  {
+    "drug_name": "Alprolix (Factor ix fc fusion protein recombinant Intravenous)",
+    "url": "https://www.drugs.com/cons/alprolix-factor-ix-fc-fusion-protein-recombinant-intravenous.html"
+  },
+  {
+    "drug_name": "Alprolix (Factor ix Intravenous, Injection)",
+    "url": "https://www.drugs.com/cons/alprolix-factor-ix-intravenous-injection.html"
+  },
+  {
+    "drug_name": "Alprostadil",
+    "url": "https://www.drugs.com/pro/alprostadil.html"
+  },
+  {
+    "drug_name": "Alprostadil (Intracavernosal)",
+    "url": "https://www.drugs.com/cons/alprostadil-intracavernosal.html"
+  },
+  {
+    "drug_name": "Alprostadil (Intravenous)",
+    "url": "https://www.drugs.com/cons/alprostadil-intravenous.html"
+  },
+  {
+    "drug_name": "Alprostadil (Systemic, Local)",
+    "url": "https://www.drugs.com/monograph/alprostadil-systemic-local.html"
+  },
+  {
+    "drug_name": "Alprostadil (Urethral)",
+    "url": "https://www.drugs.com/cons/alprostadil-urethral.html"
+  },
+  {
+    "drug_name": "Alprostadil injectable and transurethral",
+    "url": "https://www.drugs.com/mtm/alprostadil-injectable-and-transurethral.html"
+  },
+  {
+    "drug_name": "Alrex",
+    "url": "https://www.drugs.com/cons/alrex.html"
+  },
+  {
+    "drug_name": "Alrex ophthalmic",
+    "url": "https://www.drugs.com/mtm/alrex-ophthalmic.html"
+  },
+  {
+    "drug_name": "Alsuma",
+    "url": "https://www.drugs.com/alsuma.html"
+  },
+  {
+    "drug_name": "Altabax",
+    "url": "https://www.drugs.com/altabax.html"
+  },
+  {
+    "drug_name": "Altacaine",
+    "url": "https://www.drugs.com/cons/altacaine.html"
+  },
+  {
+    "drug_name": "Altacaine Ophthalmic Solution",
+    "url": "https://www.drugs.com/pro/altacaine-ophthalmic-solution.html"
+  },
+  {
+    "drug_name": "Altace",
+    "url": "https://www.drugs.com/altace.html"
+  },
+  {
+    "drug_name": "Altachlore ophthalmic",
+    "url": "https://www.drugs.com/mtm/altachlore-ophthalmic.html"
+  },
+  {
+    "drug_name": "Altaflor",
+    "url": "https://www.drugs.com/mtm/altaflor.html"
+  },
+  {
+    "drug_name": "Altafluor",
+    "url": "https://www.drugs.com/pro/altafluor.html"
+  },
+  {
+    "drug_name": "Altafrin",
+    "url": "https://www.drugs.com/mtm/altafrin.html"
+  },
+  {
+    "drug_name": "Altarussin",
+    "url": "https://www.drugs.com/mtm/altarussin.html"
+  },
+  {
+    "drug_name": "Altarussin CF",
+    "url": "https://www.drugs.com/mtm/altarussin-cf.html"
+  },
+  {
+    "drug_name": "Altavera",
+    "url": "https://www.drugs.com/cons/altavera.html"
+  },
+  {
+    "drug_name": "Altavera (28 Day)",
+    "url": "https://www.drugs.com/mtm/altavera-28-day.html"
+  },
+  {
+    "drug_name": "Altazine",
+    "url": "https://www.drugs.com/mtm/altazine.html"
+  },
+  {
+    "drug_name": "Altenol",
+    "url": "https://www.drugs.com/cons/altenol.html"
+  },
+  {
+    "drug_name": "Alteplase",
+    "url": "https://www.drugs.com/mtm/alteplase.html"
+  },
+  {
+    "drug_name": "Alteplase, recombinant",
+    "url": "https://www.drugs.com/cons/alteplase-recombinant.html"
+  },
+  {
+    "drug_name": "Altocor",
+    "url": "https://www.drugs.com/altocor.html"
+  },
+  {
+    "drug_name": "Altoprev",
+    "url": "https://www.drugs.com/mtm/altoprev.html"
+  },
+  {
+    "drug_name": "Altreno",
+    "url": "https://www.drugs.com/mtm/altreno.html"
+  },
+  {
+    "drug_name": "Altretamine",
+    "url": "https://www.drugs.com/cons/altretamine.html"
+  },
+  {
+    "drug_name": "Altuviiio",
+    "url": "https://www.drugs.com/altuviiio.html"
+  },
+  {
+    "drug_name": "Altuviiio (Antihemophilic factor (recombinant), fc-vwf-xten fusion protein-ehtl Intravenous)",
+    "url": "https://www.drugs.com/cons/altuviiio-antihemophilic-factor-recombinant-fc-vwf-xten-fusion-protein-ehtl-intravenous.html"
+  },
+  {
+    "drug_name": "Altuviiio (Antihemophilic factor Intravenous)",
+    "url": "https://www.drugs.com/cons/altuviiio-antihemophilic-factor-intravenous.html"
+  },
+  {
+    "drug_name": "Aluminum Acetate",
+    "url": "https://www.drugs.com/monograph/aluminum-acetate.html"
+  },
+  {
+    "drug_name": "Aluminum Chloride (Topical)",
+    "url": "https://www.drugs.com/monograph/aluminum-chloride-topical.html"
+  },
+  {
+    "drug_name": "Aluminum chloride hexahydrate topical",
+    "url": "https://www.drugs.com/mtm/aluminum-chloride-hexahydrate-topical.html"
+  },
+  {
+    "drug_name": "Aluminum hydroxide",
+    "url": "https://www.drugs.com/mtm/aluminum-hydroxide.html"
+  },
+  {
+    "drug_name": "Aluminum hydroxide and magnesium carbonate",
+    "url": "https://www.drugs.com/mtm/aluminum-hydroxide-and-magnesium-carbonate.html"
+  },
+  {
+    "drug_name": "Aluminum hydroxide and magnesium trisilicate",
+    "url": "https://www.drugs.com/mtm/aluminum-hydroxide-and-magnesium-trisilicate.html"
+  },
+  {
+    "drug_name": "Aluminum hydroxide, magnesium hydroxide, and simethicone",
+    "url": "https://www.drugs.com/mtm/aluminum-hydroxide-magnesium-hydroxide-and-simethicone.html"
+  },
+  {
+    "drug_name": "Alunbrig",
+    "url": "https://www.drugs.com/alunbrig.html"
+  },
+  {
+    "drug_name": "Alupent",
+    "url": "https://www.drugs.com/pro/alupent.html"
+  },
+  {
+    "drug_name": "Alupent (Metaproterenol Inhalation)",
+    "url": "https://www.drugs.com/cons/alupent-metaproterenol-inhalation.html"
+  },
+  {
+    "drug_name": "Alupent (Metaproterenol Oral)",
+    "url": "https://www.drugs.com/cons/alupent-metaproterenol-oral.html"
+  },
+  {
+    "drug_name": "Aluvea",
+    "url": "https://www.drugs.com/mtm/aluvea.html"
+  },
+  {
+    "drug_name": "Alvaiz",
+    "url": "https://www.drugs.com/alvaiz.html"
+  },
+  {
+    "drug_name": "Alvesco",
+    "url": "https://www.drugs.com/alvesco.html"
+  },
+  {
+    "drug_name": "Alvesco inhalation",
+    "url": "https://www.drugs.com/mtm/alvesco-inhalation.html"
+  },
+  {
+    "drug_name": "Alvimopan",
+    "url": "https://www.drugs.com/mtm/alvimopan.html"
+  },
+  {
+    "drug_name": "Alyacen  7/7/7",
+    "url": "https://www.drugs.com/pro/alyacen-7-7-7.html"
+  },
+  {
+    "drug_name": "Alyacen 1/35",
+    "url": "https://www.drugs.com/pro/alyacen-1-35.html"
+  },
+  {
+    "drug_name": "Alyacen 1/35 (28 Day) birth control",
+    "url": "https://www.drugs.com/mtm/alyacen-1-35-28-day-birth-control.html"
+  },
+  {
+    "drug_name": "Alyacen 7/7/7 (28 Day) birth control",
+    "url": "https://www.drugs.com/mtm/alyacen-7-7-7-28-day-birth-control.html"
+  },
+  {
+    "drug_name": "Alyftrek",
+    "url": "https://www.drugs.com/alyftrek.html"
+  },
+  {
+    "drug_name": "Alyglo",
+    "url": "https://www.drugs.com/alyglo.html"
+  },
+  {
+    "drug_name": "Alymsys",
+    "url": "https://www.drugs.com/mtm/alymsys.html"
+  },
+  {
+    "drug_name": "Alymsys (Bevacizumab Intravenous)",
+    "url": "https://www.drugs.com/cons/alymsys-bevacizumab-intravenous.html"
+  },
+  {
+    "drug_name": "Alymsys (Bevacizumab-maly Intravenous)",
+    "url": "https://www.drugs.com/cons/alymsys-bevacizumab-maly-intravenous.html"
+  },
+  {
+    "drug_name": "Alyq",
+    "url": "https://www.drugs.com/mtm/alyq.html"
+  },
+  {
+    "drug_name": "A-Methapred",
+    "url": "https://www.drugs.com/cons/a-methapred.html"
+  },
+  {
+    "drug_name": "A-Methapred injection",
+    "url": "https://www.drugs.com/mtm/a-methapred-injection.html"
+  },
+  {
+    "drug_name": "Amabelz",
+    "url": "https://www.drugs.com/pro/amabelz.html"
+  },
+  {
+    "drug_name": "Amantadine",
+    "url": "https://www.drugs.com/amantadine.html"
+  },
+  {
+    "drug_name": "Amantadine Hydrochloride (Antiparkinson)",
+    "url": "https://www.drugs.com/monograph/amantadine-hydrochloride-antiparkinson.html"
+  },
+  {
+    "drug_name": "Amantadine Hydrochloride (Antiviral)",
+    "url": "https://www.drugs.com/monograph/amantadine-hydrochloride-antiviral.html"
+  },
+  {
+    "drug_name": "Amantadine Oral Solution USP",
+    "url": "https://www.drugs.com/pro/amantadine-oral-solution-usp.html"
+  },
+  {
+    "drug_name": "Amantadine Syrup",
+    "url": "https://www.drugs.com/pro/amantadine-syrup.html"
+  },
+  {
+    "drug_name": "Amantadine Tablets",
+    "url": "https://www.drugs.com/pro/amantadine-tablets.html"
+  },
+  {
+    "drug_name": "Amapki Fakzynja Co-Pack",
+    "url": "https://www.drugs.com/pro/amapki-fakzynja-co-pack.html"
+  },
+  {
+    "drug_name": "Amaryl",
+    "url": "https://www.drugs.com/amaryl.html"
+  },
+  {
+    "drug_name": "Amazonian Basil",
+    "url": "https://www.drugs.com/npp/amazonian-basil.html"
+  },
+  {
+    "drug_name": "Ambator Diclofenac Patch",
+    "url": "https://www.drugs.com/pro/ambator-diclofenac-patch.html"
+  },
+  {
+    "drug_name": "Ambator Lidocaine Patch",
+    "url": "https://www.drugs.com/pro/ambator-lidocaine-patch.html"
+  },
+  {
+    "drug_name": "Ambien",
+    "url": "https://www.drugs.com/ambien.html"
+  },
+  {
+    "drug_name": "Ambien CR",
+    "url": "https://www.drugs.com/cons/ambien-cr.html"
+  },
+  {
+    "drug_name": "Ambifed CD",
+    "url": "https://www.drugs.com/mtm/ambifed-cd.html"
+  },
+  {
+    "drug_name": "Ambifed-G",
+    "url": "https://www.drugs.com/mtm/ambifed-g.html"
+  },
+  {
+    "drug_name": "Ambisome",
+    "url": "https://www.drugs.com/ambisome.html"
+  },
+  {
+    "drug_name": "Ambrisentan",
+    "url": "https://www.drugs.com/mtm/ambrisentan.html"
+  },
+  {
+    "drug_name": "Ambrisentan Tablets",
+    "url": "https://www.drugs.com/pro/ambrisentan-tablets.html"
+  },
+  {
+    "drug_name": "Ambroxol",
+    "url": "https://www.drugs.com/ambroxol.html"
+  },
+  {
+    "drug_name": "Amcinonide",
+    "url": "https://www.drugs.com/cons/amcinonide.html"
+  },
+  {
+    "drug_name": "Amcinonide Lotion",
+    "url": "https://www.drugs.com/pro/amcinonide-lotion.html"
+  },
+  {
+    "drug_name": "Amcinonide Ointment",
+    "url": "https://www.drugs.com/pro/amcinonide-ointment.html"
+  },
+  {
+    "drug_name": "Amcinonide topical",
+    "url": "https://www.drugs.com/mtm/amcinonide-topical.html"
+  },
+  {
+    "drug_name": "Ameluz",
+    "url": "https://www.drugs.com/ameluz.html"
+  },
+  {
+    "drug_name": "Ameluz Gel",
+    "url": "https://www.drugs.com/pro/ameluz-gel.html"
+  },
+  {
+    "drug_name": "Amerge",
+    "url": "https://www.drugs.com/mtm/amerge.html"
+  },
+  {
+    "drug_name": "Amethia",
+    "url": "https://www.drugs.com/cons/amethia.html"
+  },
+  {
+    "drug_name": "Amethia (91 Day) extended-cycle",
+    "url": "https://www.drugs.com/mtm/amethia-91-day-extended-cycle.html"
+  },
+  {
+    "drug_name": "Amethia Lo",
+    "url": "https://www.drugs.com/cons/amethia-lo.html"
+  },
+  {
+    "drug_name": "Amethia Lo extended-cycle",
+    "url": "https://www.drugs.com/mtm/amethia-lo-extended-cycle.html"
+  },
+  {
+    "drug_name": "Amethyst",
+    "url": "https://www.drugs.com/pro/amethyst.html"
+  },
+  {
+    "drug_name": "Amethyst (28 Day)",
+    "url": "https://www.drugs.com/mtm/amethyst-28-day.html"
+  },
+  {
+    "drug_name": "Amevive",
+    "url": "https://www.drugs.com/amevive.html"
+  },
+  {
+    "drug_name": "Amibid LA",
+    "url": "https://www.drugs.com/cons/amibid-la.html"
+  },
+  {
+    "drug_name": "Amicar",
+    "url": "https://www.drugs.com/mtm/amicar.html"
+  },
+  {
+    "drug_name": "Amicar (Aminocaproic acid Intravenous)",
+    "url": "https://www.drugs.com/cons/amicar-aminocaproic-acid-intravenous.html"
+  },
+  {
+    "drug_name": "Amicar (Aminocaproic acid Oral)",
+    "url": "https://www.drugs.com/cons/amicar-aminocaproic-acid-oral.html"
+  },
+  {
+    "drug_name": "Amidate",
+    "url": "https://www.drugs.com/pro/amidate.html"
+  },
+  {
+    "drug_name": "Amifampridine",
+    "url": "https://www.drugs.com/mtm/amifampridine.html"
+  },
+  {
+    "drug_name": "Amifampridine Phosphate",
+    "url": "https://www.drugs.com/monograph/amifampridine-phosphate.html"
+  },
+  {
+    "drug_name": "Amifostine",
+    "url": "https://www.drugs.com/mtm/amifostine.html"
+  },
+  {
+    "drug_name": "Amikacin",
+    "url": "https://www.drugs.com/mtm/amikacin.html"
+  },
+  {
+    "drug_name": "Amikacin liposome",
+    "url": "https://www.drugs.com/mtm/amikacin-liposome.html"
+  },
+  {
+    "drug_name": "Amikin",
+    "url": "https://www.drugs.com/mtm/amikin.html"
+  },
+  {
+    "drug_name": "Amikin Pediatric",
+    "url": "https://www.drugs.com/cons/amikin-pediatric.html"
+  },
+  {
+    "drug_name": "Amiloride",
+    "url": "https://www.drugs.com/mtm/amiloride.html"
+  },
+  {
+    "drug_name": "Amiloride and hydrochlorothiazide",
+    "url": "https://www.drugs.com/cons/amiloride-and-hydrochlorothiazide.html"
+  },
+  {
+    "drug_name": "Amino Acid Injections",
+    "url": "https://www.drugs.com/monograph/amino-acid-injections.html"
+  },
+  {
+    "drug_name": "Amino acids",
+    "url": "https://www.drugs.com/cons/amino-acids.html"
+  },
+  {
+    "drug_name": "Amino acids and electrolytes in dextrose with calcium",
+    "url": "https://www.drugs.com/cons/amino-acids-and-electrolytes-in-dextrose-with-calcium.html"
+  },
+  {
+    "drug_name": "Amino acids in dextrose",
+    "url": "https://www.drugs.com/cons/amino-acids-in-dextrose.html"
+  },
+  {
+    "drug_name": "Amino Acids Injection",
+    "url": "https://www.drugs.com/pro/amino-acids-injection.html"
+  },
+  {
+    "drug_name": "Aminobenzoate potassium",
+    "url": "https://www.drugs.com/cons/aminobenzoate-potassium.html"
+  },
+  {
+    "drug_name": "Aminocaproic",
+    "url": "https://www.drugs.com/pro/aminocaproic.html"
+  },
+  {
+    "drug_name": "Aminocaproic acid",
+    "url": "https://www.drugs.com/mtm/aminocaproic-acid.html"
+  },
+  {
+    "drug_name": "Aminocaproic acid (Intravenous)",
+    "url": "https://www.drugs.com/cons/aminocaproic-acid-intravenous.html"
+  },
+  {
+    "drug_name": "Aminocaproic acid (Oral)",
+    "url": "https://www.drugs.com/cons/aminocaproic-acid-oral.html"
+  },
+  {
+    "drug_name": "Aminocaproic Acid Injection",
+    "url": "https://www.drugs.com/pro/aminocaproic-acid-injection.html"
+  },
+  {
+    "drug_name": "Aminocaproic Acid Oral Solution",
+    "url": "https://www.drugs.com/pro/aminocaproic-acid-oral-solution.html"
+  },
+  {
+    "drug_name": "Aminofen",
+    "url": "https://www.drugs.com/cons/aminofen.html"
+  },
+  {
+    "drug_name": "Aminoglycosides General Statement",
+    "url": "https://www.drugs.com/monograph/aminoglycosides-general-statement.html"
+  },
+  {
+    "drug_name": "Aminohippurate sodium",
+    "url": "https://www.drugs.com/cons/aminohippurate-sodium.html"
+  },
+  {
+    "drug_name": "Aminolevulinic acid",
+    "url": "https://www.drugs.com/mtm/aminolevulinic-acid.html"
+  },
+  {
+    "drug_name": "Aminolevulinic acid (Oral)",
+    "url": "https://www.drugs.com/cons/aminolevulinic-acid-oral.html"
+  },
+  {
+    "drug_name": "Aminolevulinic acid topical",
+    "url": "https://www.drugs.com/mtm/aminolevulinic-acid-topical.html"
+  },
+  {
+    "drug_name": "Aminomine",
+    "url": "https://www.drugs.com/cons/aminomine.html"
+  },
+  {
+    "drug_name": "Aminopenicillins General Statement",
+    "url": "https://www.drugs.com/monograph/aminopenicillins-general-statement.html"
+  },
+  {
+    "drug_name": "Aminophylline (Intravenous)",
+    "url": "https://www.drugs.com/cons/aminophylline-intravenous.html"
+  },
+  {
+    "drug_name": "Aminophylline (Oral)",
+    "url": "https://www.drugs.com/cons/aminophylline-oral.html"
+  },
+  {
+    "drug_name": "Aminophylline injection",
+    "url": "https://www.drugs.com/mtm/aminophylline-injection.html"
+  },
+  {
+    "drug_name": "Aminophylline Oral Solution",
+    "url": "https://www.drugs.com/pro/aminophylline-oral-solution.html"
+  },
+  {
+    "drug_name": "Aminophylline Tablets",
+    "url": "https://www.drugs.com/pro/aminophylline-tablets.html"
+  },
+  {
+    "drug_name": "Aminosalicylate sodium",
+    "url": "https://www.drugs.com/cons/aminosalicylate-sodium.html"
+  },
+  {
+    "drug_name": "Aminosalicylic Acid",
+    "url": "https://www.drugs.com/monograph/aminosalicylic-acid.html"
+  },
+  {
+    "drug_name": "Aminosyn",
+    "url": "https://www.drugs.com/pro/aminosyn.html"
+  },
+  {
+    "drug_name": "Aminosyn 10%",
+    "url": "https://www.drugs.com/pro/aminosyn-10.html"
+  },
+  {
+    "drug_name": "Aminosyn II Injection",
+    "url": "https://www.drugs.com/pro/aminosyn-ii-injection.html"
+  },
+  {
+    "drug_name": "Aminosyn II Sulfite Free",
+    "url": "https://www.drugs.com/pro/aminosyn-ii-sulfite-free.html"
+  },
+  {
+    "drug_name": "Aminosyn-PF Injection",
+    "url": "https://www.drugs.com/pro/aminosyn-pf-injection.html"
+  },
+  {
+    "drug_name": "Aminoxin",
+    "url": "https://www.drugs.com/cons/aminoxin.html"
+  },
+  {
+    "drug_name": "Amiodarone",
+    "url": "https://www.drugs.com/amiodarone.html"
+  },
+  {
+    "drug_name": "Amiodarone (Intravenous)",
+    "url": "https://www.drugs.com/cons/amiodarone-intravenous.html"
+  },
+  {
+    "drug_name": "Amiodarone Hydrochloride",
+    "url": "https://www.drugs.com/monograph/amiodarone-hydrochloride.html"
+  },
+  {
+    "drug_name": "Amiodarone injection",
+    "url": "https://www.drugs.com/mtm/amiodarone-injection.html"
+  },
+  {
+    "drug_name": "Amisulpride",
+    "url": "https://www.drugs.com/mtm/amisulpride.html"
+  },
+  {
+    "drug_name": "Amitiza",
+    "url": "https://www.drugs.com/amitiza.html"
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "url": "https://www.drugs.com/amitriptyline.html"
+  },
+  {
+    "drug_name": "Amitriptyline and chlordiazepoxide",
+    "url": "https://www.drugs.com/mtm/amitriptyline-and-chlordiazepoxide.html"
+  },
+  {
+    "drug_name": "Amitriptyline and perphenazine",
+    "url": "https://www.drugs.com/mtm/amitriptyline-and-perphenazine.html"
+  },
+  {
+    "drug_name": "Amivantamab",
+    "url": "https://www.drugs.com/amivantamab.html"
+  },
+  {
+    "drug_name": "Amivantamab-vmjw",
+    "url": "https://www.drugs.com/cons/amivantamab-vmjw.html"
+  },
+  {
+    "drug_name": "Amjevita",
+    "url": "https://www.drugs.com/amjevita.html"
+  },
+  {
+    "drug_name": "Amjevita Autoinjector",
+    "url": "https://www.drugs.com/mtm/amjevita-autoinjector.html"
+  },
+  {
+    "drug_name": "Amlactin",
+    "url": "https://www.drugs.com/mtm/amlactin.html"
+  },
+  {
+    "drug_name": "AmLactin Cerapeutic",
+    "url": "https://www.drugs.com/mtm/amlactin-cerapeutic.html"
+  },
+  {
+    "drug_name": "AmLactin Foot Cream Therapy",
+    "url": "https://www.drugs.com/mtm/amlactin-foot-cream-therapy.html"
+  },
+  {
+    "drug_name": "Amlactin Ultra",
+    "url": "https://www.drugs.com/mtm/amlactin-ultra.html"
+  },
+  {
+    "drug_name": "Amlexanox",
+    "url": "https://www.drugs.com/cons/amlexanox.html"
+  },
+  {
+    "drug_name": "Amlodipine",
+    "url": "https://www.drugs.com/amlodipine.html"
+  },
+  {
+    "drug_name": "Amlodipine and atorvastatin",
+    "url": "https://www.drugs.com/mtm/amlodipine-and-atorvastatin.html"
+  },
+  {
+    "drug_name": "Amlodipine and Atorvastatin Tablets",
+    "url": "https://www.drugs.com/pro/amlodipine-and-atorvastatin-tablets.html"
+  },
+  {
+    "drug_name": "Amlodipine and benazepril",
+    "url": "https://www.drugs.com/mtm/amlodipine-and-benazepril.html"
+  },
+  {
+    "drug_name": "Amlodipine and celecoxib",
+    "url": "https://www.drugs.com/mtm/amlodipine-and-celecoxib.html"
+  },
+  {
+    "drug_name": "Amlodipine and olmesartan",
+    "url": "https://www.drugs.com/mtm/amlodipine-and-olmesartan.html"
+  },
+  {
+    "drug_name": "Amlodipine and Olmesartan Medoxomil",
+    "url": "https://www.drugs.com/pro/amlodipine-and-olmesartan-medoxomil.html"
+  },
+  {
+    "drug_name": "Amlodipine and perindopril",
+    "url": "https://www.drugs.com/mtm/amlodipine-and-perindopril.html"
+  },
+  {
+    "drug_name": "Amlodipine and telmisartan",
+    "url": "https://www.drugs.com/mtm/amlodipine-and-telmisartan.html"
+  },
+  {
+    "drug_name": "Amlodipine and valsartan",
+    "url": "https://www.drugs.com/mtm/amlodipine-and-valsartan.html"
+  },
+  {
+    "drug_name": "Amlodipine Suspension",
+    "url": "https://www.drugs.com/pro/amlodipine-suspension.html"
+  },
+  {
+    "drug_name": "Amlodipine, hydrochlorothiazide, and olmesartan",
+    "url": "https://www.drugs.com/mtm/amlodipine-hydrochlorothiazide-and-olmesartan.html"
+  },
+  {
+    "drug_name": "Amlodipine, hydrochlorothiazide, and valsartan",
+    "url": "https://www.drugs.com/mtm/amlodipine-hydrochlorothiazide-and-valsartan.html"
+  },
+  {
+    "drug_name": "Amlodipine, valsartan, and hydrochlorothiazide",
+    "url": "https://www.drugs.com/cons/amlodipine-valsartan-and-hydrochlorothiazide.html"
+  },
+  {
+    "drug_name": "Ammens Medicated",
+    "url": "https://www.drugs.com/cons/ammens-medicated.html"
+  },
+  {
+    "drug_name": "Ammonia Inhalants",
+    "url": "https://www.drugs.com/pro/ammonia-inhalants.html"
+  },
+  {
+    "drug_name": "Ammonia N-13",
+    "url": "https://www.drugs.com/pro/ammonia-n-13.html"
+  },
+  {
+    "drug_name": "Ammonia Spirit, Aromatic",
+    "url": "https://www.drugs.com/monograph/ammonia-spirit-aromatic.html"
+  },
+  {
+    "drug_name": "Ammoniated mercury",
+    "url": "https://www.drugs.com/cons/ammoniated-mercury.html"
+  },
+  {
+    "drug_name": "Ammonium Chloride",
+    "url": "https://www.drugs.com/pro/ammonium-chloride.html"
+  },
+  {
+    "drug_name": "Ammonium Lactate",
+    "url": "https://www.drugs.com/pro/ammonium-lactate.html"
+  },
+  {
+    "drug_name": "Ammonium lactate and urea topical",
+    "url": "https://www.drugs.com/mtm/ammonium-lactate-and-urea-topical.html"
+  },
+  {
+    "drug_name": "Ammonium Lactate Cream",
+    "url": "https://www.drugs.com/pro/ammonium-lactate-cream.html"
+  },
+  {
+    "drug_name": "Ammonium lactate topical",
+    "url": "https://www.drugs.com/mtm/ammonium-lactate-topical.html"
+  },
+  {
+    "drug_name": "Ammonium molybdate",
+    "url": "https://www.drugs.com/cons/ammonium-molybdate.html"
+  },
+  {
+    "drug_name": "Ammonul",
+    "url": "https://www.drugs.com/ammonul.html"
+  },
+  {
+    "drug_name": "Amnesteem",
+    "url": "https://www.drugs.com/mtm/amnesteem.html"
+  },
+  {
+    "drug_name": "Amobarbital",
+    "url": "https://www.drugs.com/monograph/amobarbital.html"
+  },
+  {
+    "drug_name": "Amoclan",
+    "url": "https://www.drugs.com/cons/amoclan.html"
+  },
+  {
+    "drug_name": "Amondys 45",
+    "url": "https://www.drugs.com/amondys-45.html"
+  },
+  {
+    "drug_name": "Amoxapine",
+    "url": "https://www.drugs.com/mtm/amoxapine.html"
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "url": "https://www.drugs.com/amoxicillin.html"
+  },
+  {
+    "drug_name": "Amoxicillin and Clavulanate",
+    "url": "https://www.drugs.com/amoxicillin_clavulanate.html"
+  },
+  {
+    "drug_name": "Amoxicillin and Clavulanate Chewable",
+    "url": "https://www.drugs.com/pro/amoxicillin-and-clavulanate-chewable.html"
+  },
+  {
+    "drug_name": "Amoxicillin and Clavulanate ER Tablets",
+    "url": "https://www.drugs.com/pro/amoxicillin-and-clavulanate-er-tablets.html"
+  },
+  {
+    "drug_name": "Amoxicillin and Clavulanate Oral Suspension",
+    "url": "https://www.drugs.com/pro/amoxicillin-and-clavulanate-oral-suspension.html"
+  },
+  {
+    "drug_name": "Amoxicillin and clavulanate potassium",
+    "url": "https://www.drugs.com/mtm/amoxicillin-and-clavulanate-potassium.html"
+  },
+  {
+    "drug_name": "Amoxicillin and Clavulanate Tablets",
+    "url": "https://www.drugs.com/pro/amoxicillin-and-clavulanate-tablets.html"
+  },
+  {
+    "drug_name": "Amoxicillin and vonoprazan",
+    "url": "https://www.drugs.com/mtm/amoxicillin-and-vonoprazan.html"
+  },
+  {
+    "drug_name": "Amoxicillin Capsules",
+    "url": "https://www.drugs.com/pro/amoxicillin-capsules.html"
+  },
+  {
+    "drug_name": "Amoxicillin Chewable",
+    "url": "https://www.drugs.com/pro/amoxicillin-chewable.html"
+  },
+  {
+    "drug_name": "Amoxicillin Extended Release Tablets",
+    "url": "https://www.drugs.com/pro/amoxicillin-extended-release-tablets.html"
+  },
+  {
+    "drug_name": "Amoxicillin Suspension",
+    "url": "https://www.drugs.com/pro/amoxicillin-suspension.html"
+  },
+  {
+    "drug_name": "Amoxicillin Tablets",
+    "url": "https://www.drugs.com/pro/amoxicillin-tablets.html"
+  },
+  {
+    "drug_name": "Amoxicillin, clarithromycin, and lansoprazole",
+    "url": "https://www.drugs.com/mtm/amoxicillin-clarithromycin-and-lansoprazole.html"
+  },
+  {
+    "drug_name": "Amoxicillin, clarithromycin, and omeprazole",
+    "url": "https://www.drugs.com/mtm/amoxicillin-clarithromycin-and-omeprazole.html"
+  },
+  {
+    "drug_name": "Amoxicillin, clarithromycin, and vonoprazan",
+    "url": "https://www.drugs.com/mtm/amoxicillin-clarithromycin-and-vonoprazan.html"
+  },
+  {
+    "drug_name": "Amoxicillin, omeprazole, and rifabutin",
+    "url": "https://www.drugs.com/mtm/amoxicillin-omeprazole-and-rifabutin.html"
+  },
+  {
+    "drug_name": "Amoxicot",
+    "url": "https://www.drugs.com/cons/amoxicot.html"
+  },
+  {
+    "drug_name": "Amoxil",
+    "url": "https://www.drugs.com/amoxil.html"
+  },
+  {
+    "drug_name": "Amphadase",
+    "url": "https://www.drugs.com/amphadase.html"
+  },
+  {
+    "drug_name": "Amphadase injection",
+    "url": "https://www.drugs.com/mtm/amphadase-injection.html"
+  },
+  {
+    "drug_name": "Amphenol-40",
+    "url": "https://www.drugs.com/pro/amphenol-40.html"
+  },
+  {
+    "drug_name": "Amphetamine",
+    "url": "https://www.drugs.com/amphetamine.html"
+  },
+  {
+    "drug_name": "Amphetamine and dextroamphetamine",
+    "url": "https://www.drugs.com/mtm/amphetamine-and-dextroamphetamine.html"
+  },
+  {
+    "drug_name": "Amphetamine Sulfate",
+    "url": "https://www.drugs.com/mtm/amphetamine-sulfate.html"
+  },
+  {
+    "drug_name": "Amphetamine Suspension",
+    "url": "https://www.drugs.com/pro/amphetamine-suspension.html"
+  },
+  {
+    "drug_name": "Amphetamine Tablets",
+    "url": "https://www.drugs.com/pro/amphetamine-tablets.html"
+  },
+  {
+    "drug_name": "Amphetamines General Statement",
+    "url": "https://www.drugs.com/monograph/amphetamines-general-statement.html"
+  },
+  {
+    "drug_name": "Amphocin",
+    "url": "https://www.drugs.com/cons/amphocin.html"
+  },
+  {
+    "drug_name": "Amphojel",
+    "url": "https://www.drugs.com/mtm/amphojel.html"
+  },
+  {
+    "drug_name": "Amphotec",
+    "url": "https://www.drugs.com/cons/amphotec.html"
+  },
+  {
+    "drug_name": "Amphotericin B",
+    "url": "https://www.drugs.com/mtm/amphotericin-b.html"
+  },
+  {
+    "drug_name": "Amphotericin b cholesteryl sulfate complex",
+    "url": "https://www.drugs.com/cons/amphotericin-b-cholesteryl-sulfate-complex.html"
+  },
+  {
+    "drug_name": "Amphotericin B lipid complex",
+    "url": "https://www.drugs.com/mtm/amphotericin-b-lipid-complex.html"
+  },
+  {
+    "drug_name": "Amphotericin B liposomal",
+    "url": "https://www.drugs.com/mtm/amphotericin-b-liposomal.html"
+  },
+  {
+    "drug_name": "Amphotericin b liposome",
+    "url": "https://www.drugs.com/cons/amphotericin-b-liposome.html"
+  },
+  {
+    "drug_name": "Amphotericin B Liposome Injection",
+    "url": "https://www.drugs.com/pro/amphotericin-b-liposome-injection.html"
+  },
+  {
+    "drug_name": "Ampicillin",
+    "url": "https://www.drugs.com/mtm/ampicillin.html"
+  },
+  {
+    "drug_name": "Ampicillin and sulbactam",
+    "url": "https://www.drugs.com/mtm/ampicillin-and-sulbactam.html"
+  },
+  {
+    "drug_name": "Ampicillin and Sulbactam Injection",
+    "url": "https://www.drugs.com/pro/ampicillin-and-sulbactam-injection.html"
+  },
+  {
+    "drug_name": "Ampicillin Capsules",
+    "url": "https://www.drugs.com/pro/ampicillin-capsules.html"
+  },
+  {
+    "drug_name": "Ampicillin injection",
+    "url": "https://www.drugs.com/mtm/ampicillin-injection.html"
+  },
+  {
+    "drug_name": "Ampyra",
+    "url": "https://www.drugs.com/ampyra.html"
+  },
+  {
+    "drug_name": "Amrix",
+    "url": "https://www.drugs.com/mtm/amrix.html"
+  },
+  {
+    "drug_name": "Amsacrine",
+    "url": "https://www.drugs.com/cons/amsacrine.html"
+  },
+  {
+    "drug_name": "Amtagvi",
+    "url": "https://www.drugs.com/amtagvi.html"
+  },
+  {
+    "drug_name": "Amturnide",
+    "url": "https://www.drugs.com/amturnide.html"
+  },
+  {
+    "drug_name": "Amvuttra",
+    "url": "https://www.drugs.com/amvuttra.html"
+  },
+  {
+    "drug_name": "Amyl nitrite",
+    "url": "https://www.drugs.com/cons/amyl-nitrite.html"
+  },
+  {
+    "drug_name": "Amyl Nitrite (Nasal)",
+    "url": "https://www.drugs.com/monograph/amyl-nitrite-nasal.html"
+  },
+  {
+    "drug_name": "Amyl Nitrite Inhalant",
+    "url": "https://www.drugs.com/pro/amyl-nitrite-inhalant.html"
+  },
+  {
+    "drug_name": "Amytal Sodium",
+    "url": "https://www.drugs.com/pro/amytal-sodium.html"
+  },
+  {
+    "drug_name": "Amyvid",
+    "url": "https://www.drugs.com/amyvid.html"
+  },
+  {
+    "drug_name": "Amyvid Injection",
+    "url": "https://www.drugs.com/pro/amyvid-injection.html"
+  },
+  {
+    "drug_name": "Amzeeq",
+    "url": "https://www.drugs.com/mtm/amzeeq.html"
+  },
+  {
+    "drug_name": "An-DTPA",
+    "url": "https://www.drugs.com/cons/an-dtpa.html"
+  },
+  {
+    "drug_name": "Ana-Lex Cream",
+    "url": "https://www.drugs.com/pro/ana-lex-cream.html"
+  },
+  {
+    "drug_name": "Ana-Lex topical/rectal",
+    "url": "https://www.drugs.com/mtm/ana-lex-topical-rectal.html"
+  },
+  {
+    "drug_name": "Anacaine",
+    "url": "https://www.drugs.com/cons/anacaine.html"
+  },
+  {
+    "drug_name": "Anacaulase-bcdb",
+    "url": "https://www.drugs.com/cons/anacaulase-bcdb.html"
+  },
+  {
+    "drug_name": "Anacaulase-bcdb (Topical)",
+    "url": "https://www.drugs.com/monograph/anacaulase-bcdb-topical.html"
+  },
+  {
+    "drug_name": "Anacin",
+    "url": "https://www.drugs.com/anacin.html"
+  },
+  {
+    "drug_name": "Anacin Advanced Headache Formula",
+    "url": "https://www.drugs.com/mtm/anacin-advanced-headache-formula.html"
+  },
+  {
+    "drug_name": "Anacin AF",
+    "url": "https://www.drugs.com/mtm/anacin-af.html"
+  },
+  {
+    "drug_name": "Anacin Aspirin Free",
+    "url": "https://www.drugs.com/cons/anacin-aspirin-free.html"
+  },
+  {
+    "drug_name": "Anacin Extra Strength",
+    "url": "https://www.drugs.com/mtm/anacin-extra-strength.html"
+  },
+  {
+    "drug_name": "Anadrol",
+    "url": "https://www.drugs.com/pro/anadrol.html"
+  },
+  {
+    "drug_name": "Anafranil",
+    "url": "https://www.drugs.com/mtm/anafranil.html"
+  },
+  {
+    "drug_name": "Anagrelide",
+    "url": "https://www.drugs.com/mtm/anagrelide.html"
+  },
+  {
+    "drug_name": "Anakinra",
+    "url": "https://www.drugs.com/mtm/anakinra.html"
+  },
+  {
+    "drug_name": "Analpram HC Cream",
+    "url": "https://www.drugs.com/pro/analpram-hc-cream.html"
+  },
+  {
+    "drug_name": "Analpram HC Lotion",
+    "url": "https://www.drugs.com/pro/analpram-hc-lotion.html"
+  },
+  {
+    "drug_name": "AnaMantle HC",
+    "url": "https://www.drugs.com/cons/anamantle-hc.html"
+  },
+  {
+    "drug_name": "Anaplex DM",
+    "url": "https://www.drugs.com/mtm/anaplex-dm.html"
+  },
+  {
+    "drug_name": "Anaprox",
+    "url": "https://www.drugs.com/cons/anaprox.html"
+  },
+  {
+    "drug_name": "Anaprox-DS",
+    "url": "https://www.drugs.com/mtm/anaprox-ds.html"
+  },
+  {
+    "drug_name": "Anascorp",
+    "url": "https://www.drugs.com/anascorp.html"
+  },
+  {
+    "drug_name": "Anascorp Injection",
+    "url": "https://www.drugs.com/pro/anascorp-injection.html"
+  },
+  {
+    "drug_name": "Anasept",
+    "url": "https://www.drugs.com/mtm/anasept.html"
+  },
+  {
+    "drug_name": "Anasept Cleanser",
+    "url": "https://www.drugs.com/mtm/anasept-cleanser.html"
+  },
+  {
+    "drug_name": "Anaspaz",
+    "url": "https://www.drugs.com/pro/anaspaz.html"
+  },
+  {
+    "drug_name": "Anastrozole",
+    "url": "https://www.drugs.com/mtm/anastrozole.html"
+  },
+  {
+    "drug_name": "Anavip",
+    "url": "https://www.drugs.com/mtm/anavip.html"
+  },
+  {
+    "drug_name": "Anavip (equine)",
+    "url": "https://www.drugs.com/mtm/anavip-equine.html"
+  },
+  {
+    "drug_name": "Anbesol",
+    "url": "https://www.drugs.com/cons/anbesol.html"
+  },
+  {
+    "drug_name": "Anbesol Gel",
+    "url": "https://www.drugs.com/anbesol-gel.html"
+  },
+  {
+    "drug_name": "Ancef",
+    "url": "https://www.drugs.com/cons/ancef.html"
+  },
+  {
+    "drug_name": "Ancobon",
+    "url": "https://www.drugs.com/mtm/ancobon.html"
+  },
+  {
+    "drug_name": "Andehist DM NR Syrup",
+    "url": "https://www.drugs.com/mtm/andehist-dm-nr-syrup.html"
+  },
+  {
+    "drug_name": "Andembry",
+    "url": "https://www.drugs.com/andembry.html"
+  },
+  {
+    "drug_name": "Andexxa",
+    "url": "https://www.drugs.com/mtm/andexxa.html"
+  },
+  {
+    "drug_name": "Andrachne",
+    "url": "https://www.drugs.com/npp/andrachne.html"
+  },
+  {
+    "drug_name": "Androderm",
+    "url": "https://www.drugs.com/cons/androderm.html"
+  },
+  {
+    "drug_name": "AndroGel",
+    "url": "https://www.drugs.com/androgel.html"
+  },
+  {
+    "drug_name": "AndroGel Packets",
+    "url": "https://www.drugs.com/mtm/androgel-packets.html"
+  },
+  {
+    "drug_name": "AndroGel Pump 1.25 g/pump actuation",
+    "url": "https://www.drugs.com/mtm/androgel-pump-1-25-g-pump-actuation.html"
+  },
+  {
+    "drug_name": "Andrographis",
+    "url": "https://www.drugs.com/npp/andrographis.html"
+  },
+  {
+    "drug_name": "Android",
+    "url": "https://www.drugs.com/mtm/android.html"
+  },
+  {
+    "drug_name": "Androxy",
+    "url": "https://www.drugs.com/pro/androxy.html"
+  },
+  {
+    "drug_name": "AneCream",
+    "url": "https://www.drugs.com/mtm/anecream.html"
+  },
+  {
+    "drug_name": "Anectine",
+    "url": "https://www.drugs.com/cons/anectine.html"
+  },
+  {
+    "drug_name": "Anestacon",
+    "url": "https://www.drugs.com/cons/anestacon.html"
+  },
+  {
+    "drug_name": "Anesthesia S/I-40",
+    "url": "https://www.drugs.com/pro/anesthesia-s-i-40.html"
+  },
+  {
+    "drug_name": "Anesthesia S/I-50",
+    "url": "https://www.drugs.com/pro/anesthesia-s-i-50.html"
+  },
+  {
+    "drug_name": "Anesthetic Gel",
+    "url": "https://www.drugs.com/pro/anesthetic-gel.html"
+  },
+  {
+    "drug_name": "Anexsia",
+    "url": "https://www.drugs.com/cons/anexsia.html"
+  },
+  {
+    "drug_name": "Angelica",
+    "url": "https://www.drugs.com/npp/angelica.html"
+  },
+  {
+    "drug_name": "Angeliq",
+    "url": "https://www.drugs.com/angeliq.html"
+  },
+  {
+    "drug_name": "Angiomax",
+    "url": "https://www.drugs.com/mtm/angiomax.html"
+  },
+  {
+    "drug_name": "Angioscein",
+    "url": "https://www.drugs.com/cons/angioscein.html"
+  },
+  {
+    "drug_name": "Angiotensin ii",
+    "url": "https://www.drugs.com/cons/angiotensin-ii.html"
+  },
+  {
+    "drug_name": "Angiotensin II Injection",
+    "url": "https://www.drugs.com/pro/angiotensin-ii-injection.html"
+  },
+  {
+    "drug_name": "Anidulafungin",
+    "url": "https://www.drugs.com/mtm/anidulafungin.html"
+  },
+  {
+    "drug_name": "Anifrolumab",
+    "url": "https://www.drugs.com/anifrolumab.html"
+  },
+  {
+    "drug_name": "Animal Allergens Injection",
+    "url": "https://www.drugs.com/pro/animal-allergens-injection.html"
+  },
+  {
+    "drug_name": "Animi-3",
+    "url": "https://www.drugs.com/pro/animi-3.html"
+  },
+  {
+    "drug_name": "Animi-3 with Vitamin D",
+    "url": "https://www.drugs.com/mtm/animi-3-with-vitamin-d.html"
+  },
+  {
+    "drug_name": "Anise",
+    "url": "https://www.drugs.com/npp/anise.html"
+  },
+  {
+    "drug_name": "Anjeso",
+    "url": "https://www.drugs.com/cons/anjeso.html"
+  },
+  {
+    "drug_name": "Anktiva",
+    "url": "https://www.drugs.com/anktiva.html"
+  },
+  {
+    "drug_name": "Annovera",
+    "url": "https://www.drugs.com/annovera.html"
+  },
+  {
+    "drug_name": "Annovera Ring",
+    "url": "https://www.drugs.com/annovera.html"
+  },
+  {
+    "drug_name": "Anodyne LPT",
+    "url": "https://www.drugs.com/pro/anodyne-lpt.html"
+  },
+  {
+    "drug_name": "Anolor 300",
+    "url": "https://www.drugs.com/cons/anolor-300.html"
+  },
+  {
+    "drug_name": "Anorectal Cream",
+    "url": "https://www.drugs.com/pro/anorectal-cream.html"
+  },
+  {
+    "drug_name": "Anoro Ellipta",
+    "url": "https://www.drugs.com/anoro-ellipta.html"
+  },
+  {
+    "drug_name": "Ansaid",
+    "url": "https://www.drugs.com/cons/ansaid.html"
+  },
+  {
+    "drug_name": "Ansuvimab-zykl",
+    "url": "https://www.drugs.com/cons/ansuvimab-zykl.html"
+  },
+  {
+    "drug_name": "Antabuse",
+    "url": "https://www.drugs.com/antabuse.html"
+  },
+  {
+    "drug_name": "Antacids",
+    "url": "https://www.drugs.com/monograph/antacids.html"
+  },
+  {
+    "drug_name": "Antagon",
+    "url": "https://www.drugs.com/cons/antagon.html"
+  },
+  {
+    "drug_name": "Antara",
+    "url": "https://www.drugs.com/mtm/antara.html"
+  },
+  {
+    "drug_name": "Anthim",
+    "url": "https://www.drugs.com/cons/anthim.html"
+  },
+  {
+    "drug_name": "Anthralin",
+    "url": "https://www.drugs.com/cons/anthralin.html"
+  },
+  {
+    "drug_name": "Anthrasil",
+    "url": "https://www.drugs.com/cons/anthrasil.html"
+  },
+  {
+    "drug_name": "Anthrax immune globulin",
+    "url": "https://www.drugs.com/cons/anthrax-immune-globulin.html"
+  },
+  {
+    "drug_name": "Anthrax Immune Globulin IV (Human)",
+    "url": "https://www.drugs.com/monograph/anthrax-immune-globulin-iv-human.html"
+  },
+  {
+    "drug_name": "Anthrax vaccine",
+    "url": "https://www.drugs.com/mtm/anthrax-vaccine.html"
+  },
+  {
+    "drug_name": "Anthrax Vaccine Adsorbed",
+    "url": "https://www.drugs.com/monograph/anthrax-vaccine-adsorbed.html"
+  },
+  {
+    "drug_name": "Anthrax vaccine adsorbed, adjuvanted",
+    "url": "https://www.drugs.com/cons/anthrax-vaccine-adsorbed-adjuvanted.html"
+  },
+  {
+    "drug_name": "Anti-Dandruff",
+    "url": "https://www.drugs.com/mtm/anti-dandruff.html"
+  },
+  {
+    "drug_name": "Anti-Diarrheal Tablet",
+    "url": "https://www.drugs.com/pro/anti-diarrheal-tablet.html"
+  },
+  {
+    "drug_name": "Anti-Fungal Liquid",
+    "url": "https://www.drugs.com/mtm/anti-fungal-liquid.html"
+  },
+  {
+    "drug_name": "Anti-Gas Ultra Strength",
+    "url": "https://www.drugs.com/cons/anti-gas-ultra-strength.html"
+  },
+  {
+    "drug_name": "Anti-inhibitor coagulant complex",
+    "url": "https://www.drugs.com/mtm/anti-inhibitor-coagulant-complex.html"
+  },
+  {
+    "drug_name": "Anti-Itch Steroid Free",
+    "url": "https://www.drugs.com/mtm/anti-itch-steroid-free.html"
+  },
+  {
+    "drug_name": "Anti-thymocyte globulin rabbit",
+    "url": "https://www.drugs.com/mtm/anti-thymocyte-globulin-rabbit.html"
+  },
+  {
+    "drug_name": "Antibiotic Cream",
+    "url": "https://www.drugs.com/cons/antibiotic-cream.html"
+  },
+  {
+    "drug_name": "Antibiotic Otic",
+    "url": "https://www.drugs.com/cons/antibiotic-otic.html"
+  },
+  {
+    "drug_name": "Anticholium Injection",
+    "url": "https://www.drugs.com/pro/anticholium-injection.html"
+  },
+  {
+    "drug_name": "Anticoagulant Citrate Dextrose A",
+    "url": "https://www.drugs.com/pro/anticoagulant-citrate-dextrose-a.html"
+  },
+  {
+    "drug_name": "Anticoagulant Citrate Phosphate Dextrose Adenine Solution",
+    "url": "https://www.drugs.com/pro/anticoagulant-citrate-phosphate-dextrose-adenine-solution.html"
+  },
+  {
+    "drug_name": "Anticoagulant Citrate Phosphate Double Dextrose Solution",
+    "url": "https://www.drugs.com/pro/anticoagulant-citrate-phosphate-double-dextrose-solution.html"
+  },
+  {
+    "drug_name": "Anticonvulsants General Statement",
+    "url": "https://www.drugs.com/monograph/anticonvulsants-general-statement.html"
+  },
+  {
+    "drug_name": "Antiflex",
+    "url": "https://www.drugs.com/cons/antiflex.html"
+  },
+  {
+    "drug_name": "Antihemophilic and von Willebrand factor complex",
+    "url": "https://www.drugs.com/mtm/antihemophilic-and-von-willebrand-factor-complex.html"
+  },
+  {
+    "drug_name": "Antihemophilic factor",
+    "url": "https://www.drugs.com/cons/antihemophilic-factor.html"
+  },
+  {
+    "drug_name": "Antihemophilic factor (recombinant) pegylated-aucl",
+    "url": "https://www.drugs.com/cons/antihemophilic-factor-recombinant-pegylated-aucl.html"
+  },
+  {
+    "drug_name": "Antihemophilic factor (recombinant) porcine sequence",
+    "url": "https://www.drugs.com/cons/antihemophilic-factor-recombinant-porcine-sequence.html"
+  },
+  {
+    "drug_name": "Antihemophilic Factor (recombinant), Fc Fusion Protein",
+    "url": "https://www.drugs.com/monograph/antihemophilic-factor-recombinant-fc-fusion-protein.html"
+  },
+  {
+    "drug_name": "Antihemophilic factor (recombinant), fc-vwf-xten fusion protein-ehtl",
+    "url": "https://www.drugs.com/cons/antihemophilic-factor-recombinant-fc-vwf-xten-fusion-protein-ehtl.html"
+  },
+  {
+    "drug_name": "Antihemophilic factor (recombinant), glycopegylated-exei",
+    "url": "https://www.drugs.com/cons/antihemophilic-factor-recombinant-glycopegylated-exei.html"
+  },
+  {
+    "drug_name": "Antihemophilic Factor (recombinant), PEGylated",
+    "url": "https://www.drugs.com/monograph/antihemophilic-factor-recombinant-pegylated.html"
+  },
+  {
+    "drug_name": "Antihemophilic factor human",
+    "url": "https://www.drugs.com/mtm/antihemophilic-factor-human.html"
+  },
+  {
+    "drug_name": "Antihemophilic factor recombinant",
+    "url": "https://www.drugs.com/mtm/antihemophilic-factor-recombinant.html"
+  },
+  {
+    "drug_name": "Antihemophilic factor viii and von willebrand factor",
+    "url": "https://www.drugs.com/cons/antihemophilic-factor-viii-and-von-willebrand-factor.html"
+  },
+  {
+    "drug_name": "Antihistamines General Statement",
+    "url": "https://www.drugs.com/monograph/antihistamines-general-statement.html"
+  },
+  {
+    "drug_name": "Antilirium",
+    "url": "https://www.drugs.com/mtm/antilirium.html"
+  },
+  {
+    "drug_name": "Antimuscarinics/Antispasmodics General Statement",
+    "url": "https://www.drugs.com/monograph/antimuscarinics-antispasmodics-general-statement.html"
+  },
+  {
+    "drug_name": "Antinaus 50",
+    "url": "https://www.drugs.com/cons/antinaus-50.html"
+  },
+  {
+    "drug_name": "Antipyrine and benzocaine",
+    "url": "https://www.drugs.com/cons/antipyrine-and-benzocaine.html"
+  },
+  {
+    "drug_name": "Antipyrine and Benzocaine Ear Drops",
+    "url": "https://www.drugs.com/pro/antipyrine-and-benzocaine-ear-drops.html"
+  },
+  {
+    "drug_name": "Antiseptic Skin Cleanser",
+    "url": "https://www.drugs.com/mtm/antiseptic-skin-cleanser.html"
+  },
+  {
+    "drug_name": "Antispasmodic",
+    "url": "https://www.drugs.com/cons/antispasmodic.html"
+  },
+  {
+    "drug_name": "Antithrombin alfa",
+    "url": "https://www.drugs.com/monograph/antithrombin-alfa.html"
+  },
+  {
+    "drug_name": "Antithrombin III (Human)",
+    "url": "https://www.drugs.com/monograph/antithrombin-iii-human.html"
+  },
+  {
+    "drug_name": "Antithymocyte Globulin (Equine)",
+    "url": "https://www.drugs.com/monograph/antithymocyte-globulin-equine.html"
+  },
+  {
+    "drug_name": "Antituberculosis Agents General Statement",
+    "url": "https://www.drugs.com/monograph/antituberculosis-agents-general-statement.html"
+  },
+  {
+    "drug_name": "Antitussin",
+    "url": "https://www.drugs.com/cons/antitussin.html"
+  },
+  {
+    "drug_name": "Antivenin",
+    "url": "https://www.drugs.com/cons/antivenin.html"
+  },
+  {
+    "drug_name": "Antivenin (Crotalidae) polyvalent",
+    "url": "https://www.drugs.com/mtm/antivenin-crotalidae-polyvalent.html"
+  },
+  {
+    "drug_name": "Antivenin (crotalidae) polyvalent immune fab",
+    "url": "https://www.drugs.com/cons/antivenin-crotalidae-polyvalent-immune-fab.html"
+  },
+  {
+    "drug_name": "Antivenin (latrodectus mactans)",
+    "url": "https://www.drugs.com/cons/antivenin-latrodectus-mactans.html"
+  },
+  {
+    "drug_name": "Antivenin (Latrodectus mactans) (Equine)",
+    "url": "https://www.drugs.com/monograph/antivenin-latrodectus-mactans-equine.html"
+  },
+  {
+    "drug_name": "Antivenin (micrurus fulvius)",
+    "url": "https://www.drugs.com/cons/antivenin-micrurus-fulvius.html"
+  },
+  {
+    "drug_name": "Antivenin (Micrurus fulvius) (Equine)",
+    "url": "https://www.drugs.com/monograph/antivenin-micrurus-fulvius-equine.html"
+  },
+  {
+    "drug_name": "Antivenin Black Widow Spider",
+    "url": "https://www.drugs.com/pro/antivenin-black-widow-spider.html"
+  },
+  {
+    "drug_name": "Antivenin North American Coral Snake",
+    "url": "https://www.drugs.com/pro/antivenin-north-american-coral-snake.html"
+  },
+  {
+    "drug_name": "Antivenin Polyvalent",
+    "url": "https://www.drugs.com/cons/antivenin-polyvalent.html"
+  },
+  {
+    "drug_name": "Antivenin-Spider",
+    "url": "https://www.drugs.com/cons/antivenin-spider.html"
+  },
+  {
+    "drug_name": "Antivenom Centruroides scorpion",
+    "url": "https://www.drugs.com/mtm/antivenom-centruroides-scorpion.html"
+  },
+  {
+    "drug_name": "Antivert",
+    "url": "https://www.drugs.com/antivert.html"
+  },
+  {
+    "drug_name": "Antivert/25",
+    "url": "https://www.drugs.com/cons/antivert-25.html"
+  },
+  {
+    "drug_name": "Antivert/50",
+    "url": "https://www.drugs.com/cons/antivert-50.html"
+  },
+  {
+    "drug_name": "Antizol",
+    "url": "https://www.drugs.com/mtm/antizol.html"
+  },
+  {
+    "drug_name": "Anturol",
+    "url": "https://www.drugs.com/anturol.html"
+  },
+  {
+    "drug_name": "Anu-Med rectal",
+    "url": "https://www.drugs.com/mtm/anu-med-rectal.html"
+  },
+  {
+    "drug_name": "Anucort-HC cream, suppository",
+    "url": "https://www.drugs.com/mtm/anucort-hc-cream-suppository.html"
+  },
+  {
+    "drug_name": "Anucort-HC Suppository",
+    "url": "https://www.drugs.com/pro/anucort-hc-suppository.html"
+  },
+  {
+    "drug_name": "Anusol HC",
+    "url": "https://www.drugs.com/cons/anusol-hc.html"
+  },
+  {
+    "drug_name": "Anusol HC Suppository",
+    "url": "https://www.drugs.com/pro/anusol-hc-suppository.html"
+  },
+  {
+    "drug_name": "Anusol-HC cream, suppository",
+    "url": "https://www.drugs.com/mtm/anusol-hc-cream-suppository.html"
+  },
+  {
+    "drug_name": "Anzemet",
+    "url": "https://www.drugs.com/anzemet.html"
+  },
+  {
+    "drug_name": "Anzemet (Dolasetron Intravenous)",
+    "url": "https://www.drugs.com/cons/anzemet-dolasetron-intravenous.html"
+  },
+  {
+    "drug_name": "Anzemet (Dolasetron Oral)",
+    "url": "https://www.drugs.com/cons/anzemet-dolasetron-oral.html"
+  },
+  {
+    "drug_name": "Abecma",
+    "url": "https://www.drugs.com/abecma.html"
+  },
+  {
+    "drug_name": "Abilify",
+    "url": "https://www.drugs.com/abilify.html"
+  },
+  {
+    "drug_name": "Abilify Asimtufii",
+    "url": "https://www.drugs.com/abilify-asimtufii.html"
+  },
+  {
+    "drug_name": "Abilify Maintena",
+    "url": "https://www.drugs.com/abilify-maintena.html"
+  },
+  {
+    "drug_name": "Abiraterone",
+    "url": "https://www.drugs.com/abiraterone.html"
+  },
+  {
+    "drug_name": "Acetaminophen",
+    "url": "https://www.drugs.com/acetaminophen.html"
+  },
+  {
+    "drug_name": "Acetazolamide",
+    "url": "https://www.drugs.com/mtm/acetazolamide.html"
+  },
+  {
+    "drug_name": "Acetylcysteine",
+    "url": "https://www.drugs.com/mtm/acetylcysteine.html"
+  },
+  {
+    "drug_name": "Actemra",
+    "url": "https://www.drugs.com/actemra.html"
+  },
+  {
+    "drug_name": "Actos",
+    "url": "https://www.drugs.com/actos.html"
+  },
+  {
+    "drug_name": "Acyclovir",
+    "url": "https://www.drugs.com/acyclovir.html"
+  },
+  {
+    "drug_name": "Adderall",
+    "url": "https://www.drugs.com/adderall.html"
+  },
+  {
+    "drug_name": "Adderall XR",
+    "url": "https://www.drugs.com/mtm/adderall-xr.html"
+  },
+  {
+    "drug_name": "Advair Diskus",
+    "url": "https://www.drugs.com/mtm/advair-diskus.html"
+  },
+  {
+    "drug_name": "Advil",
+    "url": "https://www.drugs.com/advil.html"
+  },
+  {
+    "drug_name": "Afinitor",
+    "url": "https://www.drugs.com/afinitor.html"
+  },
+  {
+    "drug_name": "Agamree",
+    "url": "https://www.drugs.com/agamree.html"
+  },
+  {
+    "drug_name": "Aimovig",
+    "url": "https://www.drugs.com/aimovig.html"
+  },
+  {
+    "drug_name": "Ajovy",
+    "url": "https://www.drugs.com/ajovy.html"
+  },
+  {
+    "drug_name": "Albuterol",
+    "url": "https://www.drugs.com/albuterol.html"
+  },
+  {
+    "drug_name": "Alecensa",
+    "url": "https://www.drugs.com/alecensa.html"
+  },
+  {
+    "drug_name": "Alendronate",
+    "url": "https://www.drugs.com/mtm/alendronate.html"
+  },
+  {
+    "drug_name": "Alfuzosin",
+    "url": "https://www.drugs.com/cons/alfuzosin.html"
+  },
+  {
+    "drug_name": "Allegra",
+    "url": "https://www.drugs.com/allegra.html"
+  },
+  {
+    "drug_name": "Allopurinol",
+    "url": "https://www.drugs.com/allopurinol.html"
+  },
+  {
+    "drug_name": "Alprazolam",
+    "url": "https://www.drugs.com/alprazolam.html"
+  },
+  {
+    "drug_name": "Alprolix",
+    "url": "https://www.drugs.com/alprolix.html"
+  },
+  {
+    "drug_name": "Alunbrig",
+    "url": "https://www.drugs.com/alunbrig.html"
+  },
+  {
+    "drug_name": "Amantadine",
+    "url": "https://www.drugs.com/amantadine.html"
+  },
+  {
+    "drug_name": "Ambien",
+    "url": "https://www.drugs.com/ambien.html"
+  },
+  {
+    "drug_name": "Ambroxol",
+    "url": "https://www.drugs.com/ambroxol.html"
+  },
+  {
+    "drug_name": "Amiodarone",
+    "url": "https://www.drugs.com/amiodarone.html"
+  },
+  {
+    "drug_name": "Amitriptyline",
+    "url": "https://www.drugs.com/amitriptyline.html"
+  },
+  {
+    "drug_name": "Amlodipine",
+    "url": "https://www.drugs.com/amlodipine.html"
+  },
+  {
+    "drug_name": "Amoxicillin",
+    "url": "https://www.drugs.com/amoxicillin.html"
+  },
+  {
+    "drug_name": "Amoxicillin and Clavulanate",
+    "url": "https://www.drugs.com/amoxicillin_clavulanate.html"
+  },
+  {
+    "drug_name": "Amphetamine and dextroamphetamine",
+    "url": "https://www.drugs.com/mtm/amphetamine-and-dextroamphetamine.html"
+  },
+  {
+    "drug_name": "Ampicillin",
+    "url": "https://www.drugs.com/mtm/ampicillin.html"
+  },
+  {
+    "drug_name": "Amvuttra",
+    "url": "https://www.drugs.com/amvuttra.html"
+  },
+  {
+    "drug_name": "Anastrozole",
+    "url": "https://www.drugs.com/mtm/anastrozole.html"
+  },
+  {
+    "drug_name": "AndroGel",
+    "url": "https://www.drugs.com/androgel.html"
+  },
+  {
+    "drug_name": "Annovera",
+    "url": "https://www.drugs.com/annovera.html"
+  },
+  {
+    "drug_name": "Apalutamide",
+    "url": "https://www.drugs.com/apalutamide.html"
+  },
+  {
+    "drug_name": "Apixaban",
+    "url": "https://www.drugs.com/mtm/apixaban.html"
+  },
+  {
+    "drug_name": "Apokyn",
+    "url": "https://www.drugs.com/apokyn.html"
+  },
+  {
+    "drug_name": "Apriso",
+    "url": "https://www.drugs.com/apriso.html"
+  },
+  {
+    "drug_name": "Aptiom",
+    "url": "https://www.drugs.com/aptiom.html"
+  },
+  {
+    "drug_name": "Aricept",
+    "url": "https://www.drugs.com/aricept.html"
+  },
+  {
+    "drug_name": "Arikayce",
+    "url": "https://www.drugs.com/arikayce.html"
+  },
+  {
+    "drug_name": "Arimidex",
+    "url": "https://www.drugs.com/arimidex.html"
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "url": "https://www.drugs.com/aripiprazole.html"
+  },
+  {
+    "drug_name": "Aristada",
+    "url": "https://www.drugs.com/aristada.html"
+  },
+  {
+    "drug_name": "Aromasin",
+    "url": "https://www.drugs.com/aromasin.html"
+  },
+  {
+    "drug_name": "Aspirin",
+    "url": "https://www.drugs.com/aspirin.html"
+  },
+  {
+    "drug_name": "Atarax",
+    "url": "https://www.drugs.com/atarax.html"
+  },
+  {
+    "drug_name": "Atenolol",
+    "url": "https://www.drugs.com/atenolol.html"
+  },
+  {
+    "drug_name": "Ativan",
+    "url": "https://www.drugs.com/ativan.html"
+  },
+  {
+    "drug_name": "Atogepant",
+    "url": "https://www.drugs.com/atogepant.html"
+  },
+  {
+    "drug_name": "Atomoxetine",
+    "url": "https://www.drugs.com/atomoxetine.html"
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "url": "https://www.drugs.com/atorvastatin.html"
+  },
+  {
+    "drug_name": "Aubagio",
+    "url": "https://www.drugs.com/aubagio.html"
+  },
+  {
+    "drug_name": "Augmentin",
+    "url": "https://www.drugs.com/augmentin.html"
+  },
+  {
+    "drug_name": "Austedo",
+    "url": "https://www.drugs.com/austedo.html"
+  },
+  {
+    "drug_name": "Auvelity",
+    "url": "https://www.drugs.com/auvelity.html"
+  },
+  {
+    "drug_name": "Auvi-Q",
+    "url": "https://www.drugs.com/auvi-q.html"
+  },
+  {
+    "drug_name": "avacincaptad pegol",
+    "url": "https://www.drugs.com/avacincaptad-pegol.html"
+  },
+  {
+    "drug_name": "Avonex",
+    "url": "https://www.drugs.com/avonex.html"
+  },
+  {
+    "drug_name": "Avsola",
+    "url": "https://www.drugs.com/avsola.html"
+  },
+  {
+    "drug_name": "Azathioprine",
+    "url": "https://www.drugs.com/mtm/azathioprine.html"
+  },
+  {
+    "drug_name": "Azelastine",
+    "url": "https://www.drugs.com/pro/azelastine.html"
+  },
+  {
+    "drug_name": "Azilect",
+    "url": "https://www.drugs.com/azilect.html"
+  },
+  {
+    "drug_name": "Azithromycin",
+    "url": "https://www.drugs.com/azithromycin.html"
+  },
+  {
+    "drug_name": "Azulfidine",
+    "url": "https://www.drugs.com/mtm/azulfidine.html"
+  },
+  {
+    "drug_name": "A-Phedrin",
+    "url": "https://www.drugs.com/mtm/a-phedrin.html"
+  },
+  {
+    "drug_name": "Apadamtase alfa, recombinant",
+    "url": "https://www.drugs.com/mtm/apadamtase-alfa-recombinant.html"
+  },
+  {
+    "drug_name": "Apadaz",
+    "url": "https://www.drugs.com/apadaz.html"
+  },
+  {
+    "drug_name": "Apalutamide",
+    "url": "https://www.drugs.com/apalutamide.html"
+  },
+  {
+    "drug_name": "APAP w/Codeine",
+    "url": "https://www.drugs.com/cons/apap-w-codeine.html"
+  },
+  {
+    "drug_name": "ApexiCon",
+    "url": "https://www.drugs.com/mtm/apexicon.html"
+  },
+  {
+    "drug_name": "ApexiCon E",
+    "url": "https://www.drugs.com/mtm/apexicon-e.html"
+  },
+  {
+    "drug_name": "APF Gel",
+    "url": "https://www.drugs.com/cons/apf-gel.html"
+  },
+  {
+    "drug_name": "Aphedrid",
+    "url": "https://www.drugs.com/mtm/aphedrid.html"
+  },
+  {
+    "drug_name": "Aphexda",
+    "url": "https://www.drugs.com/aphexda.html"
+  },
+  {
+    "drug_name": "Aphthasol",
+    "url": "https://www.drugs.com/aphthasol.html"
+  },
+  {
+    "drug_name": "Apidra",
+    "url": "https://www.drugs.com/apidra.html"
+  },
+  {
+    "drug_name": "Apixaban",
+    "url": "https://www.drugs.com/mtm/apixaban.html"
+  },
+  {
+    "drug_name": "Aplenzin",
+    "url": "https://www.drugs.com/aplenzin.html"
+  },
+  {
+    "drug_name": "Aplicare One Hydrogen Peroxide",
+    "url": "https://www.drugs.com/cons/aplicare-one-hydrogen-peroxide.html"
+  },
+  {
+    "drug_name": "Aplicare One Tincture Of Iodine",
+    "url": "https://www.drugs.com/cons/aplicare-one-tincture-of-iodine.html"
+  },
+  {
+    "drug_name": "Aplicare Povidone Iodine Scrub",
+    "url": "https://www.drugs.com/pro/aplicare-povidone-iodine-scrub.html"
+  },
+  {
+    "drug_name": "Aplisol",
+    "url": "https://www.drugs.com/cons/aplisol.html"
+  },
+  {
+    "drug_name": "Apokyn",
+    "url": "https://www.drugs.com/apokyn.html"
+  },
+  {
+    "drug_name": "Apokyn injection",
+    "url": "https://www.drugs.com/mtm/apokyn-injection.html"
+  },
+  {
+    "drug_name": "Apomorphine",
+    "url": "https://www.drugs.com/apomorphine.html"
+  },
+  {
+    "drug_name": "Apomorphine (Subcutaneous)",
+    "url": "https://www.drugs.com/cons/apomorphine-subcutaneous.html"
+  },
+  {
+    "drug_name": "Apomorphine (Sublingual)",
+    "url": "https://www.drugs.com/cons/apomorphine-sublingual.html"
+  },
+  {
+    "drug_name": "Apomorphine injection",
+    "url": "https://www.drugs.com/mtm/apomorphine-injection.html"
+  },
+  {
+    "drug_name": "Aponvie",
+    "url": "https://www.drugs.com/cons/aponvie.html"
+  },
+  {
+    "drug_name": "Appearex",
+    "url": "https://www.drugs.com/mtm/appearex.html"
+  },
+  {
+    "drug_name": "Apple Cider Vinegar",
+    "url": "https://www.drugs.com/npc/apple-cider-vinegar.html"
+  },
+  {
+    "drug_name": "Apples",
+    "url": "https://www.drugs.com/npp/apples.html"
+  },
+  {
+    "drug_name": "Apra",
+    "url": "https://www.drugs.com/cons/apra.html"
+  },
+  {
+    "drug_name": "Apraclonidine",
+    "url": "https://www.drugs.com/cons/apraclonidine.html"
+  },
+  {
+    "drug_name": "Apraclonidine (EENT)",
+    "url": "https://www.drugs.com/monograph/apraclonidine-eent.html"
+  },
+  {
+    "drug_name": "Apraclonidine ophthalmic",
+    "url": "https://www.drugs.com/mtm/apraclonidine-ophthalmic.html"
+  },
+  {
+    "drug_name": "Apremilast",
+    "url": "https://www.drugs.com/apremilast.html"
+  },
+  {
+    "drug_name": "Aprepitant",
+    "url": "https://www.drugs.com/mtm/aprepitant.html"
+  },
+  {
+    "drug_name": "Aprepitant (Intravenous)",
+    "url": "https://www.drugs.com/cons/aprepitant-intravenous.html"
+  },
+  {
+    "drug_name": "Aprepitant (Oral)",
+    "url": "https://www.drugs.com/cons/aprepitant-oral.html"
+  },
+  {
+    "drug_name": "Aprepitant, Fosaprepitant Dimeglumine",
+    "url": "https://www.drugs.com/monograph/aprepitant-fosaprepitant-dimeglumine.html"
+  },
+  {
+    "drug_name": "Apresazide",
+    "url": "https://www.drugs.com/cons/apresazide.html"
+  },
+  {
+    "drug_name": "Apresoline",
+    "url": "https://www.drugs.com/mtm/apresoline.html"
+  },
+  {
+    "drug_name": "Apresoline (Hydralazine Injection)",
+    "url": "https://www.drugs.com/cons/apresoline-hydralazine-injection.html"
+  },
+  {
+    "drug_name": "Apresoline (Hydralazine Oral)",
+    "url": "https://www.drugs.com/cons/apresoline-hydralazine-oral.html"
+  },
+  {
+    "drug_name": "Apretude",
+    "url": "https://www.drugs.com/apretude.html"
+  },
+  {
+    "drug_name": "Apri",
+    "url": "https://www.drugs.com/pro/apri.html"
+  },
+  {
+    "drug_name": "Apri (28 Day)",
+    "url": "https://www.drugs.com/mtm/apri-28-day.html"
+  },
+  {
+    "drug_name": "Apricot",
+    "url": "https://www.drugs.com/npp/apricot.html"
+  },
+  {
+    "drug_name": "Apriso",
+    "url": "https://www.drugs.com/apriso.html"
+  },
+  {
+    "drug_name": "Aprizio Pak",
+    "url": "https://www.drugs.com/pro/aprizio-pak.html"
+  },
+  {
+    "drug_name": "Aprocitentan",
+    "url": "https://www.drugs.com/mtm/aprocitentan.html"
+  },
+  {
+    "drug_name": "Aprodine",
+    "url": "https://www.drugs.com/mtm/aprodine.html"
+  },
+  {
+    "drug_name": "Aptensio XR",
+    "url": "https://www.drugs.com/mtm/aptensio-xr.html"
+  },
+  {
+    "drug_name": "Aptiom",
+    "url": "https://www.drugs.com/aptiom.html"
+  },
+  {
+    "drug_name": "Aptivus",
+    "url": "https://www.drugs.com/aptivus.html"
+  },
+  {
+    "drug_name": "APur Thyroid",
+    "url": "https://www.drugs.com/pro/apur-thyroid.html"
+  },
+  {
+    "drug_name": "Aqneursa",
+    "url": "https://www.drugs.com/aqneursa.html"
+  },
+  {
+    "drug_name": "Aqua Care",
+    "url": "https://www.drugs.com/mtm/aqua-care.html"
+  },
+  {
+    "drug_name": "Aqua Gem-E",
+    "url": "https://www.drugs.com/cons/aqua-gem-e.html"
+  },
+  {
+    "drug_name": "Aqua-Ban",
+    "url": "https://www.drugs.com/mtm/aqua-ban.html"
+  },
+  {
+    "drug_name": "Aquafresh",
+    "url": "https://www.drugs.com/cons/aquafresh.html"
+  },
+  {
+    "drug_name": "Aquamephyton",
+    "url": "https://www.drugs.com/cons/aquamephyton.html"
+  },
+  {
+    "drug_name": "Aquanil HC",
+    "url": "https://www.drugs.com/cons/aquanil-hc.html"
+  },
+  {
+    "drug_name": "Aquaphilic with Urea",
+    "url": "https://www.drugs.com/mtm/aquaphilic-with-urea.html"
+  },
+  {
+    "drug_name": "Aquaphor Healing",
+    "url": "https://www.drugs.com/mtm/aquaphor-healing.html"
+  },
+  {
+    "drug_name": "Aquasol A",
+    "url": "https://www.drugs.com/mtm/aquasol-a.html"
+  },
+  {
+    "drug_name": "Aquasol E",
+    "url": "https://www.drugs.com/cons/aquasol-e.html"
+  },
+  {
+    "drug_name": "Aquatab D",
+    "url": "https://www.drugs.com/mtm/aquatab-d.html"
+  },
+  {
+    "drug_name": "Aquatab DM",
+    "url": "https://www.drugs.com/mtm/aquatab-dm.html"
+  },
+  {
+    "drug_name": "Aquatensen",
+    "url": "https://www.drugs.com/cons/aquatensen.html"
+  },
+  {
+    "drug_name": "Aquax-H Cream",
+    "url": "https://www.drugs.com/pro/aquax-h-cream.html"
+  },
+  {
+    "drug_name": "Aquazide H",
+    "url": "https://www.drugs.com/cons/aquazide-h.html"
+  },
+  {
+    "drug_name": "Aquoral",
+    "url": "https://www.drugs.com/mtm/aquoral.html"
+  },
+  {
+    "drug_name": "Arabinoxylan",
+    "url": "https://www.drugs.com/npc/arabinoxylan.html"
+  },
+  {
+    "drug_name": "Arakoda",
+    "url": "https://www.drugs.com/arakoda.html"
+  },
+  {
+    "drug_name": "Aralast",
+    "url": "https://www.drugs.com/cons/aralast.html"
+  },
+  {
+    "drug_name": "Aralast NP",
+    "url": "https://www.drugs.com/mtm/aralast-np.html"
+  },
+  {
+    "drug_name": "Aralen",
+    "url": "https://www.drugs.com/pro/aralen.html"
+  },
+  {
+    "drug_name": "Aralen Phosphate",
+    "url": "https://www.drugs.com/mtm/aralen-phosphate.html"
+  },
+  {
+    "drug_name": "Aranelle",
+    "url": "https://www.drugs.com/pro/aranelle.html"
+  },
+  {
+    "drug_name": "Aranelle (28 Day) birth control",
+    "url": "https://www.drugs.com/mtm/aranelle-28-day-birth-control.html"
+  },
+  {
+    "drug_name": "Aranesp",
+    "url": "https://www.drugs.com/aranesp.html"
+  },
+  {
+    "drug_name": "Arava",
+    "url": "https://www.drugs.com/arava.html"
+  },
+  {
+    "drug_name": "Arazlo",
+    "url": "https://www.drugs.com/mtm/arazlo.html"
+  },
+  {
+    "drug_name": "Arbinoxa",
+    "url": "https://www.drugs.com/cons/arbinoxa.html"
+  },
+  {
+    "drug_name": "Arbli",
+    "url": "https://www.drugs.com/pro/arbli.html"
+  },
+  {
+    "drug_name": "Arcalyst",
+    "url": "https://www.drugs.com/arcalyst.html"
+  },
+  {
+    "drug_name": "Arcapta",
+    "url": "https://www.drugs.com/arcapta.html"
+  },
+  {
+    "drug_name": "Arcapta Neohaler",
+    "url": "https://www.drugs.com/cons/arcapta-neohaler.html"
+  },
+  {
+    "drug_name": "Arcoxia",
+    "url": "https://www.drugs.com/arcoxia.html"
+  },
+  {
+    "drug_name": "Arctic Relief",
+    "url": "https://www.drugs.com/mtm/arctic-relief.html"
+  },
+  {
+    "drug_name": "Ardeparin",
+    "url": "https://www.drugs.com/cons/ardeparin.html"
+  },
+  {
+    "drug_name": "Aredia",
+    "url": "https://www.drugs.com/mtm/aredia.html"
+  },
+  {
+    "drug_name": "Arestin",
+    "url": "https://www.drugs.com/pro/arestin.html"
+  },
+  {
+    "drug_name": "Arestin mucous membrane powder",
+    "url": "https://www.drugs.com/mtm/arestin-mucous-membrane-powder.html"
+  },
+  {
+    "drug_name": "Arexvy",
+    "url": "https://www.drugs.com/arexvy.html"
+  },
+  {
+    "drug_name": "Arexvy (Respiratory syncytial virus vaccine Intramuscular)",
+    "url": "https://www.drugs.com/cons/arexvy-respiratory-syncytial-virus-vaccine-intramuscular.html"
+  },
+  {
+    "drug_name": "Arexvy (Respiratory syncytial virus vaccine, adjuvanted Intramuscular)",
+    "url": "https://www.drugs.com/cons/arexvy-respiratory-syncytial-virus-vaccine-adjuvanted-intramuscular.html"
+  },
+  {
+    "drug_name": "Arformoterol",
+    "url": "https://www.drugs.com/cons/arformoterol.html"
+  },
+  {
+    "drug_name": "Arformoterol inhalation",
+    "url": "https://www.drugs.com/mtm/arformoterol-inhalation.html"
+  },
+  {
+    "drug_name": "Arformoterol Inhalation Solution",
+    "url": "https://www.drugs.com/pro/arformoterol-inhalation-solution.html"
+  },
+  {
+    "drug_name": "Argania",
+    "url": "https://www.drugs.com/npp/argania.html"
+  },
+  {
+    "drug_name": "Argatroban",
+    "url": "https://www.drugs.com/mtm/argatroban.html"
+  },
+  {
+    "drug_name": "Arginine",
+    "url": "https://www.drugs.com/cons/arginine.html"
+  },
+  {
+    "drug_name": "Aricept",
+    "url": "https://www.drugs.com/aricept.html"
+  },
+  {
+    "drug_name": "Aricept Oral Solution",
+    "url": "https://www.drugs.com/pro/aricept-oral-solution.html"
+  },
+  {
+    "drug_name": "Aricept Tablets",
+    "url": "https://www.drugs.com/pro/aricept-tablets.html"
+  },
+  {
+    "drug_name": "Aridol",
+    "url": "https://www.drugs.com/aridol.html"
+  },
+  {
+    "drug_name": "Aridol Bronchial Challenge Test Kit",
+    "url": "https://www.drugs.com/pro/aridol-bronchial-challenge-test-kit.html"
+  },
+  {
+    "drug_name": "Arikayce",
+    "url": "https://www.drugs.com/arikayce.html"
+  },
+  {
+    "drug_name": "Arimidex",
+    "url": "https://www.drugs.com/arimidex.html"
+  },
+  {
+    "drug_name": "Arimoclomol",
+    "url": "https://www.drugs.com/mtm/arimoclomol.html"
+  },
+  {
+    "drug_name": "Aripiprazole",
+    "url": "https://www.drugs.com/aripiprazole.html"
+  },
+  {
+    "drug_name": "Aripiprazole (Intramuscular)",
+    "url": "https://www.drugs.com/cons/aripiprazole-intramuscular.html"
+  },
+  {
+    "drug_name": "Aripiprazole injection",
+    "url": "https://www.drugs.com/mtm/aripiprazole-injection.html"
+  },
+  {
+    "drug_name": "Aripiprazole lauroxil",
+    "url": "https://www.drugs.com/cons/aripiprazole-lauroxil.html"
+  },
+  {
+    "drug_name": "Aripiprazole ODT",
+    "url": "https://www.drugs.com/pro/aripiprazole-odt.html"
+  },
+  {
+    "drug_name": "Aripiprazole Oral Solution",
+    "url": "https://www.drugs.com/pro/aripiprazole-oral-solution.html"
+  },
+  {
+    "drug_name": "Aripiprazole Tablets",
+    "url": "https://www.drugs.com/pro/aripiprazole-tablets.html"
+  },
+  {
+    "drug_name": "Aristada",
+    "url": "https://www.drugs.com/aristada.html"
+  },
+  {
+    "drug_name": "Aristada Initio",
+    "url": "https://www.drugs.com/cons/aristada-initio.html"
+  },
+  {
+    "drug_name": "Aristada Initio injection",
+    "url": "https://www.drugs.com/mtm/aristada-initio-injection.html"
+  },
+  {
+    "drug_name": "Aristada injection",
+    "url": "https://www.drugs.com/mtm/aristada-injection.html"
+  },
+  {
+    "drug_name": "Aristocort",
+    "url": "https://www.drugs.com/cons/aristocort.html"
+  },
+  {
+    "drug_name": "Aristocort A",
+    "url": "https://www.drugs.com/cons/aristocort-a.html"
+  },
+  {
+    "drug_name": "Aristocort Forte",
+    "url": "https://www.drugs.com/cons/aristocort-forte.html"
+  },
+  {
+    "drug_name": "Aristospan",
+    "url": "https://www.drugs.com/cons/aristospan.html"
+  },
+  {
+    "drug_name": "Arixtra",
+    "url": "https://www.drugs.com/mtm/arixtra.html"
+  },
+  {
+    "drug_name": "Armodafinil",
+    "url": "https://www.drugs.com/armodafinil.html"
+  },
+  {
+    "drug_name": "ArmonAir Digihaler",
+    "url": "https://www.drugs.com/pro/armonair-digihaler.html"
+  },
+  {
+    "drug_name": "Armonair Digihaler with eModule",
+    "url": "https://www.drugs.com/cons/armonair-digihaler-with-emodule.html"
+  },
+  {
+    "drug_name": "Armonair Respiclick",
+    "url": "https://www.drugs.com/cons/armonair-respiclick.html"
+  },
+  {
+    "drug_name": "Armour Thyroid",
+    "url": "https://www.drugs.com/mtm/armour-thyroid.html"
+  },
+  {
+    "drug_name": "Arnica",
+    "url": "https://www.drugs.com/npc/arnica.html"
+  },
+  {
+    "drug_name": "Arnuity Ellipta",
+    "url": "https://www.drugs.com/arnuity-ellipta.html"
+  },
+  {
+    "drug_name": "Aromasin",
+    "url": "https://www.drugs.com/aromasin.html"
+  },
+  {
+    "drug_name": "Aromatic ammonia spirit",
+    "url": "https://www.drugs.com/cons/aromatic-ammonia-spirit.html"
+  },
+  {
+    "drug_name": "Arranon",
+    "url": "https://www.drugs.com/arranon.html"
+  },
+  {
+    "drug_name": "Arrestin",
+    "url": "https://www.drugs.com/cons/arrestin.html"
+  },
+  {
+    "drug_name": "Arsenic trioxide",
+    "url": "https://www.drugs.com/mtm/arsenic-trioxide.html"
+  },
+  {
+    "drug_name": "Arsenic Trioxide Injection",
+    "url": "https://www.drugs.com/pro/arsenic-trioxide-injection.html"
+  },
+  {
+    "drug_name": "Artane",
+    "url": "https://www.drugs.com/cons/artane.html"
+  },
+  {
+    "drug_name": "Artelac Nighttime",
+    "url": "https://www.drugs.com/mtm/artelac-nighttime.html"
+  },
+  {
+    "drug_name": "Artemether and lumefantrine",
+    "url": "https://www.drugs.com/mtm/artemether-and-lumefantrine.html"
+  },
+  {
+    "drug_name": "Artesunate",
+    "url": "https://www.drugs.com/mtm/artesunate.html"
+  },
+  {
+    "drug_name": "Artesunate Injection",
+    "url": "https://www.drugs.com/pro/artesunate-injection.html"
+  },
+  {
+    "drug_name": "Arthricare Cream",
+    "url": "https://www.drugs.com/mtm/arthricare-cream.html"
+  },
+  {
+    "drug_name": "Arthricare For Women",
+    "url": "https://www.drugs.com/cons/arthricare-for-women.html"
+  },
+  {
+    "drug_name": "Arthriten",
+    "url": "https://www.drugs.com/mtm/arthriten.html"
+  },
+  {
+    "drug_name": "Arthritis Pain",
+    "url": "https://www.drugs.com/mtm/arthritis-pain.html"
+  },
+  {
+    "drug_name": "Arthritis Pain Relief",
+    "url": "https://www.drugs.com/cons/arthritis-pain-relief.html"
+  },
+  {
+    "drug_name": "Arthrotec",
+    "url": "https://www.drugs.com/arthrotec.html"
+  },
+  {
+    "drug_name": "Articadent",
+    "url": "https://www.drugs.com/pro/articadent.html"
+  },
+  {
+    "drug_name": "Articadent Dental with Ephinephrine",
+    "url": "https://www.drugs.com/cons/articadent-dental-with-ephinephrine.html"
+  },
+  {
+    "drug_name": "Articaine",
+    "url": "https://www.drugs.com/monograph/articaine.html"
+  },
+  {
+    "drug_name": "Articaine and epinephrine",
+    "url": "https://www.drugs.com/mtm/articaine-and-epinephrine.html"
+  },
+  {
+    "drug_name": "Articaine and Epinephrine Injection",
+    "url": "https://www.drugs.com/pro/articaine-and-epinephrine-injection.html"
+  },
+  {
+    "drug_name": "Artichoke",
+    "url": "https://www.drugs.com/npc/artichoke.html"
+  },
+  {
+    "drug_name": "Artificial Tears",
+    "url": "https://www.drugs.com/mtm/artificial-tears.html"
+  },
+  {
+    "drug_name": "Artiss",
+    "url": "https://www.drugs.com/artiss.html"
+  },
+  {
+    "drug_name": "Artiss Duo Set",
+    "url": "https://www.drugs.com/mtm/artiss-duo-set.html"
+  },
+  {
+    "drug_name": "Artiss Duploject",
+    "url": "https://www.drugs.com/mtm/artiss-duploject.html"
+  },
+  {
+    "drug_name": "Artiss Frozen",
+    "url": "https://www.drugs.com/pro/artiss-frozen.html"
+  },
+  {
+    "drug_name": "Arymo ER",
+    "url": "https://www.drugs.com/cons/arymo-er.html"
+  },
+  {
+    "drug_name": "Arze-Ject-A",
+    "url": "https://www.drugs.com/pro/arze-ject-a.html"
+  },
+  {
+    "drug_name": "Arzerra",
+    "url": "https://www.drugs.com/arzerra.html"
+  },
+  {
+    "drug_name": "Arzerra intravenous",
+    "url": "https://www.drugs.com/mtm/arzerra-intravenous.html"
+  },
+  {
+    "drug_name": "AS 3",
+    "url": "https://www.drugs.com/pro/as-3.html"
+  },
+  {
+    "drug_name": "Asacol",
+    "url": "https://www.drugs.com/pro/asacol.html"
+  },
+  {
+    "drug_name": "Asacol HD",
+    "url": "https://www.drugs.com/asacol.html"
+  },
+  {
+    "drug_name": "Asafoetida",
+    "url": "https://www.drugs.com/npp/asafoetida.html"
+  },
+  {
+    "drug_name": "Ascarel",
+    "url": "https://www.drugs.com/cons/ascarel.html"
+  },
+  {
+    "drug_name": "Asceniv",
+    "url": "https://www.drugs.com/pro/asceniv.html"
+  },
+  {
+    "drug_name": "Asceniv (Immune globulin Intramuscular, Intravenous, Subcutaneous)",
+    "url": "https://www.drugs.com/cons/asceniv-immune-globulin-intramuscular-intravenous-subcutaneous.html"
+  },
+  {
+    "drug_name": "Asceniv (Immune globulin-slra Intravenous)",
+    "url": "https://www.drugs.com/cons/asceniv-immune-globulin-slra-intravenous.html"
+  },
+  {
+    "drug_name": "Asciminib",
+    "url": "https://www.drugs.com/mtm/asciminib.html"
+  },
+  {
+    "drug_name": "Asclera",
+    "url": "https://www.drugs.com/asclera.html"
+  },
+  {
+    "drug_name": "Asclera Injection",
+    "url": "https://www.drugs.com/pro/asclera-injection.html"
+  },
+  {
+    "drug_name": "Ascocid",
+    "url": "https://www.drugs.com/cons/ascocid.html"
+  },
+  {
+    "drug_name": "Ascomp w/Codeine",
+    "url": "https://www.drugs.com/cons/ascomp-w-codeine.html"
+  },
+  {
+    "drug_name": "Ascomp with Codeine",
+    "url": "https://www.drugs.com/mtm/ascomp-with-codeine.html"
+  },
+  {
+    "drug_name": "Ascor",
+    "url": "https://www.drugs.com/cons/ascor.html"
+  },
+  {
+    "drug_name": "Ascor Injection",
+    "url": "https://www.drugs.com/pro/ascor-injection.html"
+  },
+  {
+    "drug_name": "Ascorbic acid",
+    "url": "https://www.drugs.com/mtm/ascorbic-acid.html"
+  },
+  {
+    "drug_name": "Ascorbic acid (Intravenous)",
+    "url": "https://www.drugs.com/cons/ascorbic-acid-intravenous.html"
+  },
+  {
+    "drug_name": "Ascorbic acid (Oral)",
+    "url": "https://www.drugs.com/cons/ascorbic-acid-oral.html"
+  },
+  {
+    "drug_name": "Ascorbic acid and carbonyl iron",
+    "url": "https://www.drugs.com/mtm/ascorbic-acid-and-carbonyl-iron.html"
+  },
+  {
+    "drug_name": "Ascorbic Acid Injection",
+    "url": "https://www.drugs.com/pro/ascorbic-acid-injection.html"
+  },
+  {
+    "drug_name": "Ascorbic Acid Quick Melts",
+    "url": "https://www.drugs.com/mtm/ascorbic-acid-quick-melts.html"
+  },
+  {
+    "drug_name": "Ascriptin",
+    "url": "https://www.drugs.com/cons/ascriptin.html"
+  },
+  {
+    "drug_name": "Asenapine",
+    "url": "https://www.drugs.com/monograph/asenapine.html"
+  },
+  {
+    "drug_name": "Asenapine sublingual",
+    "url": "https://www.drugs.com/mtm/asenapine-sublingual.html"
+  },
+  {
+    "drug_name": "Asenapine Tablets",
+    "url": "https://www.drugs.com/pro/asenapine-tablets.html"
+  },
+  {
+    "drug_name": "Asenapine transdermal",
+    "url": "https://www.drugs.com/mtm/asenapine-transdermal.html"
+  },
+  {
+    "drug_name": "Asendin",
+    "url": "https://www.drugs.com/cons/asendin.html"
+  },
+  {
+    "drug_name": "Asfotase alfa",
+    "url": "https://www.drugs.com/mtm/asfotase-alfa.html"
+  },
+  {
+    "drug_name": "Ashlyna",
+    "url": "https://www.drugs.com/pro/ashlyna.html"
+  },
+  {
+    "drug_name": "Ashlyna (91 Day) extended-cycle",
+    "url": "https://www.drugs.com/mtm/ashlyna-91-day-extended-cycle.html"
+  },
+  {
+    "drug_name": "Ashwagandha",
+    "url": "https://www.drugs.com/npc/ashwagandha.html"
+  },
+  {
+    "drug_name": "Asmanex",
+    "url": "https://www.drugs.com/asmanex.html"
+  },
+  {
+    "drug_name": "Asmanex HFA",
+    "url": "https://www.drugs.com/mtm/asmanex-hfa.html"
+  },
+  {
+    "drug_name": "Asmanex Twist",
+    "url": "https://www.drugs.com/cons/asmanex-twist.html"
+  },
+  {
+    "drug_name": "Asmanex Twisthaler 120 Dose",
+    "url": "https://www.drugs.com/mtm/asmanex-twisthaler-120-dose.html"
+  },
+  {
+    "drug_name": "Asmanex Twisthaler 60 Dose",
+    "url": "https://www.drugs.com/mtm/asmanex-twisthaler-60-dose.html"
+  },
+  {
+    "drug_name": "Asparaginase (Erwinia chrysanthemi) (Recombinant)",
+    "url": "https://www.drugs.com/monograph/asparaginase-erwinia-chrysanthemi-recombinant.html"
+  },
+  {
+    "drug_name": "Asparaginase Erwinia chrysanthemi",
+    "url": "https://www.drugs.com/mtm/asparaginase-erwinia-chrysanthemi.html"
+  },
+  {
+    "drug_name": "Asparaginase erwinia chrysanthemi recombinant-rywn",
+    "url": "https://www.drugs.com/cons/asparaginase-erwinia-chrysanthemi-recombinant-rywn.html"
+  },
+  {
+    "drug_name": "Asparagus",
+    "url": "https://www.drugs.com/npp/asparagus.html"
+  },
+  {
+    "drug_name": "Asparlas",
+    "url": "https://www.drugs.com/mtm/asparlas.html"
+  },
+  {
+    "drug_name": "Aspercreme Arthritis Pain",
+    "url": "https://www.drugs.com/mtm/aspercreme-arthritis-pain.html"
+  },
+  {
+    "drug_name": "Aspercreme Heat Pain Relieving",
+    "url": "https://www.drugs.com/mtm/aspercreme-heat-pain-relieving.html"
+  },
+  {
+    "drug_name": "Aspercreme Warming Pain Relief Patch",
+    "url": "https://www.drugs.com/mtm/aspercreme-warming-pain-relief-patch.html"
+  },
+  {
+    "drug_name": "Asperflex Advance topical",
+    "url": "https://www.drugs.com/mtm/asperflex-advance-topical.html"
+  },
+  {
+    "drug_name": "Aspergum",
+    "url": "https://www.drugs.com/cons/aspergum.html"
+  },
+  {
+    "drug_name": "Aspi-Cor",
+    "url": "https://www.drugs.com/mtm/aspi-cor.html"
+  },
+  {
+    "drug_name": "Aspir-Low",
+    "url": "https://www.drugs.com/mtm/aspir-low.html"
+  },
+  {
+    "drug_name": "Aspirin",
+    "url": "https://www.drugs.com/aspirin.html"
+  },
+  {
+    "drug_name": "Aspirin and caffeine",
+    "url": "https://www.drugs.com/mtm/aspirin-and-caffeine.html"
+  },
+  {
+    "drug_name": "Aspirin and dipyridamole",
+    "url": "https://www.drugs.com/mtm/aspirin-and-dipyridamole.html"
+  },
+  {
+    "drug_name": "Aspirin and Dipyridamole Capsules",
+    "url": "https://www.drugs.com/pro/aspirin-and-dipyridamole-capsules.html"
+  },
+  {
+    "drug_name": "Aspirin and omeprazole",
+    "url": "https://www.drugs.com/mtm/aspirin-and-omeprazole.html"
+  },
+  {
+    "drug_name": "Aspirin and Omeprazole Tablets",
+    "url": "https://www.drugs.com/pro/aspirin-and-omeprazole-tablets.html"
+  },
+  {
+    "drug_name": "Aspirin Low Dose Enteric Coated",
+    "url": "https://www.drugs.com/pro/aspirin-low-dose-enteric-coated.html"
+  },
+  {
+    "drug_name": "Aspirin rectal",
+    "url": "https://www.drugs.com/mtm/aspirin-rectal.html"
+  },
+  {
+    "drug_name": "Aspirin, butalbital, and caffeine",
+    "url": "https://www.drugs.com/mtm/aspirin-butalbital-and-caffeine.html"
+  },
+  {
+    "drug_name": "Aspirin, butalbital, caffeine, and codeine",
+    "url": "https://www.drugs.com/mtm/aspirin-butalbital-caffeine-and-codeine.html"
+  },
+  {
+    "drug_name": "Aspirin, caffeine, and dihydrocodeine",
+    "url": "https://www.drugs.com/cons/aspirin-caffeine-and-dihydrocodeine.html"
+  },
+  {
+    "drug_name": "Aspirin, caffeine, and orphenadrine",
+    "url": "https://www.drugs.com/mtm/aspirin-caffeine-and-orphenadrine.html"
+  },
+  {
+    "drug_name": "Aspirin, carisoprodol, and codeine",
+    "url": "https://www.drugs.com/mtm/aspirin-carisoprodol-and-codeine.html"
+  },
+  {
+    "drug_name": "Aspirin, chlorpheniramine, and phenylephrine",
+    "url": "https://www.drugs.com/mtm/aspirin-chlorpheniramine-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Aspirin, chlorpheniramine, dextromethorphan, and phenylephrine",
+    "url": "https://www.drugs.com/mtm/aspirin-chlorpheniramine-dextromethorphan-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Aspirin, dextromethorphan, doxylamine, and phenylephrine",
+    "url": "https://www.drugs.com/mtm/aspirin-dextromethorphan-doxylamine-and-phenylephrine.html"
+  },
+  {
+    "drug_name": "Aspirin, sodium bicarbonate, and citric acid",
+    "url": "https://www.drugs.com/cons/aspirin-sodium-bicarbonate-and-citric-acid.html"
+  },
+  {
+    "drug_name": "Aspirtab",
+    "url": "https://www.drugs.com/cons/aspirtab.html"
+  },
+  {
+    "drug_name": "Aspruzyo Sprinkle",
+    "url": "https://www.drugs.com/mtm/aspruzyo-sprinkle.html"
+  },
+  {
+    "drug_name": "Assure Sore Throat",
+    "url": "https://www.drugs.com/cons/assure-sore-throat.html"
+  },
+  {
+    "drug_name": "Astagraf XL",
+    "url": "https://www.drugs.com/cons/astagraf-xl.html"
+  },
+  {
+    "drug_name": "Astelin",
+    "url": "https://www.drugs.com/astelin.html"
+  },
+  {
+    "drug_name": "Astelin Ready-Spray",
+    "url": "https://www.drugs.com/cons/astelin-ready-spray.html"
+  },
+  {
+    "drug_name": "Astepro",
+    "url": "https://www.drugs.com/astepro.html"
+  },
+  {
+    "drug_name": "Astepro Allergy",
+    "url": "https://www.drugs.com/pro/astepro-allergy.html"
+  },
+  {
+    "drug_name": "Astero Gel",
+    "url": "https://www.drugs.com/pro/astero-gel.html"
+  },
+  {
+    "drug_name": "Asthmanefrin",
+    "url": "https://www.drugs.com/mtm/asthmanefrin.html"
+  },
+  {
+    "drug_name": "Astragalus",
+    "url": "https://www.drugs.com/npc/astragalus.html"
+  },
+  {
+    "drug_name": "Astramorph PF",
+    "url": "https://www.drugs.com/cons/astramorph-pf.html"
+  },
+  {
+    "drug_name": "AstrinGyn",
+    "url": "https://www.drugs.com/pro/astringyn.html"
+  },
+  {
+    "drug_name": "A/T/S",
+    "url": "https://www.drugs.com/cons/a-t-s.html"
+  },
+  {
+    "drug_name": "Atacand",
+    "url": "https://www.drugs.com/atacand.html"
+  },
+  {
+    "drug_name": "Atacand HCT",
+    "url": "https://www.drugs.com/mtm/atacand-hct.html"
+  },
+  {
+    "drug_name": "Atarax",
+    "url": "https://www.drugs.com/atarax.html"
+  },
+  {
+    "drug_name": "Atazanavir",
+    "url": "https://www.drugs.com/mtm/atazanavir.html"
+  },
+  {
+    "drug_name": "Atazanavir and cobicistat",
+    "url": "https://www.drugs.com/mtm/atazanavir-and-cobicistat.html"
+  },
+  {
+    "drug_name": "Atazanavir Sulfate",
+    "url": "https://www.drugs.com/monograph/atazanavir-sulfate.html"
+  },
+  {
+    "drug_name": "Atelvia",
+    "url": "https://www.drugs.com/atelvia.html"
+  },
+  {
+    "drug_name": "Atenolol",
+    "url": "https://www.drugs.com/atenolol.html"
+  },
+  {
+    "drug_name": "Atenolol (Intravenous)",
+    "url": "https://www.drugs.com/cons/atenolol-intravenous.html"
+  },
+  {
+    "drug_name": "Atenolol and chlorthalidone",
+    "url": "https://www.drugs.com/mtm/atenolol-and-chlorthalidone.html"
+  },
+  {
+    "drug_name": "Atenolol and Chlorthalidone Tablets",
+    "url": "https://www.drugs.com/pro/atenolol-and-chlorthalidone-tablets.html"
+  },
+  {
+    "drug_name": "Atenolol Tablets",
+    "url": "https://www.drugs.com/pro/atenolol-tablets.html"
+  },
+  {
+    "drug_name": "Atezolizumab",
+    "url": "https://www.drugs.com/atezolizumab.html"
+  },
+  {
+    "drug_name": "Atezolizumab and hyaluronidase",
+    "url": "https://www.drugs.com/mtm/atezolizumab-and-hyaluronidase.html"
+  },
+  {
+    "drug_name": "Atgam",
+    "url": "https://www.drugs.com/pro/atgam.html"
+  },
+  {
+    "drug_name": "Atgam equine",
+    "url": "https://www.drugs.com/mtm/atgam-equine.html"
+  },
+  {
+    "drug_name": "Athlete's Foot Cream",
+    "url": "https://www.drugs.com/mtm/athlete-s-foot-cream.html"
+  },
+  {
+    "drug_name": "Atidarsagene autotemcel",
+    "url": "https://www.drugs.com/mtm/atidarsagene-autotemcel.html"
+  },
+  {
+    "drug_name": "Ativan",
+    "url": "https://www.drugs.com/ativan.html"
+  },
+  {
+    "drug_name": "Ativan injection",
+    "url": "https://www.drugs.com/mtm/ativan-injection.html"
+  },
+  {
+    "drug_name": "Ativan Tablets",
+    "url": "https://www.drugs.com/pro/ativan-tablets.html"
+  },
+  {
+    "drug_name": "ATNAA",
+    "url": "https://www.drugs.com/mtm/atnaa.html"
+  },
+  {
+    "drug_name": "Atogepant",
+    "url": "https://www.drugs.com/atogepant.html"
+  },
+  {
+    "drug_name": "Atoltivimab, maftivimab, and odesivimab-ebgn",
+    "url": "https://www.drugs.com/cons/atoltivimab-maftivimab-and-odesivimab-ebgn.html"
+  },
+  {
+    "drug_name": "Atomoxetine",
+    "url": "https://www.drugs.com/atomoxetine.html"
+  },
+  {
+    "drug_name": "Atopica",
+    "url": "https://www.drugs.com/pro/atopica.html"
+  },
+  {
+    "drug_name": "Atorvaliq",
+    "url": "https://www.drugs.com/mtm/atorvaliq.html"
+  },
+  {
+    "drug_name": "Atorvastatin",
+    "url": "https://www.drugs.com/atorvastatin.html"
+  },
+  {
+    "drug_name": "Atorvastatin  Calcium",
+    "url": "https://www.drugs.com/monograph/atorvastatin-calcium.html"
+  },
+  {
+    "drug_name": "Atovaquone",
+    "url": "https://www.drugs.com/mtm/atovaquone.html"
+  },
+  {
+    "drug_name": "Atovaquone and proguanil",
+    "url": "https://www.drugs.com/mtm/atovaquone-and-proguanil.html"
+  },
+  {
+    "drug_name": "Atovaquone Suspension",
+    "url": "https://www.drugs.com/pro/atovaquone-suspension.html"
+  },
+  {
+    "drug_name": "Atrac-Tain",
+    "url": "https://www.drugs.com/mtm/atrac-tain.html"
+  },
+  {
+    "drug_name": "Atracurium",
+    "url": "https://www.drugs.com/monograph/atracurium.html"
+  },
+  {
+    "drug_name": "Atracurium Besylate Injection",
+    "url": "https://www.drugs.com/pro/atracurium-besylate-injection.html"
+  },
+  {
+    "drug_name": "Atralin",
+    "url": "https://www.drugs.com/atralin.html"
+  },
+  {
+    "drug_name": "Atralin Gel",
+    "url": "https://www.drugs.com/pro/atralin-gel.html"
+  },
+  {
+    "drug_name": "Atrasentan",
+    "url": "https://www.drugs.com/mtm/atrasentan.html"
+  },
+  {
+    "drug_name": "Atridox",
+    "url": "https://www.drugs.com/pro/atridox.html"
+  },
+  {
+    "drug_name": "Atripla",
+    "url": "https://www.drugs.com/atripla.html"
+  },
+  {
+    "drug_name": "Atropen",
+    "url": "https://www.drugs.com/cons/atropen.html"
+  },
+  {
+    "drug_name": "AtroPen Auto-Injector injection",
+    "url": "https://www.drugs.com/mtm/atropen-auto-injector-injection.html"
+  },
+  {
+    "drug_name": "Atropine",
+    "url": "https://www.drugs.com/cons/atropine.html"
+  },
+  {
+    "drug_name": "Atropine and diphenoxylate",
+    "url": "https://www.drugs.com/mtm/atropine-and-diphenoxylate.html"
+  },
+  {
+    "drug_name": "Atropine and pralidoxime",
+    "url": "https://www.drugs.com/mtm/atropine-and-pralidoxime.html"
+  },
+  {
+    "drug_name": "Atropine Care",
+    "url": "https://www.drugs.com/cons/atropine-care.html"
+  },
+  {
+    "drug_name": "Atropine injection",
+    "url": "https://www.drugs.com/mtm/atropine-injection.html"
+  },
+  {
+    "drug_name": "Atropine ophthalmic",
+    "url": "https://www.drugs.com/mtm/atropine-ophthalmic.html"
+  },
+  {
+    "drug_name": "Atropine Ophthalmic Solution",
+    "url": "https://www.drugs.com/pro/atropine-ophthalmic-solution.html"
+  },
+  {
+    "drug_name": "Atropine sulfate",
+    "url": "https://www.drugs.com/cons/atropine-sulfate.html"
+  },
+  {
+    "drug_name": "Atropine Sulfate (EENT)",
+    "url": "https://www.drugs.com/monograph/atropine-sulfate-eent.html"
+  },
+  {
+    "drug_name": "Atropine Sulfate Ophthalmic Ointment",
+    "url": "https://www.drugs.com/pro/atropine-sulfate-ophthalmic-ointment.html"
+  },
+  {
+    "drug_name": "Atropine, hyoscyamine, methenamine, methylene blue, phenyl salicylate, and benzoic acid",
+    "url": "https://www.drugs.com/cons/atropine-hyoscyamine-methenamine-methylene-blue-phenyl-salicylate-and-benzoic-acid.html"
+  },
+  {
+    "drug_name": "Atropine-1",
+    "url": "https://www.drugs.com/mtm/atropine-1.html"
+  },
+  {
+    "drug_name": "Atrovent (Ipratropium Inhalation)",
+    "url": "https://www.drugs.com/cons/atrovent-ipratropium-inhalation.html"
+  },
+  {
+    "drug_name": "Atrovent (Ipratropium Nasal)",
+    "url": "https://www.drugs.com/cons/atrovent-ipratropium-nasal.html"
+  },
+  {
+    "drug_name": "Atrovent HFA",
+    "url": "https://www.drugs.com/atrovent.html"
+  },
+  {
+    "drug_name": "Atrovent Nasal",
+    "url": "https://www.drugs.com/mtm/atrovent-nasal.html"
+  },
+  {
+    "drug_name": "Atrovent Nasal Spray",
+    "url": "https://www.drugs.com/pro/atrovent-nasal-spray.html"
+  },
+  {
+    "drug_name": "ATryn",
+    "url": "https://www.drugs.com/atryn.html"
+  },
+  {
+    "drug_name": "Attenuvax",
+    "url": "https://www.drugs.com/cons/attenuvax.html"
+  },
+  {
+    "drug_name": "Atti-Plex P",
+    "url": "https://www.drugs.com/cons/atti-plex-p.html"
+  },
+  {
+    "drug_name": "Attruby",
+    "url": "https://www.drugs.com/attruby.html"
+  },
+  {
+    "drug_name": "Atzumi",
+    "url": "https://www.drugs.com/atzumi.html"
+  }
+]
