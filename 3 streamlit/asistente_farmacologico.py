@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 INDEX_DIR        = "./faiss_index_recursive"
-JSON_DRUGS_PATH  = "./Medicamentos.json"
+JSON_DRUGS_PATH  = "./drug_links.json"
 EMBEDDING_MODEL  = "all-MiniLM-L6-v2"
 TOP_K            = 4  # Reducido para respuestas más rápidas
 
