@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 INDEX_DIR        = "./faiss_index_recursive"
-JSON_DRUGS_PATH  = "./drug_links.json"
+JSON_DRUGS_PATH  = "./Medicamentos.json"
 EMBEDDING_MODEL  = "all-MiniLM-L6-v2"
 TOP_K            = 4  # Reducido para respuestas más rápidas
 
@@ -29,8 +29,8 @@ TOKENS_PER_WORD  = 1.0          # tokens extra por palabra en la pregunta (reduc
 MAX_TOKENS       = 600          # límite duro de salida (reducido para respuestas más rápidas)
 
 AUTORES = (
-    "**Realizado por: Lucas Brusasca • Martin Gaddi • "
-    "Nicolás Palavecino • Paul Lijtmaer • Pedro Durán**"
+    "**Realizado por: Lucas Brusasca • Pedro Durán • Martin Gaddi • "
+    " Paul Lijtmaer • Nicolás Palavecino **"
 )
 
 # ─────────────────────────────  OPTIMIZACIONES  ─────────────────────────────
